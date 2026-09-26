@@ -3,18 +3,18 @@ title: Effects & transitions
 ---
 # Effects & transitions
 
-**86 effects.** Pick what you're doing, or browse everything by type below. Use the search box to find one by name. 💎 = uses limited AI generations. ▶ = added from a YouTube video.
+**87 effects.** Pick what you're doing, or browse everything by type below. Use the search box to find one by name. 💎 = uses limited AI generations. ▶ = added from a YouTube video.
 
 ## By situation
-- **[Kids & family](situations/kids-family.md)** (48)
+- **[Kids & family](situations/kids-family.md)** (49)
 - **[Beach & water](situations/beach-water.md)** (15)
-- **[Travel & scenic](situations/travel-scenic.md)** (45)
+- **[Travel & scenic](situations/travel-scenic.md)** (46)
 - **[Night](situations/night.md)** (3)
 - **[Golf & sport](situations/golf-sport.md)** (7)
 - **[Bicycle](situations/bicycle.md)** (7)
 - **[Car & road trip](situations/car-road-trip.md)** (4)
 - **[Everyday & walking](situations/everyday.md)** (15)
-- **[Just for fun](situations/just-for-fun.md)** (24)
+- **[Just for fun](situations/just-for-fun.md)** (25)
 
 ## Transitions
 
@@ -24,6 +24,7 @@ title: Effects & transitions
 | [Catch / Throw Transition](../effects/catch-throw-transition.md) | Throw something up, cut on the catch elsewhere | Medium |
 | [Gesture Match Cut](../effects/gesture-match-cut.md) | The same clap or click, cut on the gesture | Medium |
 | [Jump-Cut Teleport & Outfit Swap](../effects/jump-cut-teleport.md) | You jump in one spot, land in another | Medium |
+| [Location Swap (Wall Slide Transition)](../effects/location-swap-wall-slide.md) | Same pose, same wall — camera slides sideways to a new place | Medium |
 | [Pass-By Wipe](../effects/pass-by-wipe.md) | Someone passes the lens close up, wiping to elsewhere | Medium |
 | [Roll / Rotation Transition](../effects/roll-rotation-transition.md) | The view rolls 180° across the cut between clips | Medium |
 | [Same Pose, Many Places (Spin Me Around)](../effects/same-pose-many-places.md) | You spin on the stick as the world cuts elsewhere | Medium |

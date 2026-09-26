@@ -3,7 +3,7 @@ title: Kids & family
 ---
 # Kids & family
 
-Fun shots with the kids, family days, and people. **48 effects**, easiest first in each group. ▶ = added from a YouTube video.
+Fun shots with the kids, family days, and people. **49 effects**, easiest first in each group. ▶ = added from a YouTube video.
 
 ## Transitions
 
@@ -12,6 +12,7 @@ Fun shots with the kids, family days, and people. **48 effects**, easiest first 
 | [Catch / Throw Transition](../../effects/catch-throw-transition.md) | Throw something up, cut on the catch elsewhere | Medium |
 | [Gesture Match Cut](../../effects/gesture-match-cut.md) | The same clap or click, cut on the gesture | Medium |
 | [Jump-Cut Teleport & Outfit Swap](../../effects/jump-cut-teleport.md) | You jump in one spot, land in another | Medium |
+| [Location Swap (Wall Slide Transition)](../../effects/location-swap-wall-slide.md) | Same pose, same wall — camera slides sideways to a new place | Medium |
 | [Pass-By Wipe](../../effects/pass-by-wipe.md) | Someone passes the lens close up, wiping to elsewhere | Medium |
 | [Same Pose, Many Places (Spin Me Around)](../../effects/same-pose-many-places.md) | You spin on the stick as the world cuts elsewhere | Medium |
 | [Spin One Photo Into Another](../../effects/spin-photo-into-photo.md) | One 360 photo spins or zooms into the next | Medium |

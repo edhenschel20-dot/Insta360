@@ -3,13 +3,14 @@ title: Travel & scenic
 ---
 # Travel & scenic
 
-Views, landmarks, towns and big reveals. **45 effects**, easiest first in each group. ▶ = added from a YouTube video.
+Views, landmarks, towns and big reveals. **46 effects**, easiest first in each group. ▶ = added from a YouTube video.
 
 ## Transitions
 
 | Effect | What it looks like | Difficulty |
 |---|---|---|
 | [Zoom-In Transition (Zoom Cut)](../../effects/zoom-in-transition.md) | Push in at the cut, then start the next wide | Easy |
+| [Location Swap (Wall Slide Transition)](../../effects/location-swap-wall-slide.md) | Same pose, same wall — camera slides sideways to a new place | Medium |
 | [Pass-By Wipe](../../effects/pass-by-wipe.md) | Someone passes the lens close up, wiping to elsewhere | Medium |
 | [Roll / Rotation Transition](../../effects/roll-rotation-transition.md) | The view rolls 180° across the cut between clips | Medium |
 | [Same Pose, Many Places (Spin Me Around)](../../effects/same-pose-many-places.md) | You spin on the stick as the world cuts elsewhere | Medium |

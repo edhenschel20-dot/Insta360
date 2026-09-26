@@ -3,7 +3,7 @@ title: Just for fun
 ---
 # Just for fun
 
-Crowd-pleasers and silly effects. **24 effects**, easiest first in each group. ▶ = added from a YouTube video.
+Crowd-pleasers and silly effects. **25 effects**, easiest first in each group. ▶ = added from a YouTube video.
 
 ## Transitions
 
@@ -11,6 +11,7 @@ Crowd-pleasers and silly effects. **24 effects**, easiest first in each group. �
 |---|---|---|
 | [Gesture Match Cut](../../effects/gesture-match-cut.md) | The same clap or click, cut on the gesture | Medium |
 | [Jump-Cut Teleport & Outfit Swap](../../effects/jump-cut-teleport.md) | You jump in one spot, land in another | Medium |
+| [Location Swap (Wall Slide Transition)](../../effects/location-swap-wall-slide.md) | Same pose, same wall — camera slides sideways to a new place | Medium |
 | [Spin One Photo Into Another](../../effects/spin-photo-into-photo.md) | One 360 photo spins or zooms into the next | Medium |
 | [Tiny Planet Flip / Planet Landing](../../effects/tiny-planet-flip-transition.md) | View flips between tiny planet and normal | Medium |
 
