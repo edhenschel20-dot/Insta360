@@ -29,6 +29,10 @@ In a desktop NLE (not the phone app), luma-key the sky out of clip A and drop cl
 
 ## Tips
 - This is the one effect in the library that genuinely needs desktop software, not the phone app — plan for it, don't expect a quick phone edit.
+- **Night version ("nightlapse"):** you standing still for ~20 seconds in
+  front of the camera, then a 2–3 minute city timelapse — the app merges
+  the two, rather than needing the desktop composite above.
 
 ## Sources
 - Gimbal Guru (uploaded 2024-01-10, X3-era UI), https://www.youtube.com/watch?v=PZx1yj1pUvA (checked 2026-09-26)
+- Insta360, 2022-10-28, https://www.youtube.com/watch?v=hNc_gS-KabI (checked 2026-09-26)

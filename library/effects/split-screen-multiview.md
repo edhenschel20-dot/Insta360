@@ -30,7 +30,14 @@ Full step-by-step lives in [Multi-View editing how-to](../editing/multi-view.md)
 ## Tips
 - This is the best fixed answer to "who was watching the fireworks" — no tracking needed at all. See [Parades & Fireworks](../shots/parades-and-fireworks.md).
 - April 2026 update added 2/3/4-way layouts, a Car MultiView mode, and rounded-corner/border blending (menu names vary by app version).
+- **Court-side ("kitchen cam"):** clamped on a net post or fence, covers a
+  whole pickleball/tennis court in one wide fixed view; use MultiView to
+  show both ends at once, then punch in on a point afterwards.
+- **Driver + road:** a Car MultiView pairing showing the driver and the
+  road ahead in one frame, from a dash-cam-style interior mount.
 - Best360's 3 m-stick dual-screen recipe — [demo](https://www.youtube.com/watch?v=YyVv2tKdO1U&t=790s); full walkthrough — Air Photography [demo](https://www.youtube.com/watch?v=M-VZiSy8eac).
 
 ## Sources
 - Ben Claremont, "3 quiet Insta360 app updates", 2026-04-24, https://www.benclaremont.com/blog/3-quiet-insta360-app-updates-you-might-have-missed (checked 2026-09-26)
+- Pickleball Traveler Cam, 2025-09-12, https://www.youtube.com/watch?v=xlx0njhKhu4 (checked 2026-09-26)
+- Insta360 Tutorials (X3 car shots), 2022-12-23, https://www.youtube.com/watch?v=d5KJIbrWstQ (checked 2026-09-26)

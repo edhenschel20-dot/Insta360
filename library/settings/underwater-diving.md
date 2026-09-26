@@ -35,8 +35,39 @@ surface swimming without the case.
 - The battery can't be swapped inside the dive case — plan your dive around
   one charge (roughly 70 minutes of continuous 5.7K30 recording, less for
   8K). See [storage and batteries](../gear/storage-and-batteries.md).
+- **Handling underwater:** hold the case sideways so neither lens faces
+  straight up at the surface (that's what causes flare); rotate as little
+  as possible, since every rotation moves the stitch line across whatever
+  you're filming; swim toward the sun rather than away from it; keep
+  subjects at least 1 m away; fins give smoother motion than arm-paddling.
+- **Official framing tip:** point the edge of the camera toward the sun,
+  and keep the dome's centre roughly on your own face for selfie framing.
+- **Dive Case Mode locks most other settings** once it's on — set a
+  Q-button preset (e.g. your preferred resolution/fps) *before* you seal
+  the case, not after.
+- **Using the case above water** (e.g. rain, splashes without submerging)
+  needs its own "invisible dive case above water" stitch setting — it's a
+  different stitch profile from full submersion (menu names vary by app
+  version).
+- **AquaVision 3.0** auto-detects the underwater colour cast; if the
+  correction looks too strong, reduce its intensity rather than turning it
+  off entirely.
+- **Rinse the case in fresh water** and let it soak briefly after any
+  saltwater dive.
+- **After swapping lenses**, re-run stitch calibration before your next
+  dive — it's specific to the lens pair fitted.
+- **Pool days with kids:** the same dive-case setup works fine in a pool,
+  including toddler-height POV shots of them paddling.
 
 ## Sources
 - [X5 Invisible Dive Case Pro](https://store.insta360.com/product/x5-invisible-dive-case-pro) (checked 2026-09-26)
 - [X5 Stitching guide](https://onlinemanual.insta360.com/x5/en-us/camera/basicuse/stitching) (checked 2026-09-26)
 - This project's own `docs/settings-presets.md` (checked 2026-09-26)
+- MountMedia, 2025-07-21, https://www.youtube.com/watch?v=DZ-D1DxKpNo (checked 2026-09-26)
+- Insta360 dive-case guide, 2025-09-15, https://www.youtube.com/watch?v=wqvGM7U2dHo (checked 2026-09-26)
+- Scott Bauer Below, 2026-01-21, https://www.youtube.com/watch?v=VhfA2x89qPA (checked 2026-09-26)
+- The 360 Guy, dive-case setup, 2025-09-10, https://www.youtube.com/watch?v=UIoeG3fga3c (checked 2026-09-26)
+- JORDAN HETRICK, 2025-09-02, https://www.youtube.com/watch?v=mS0EI9In7yw (checked 2026-09-26)
+- 2026-06-30, https://www.youtube.com/watch?v=oa9BQ5q0KZw (checked 2026-09-26)
+- Eat Sleep 360, 2025-07-07, https://www.youtube.com/watch?v=WUazdE4dsVo (checked 2026-09-26)
+- Hugh Hou, 2026-08-15, https://www.youtube.com/watch?v=crtqtl-Ya0I (checked 2026-09-26)

@@ -19,6 +19,35 @@ brightness afterwards.
 | Colour | Standard | Standard |
 | Sharpness | Medium | Medium |
 
+## PureVideo EV — sources disagree
+Creators give different starting points for PureVideo's exposure
+compensation, and rather than silently pick one, here's what each says
+(checked 2026-09-26):
+- Best360: **−0.7**, with white balance locked after an initial auto read
+- Eat Sleep 360: **−0.3**
+- Frank Family Fun: **−1**
+- Learn Online Video: **−3**, for very dark/neon scenes specifically
+
+Read across these as a rough guide: **start at −0.7 and go darker toward
+−3 for neon/bright signage, or lighter toward −0.3 for a more natural
+everyday look.** PureVideo has no manual exposure control at all — if it's
+not giving you what you want, switch to manual: 1/50–1/60 shutter, ISO set
+by checking the histogram (Gaba_VR's approach), rather than fighting the
+auto EV.
+
+**Technique:** the longest stick you have, held with two hands, helps
+steady the slower effective shutter speed at night. In the edit: shadows
+up, highlights down, saturation up is a good starting recipe for night
+clips — see [Colour in the phone app](../editing/colour-in-the-app.md).
+
+**Anti-flicker:** check both the camera's own anti-flicker setting and
+Studio's export-time anti-flicker option if you see banding under
+artificial lights — they're separate controls.
+
+**Gimbal comparison (mention, not a recommendation):** one creator found
+PureVideo can look soft next to gimbal footage, due to its denoising. Not
+a reason to add a gimbal to the kit — just a known trade-off of the mode.
+
 ## Tips
 - The negative EV keeps detail in lights (streetlamps, signs, candles)
   instead of letting them blow out to white blobs. Shadows are easy to

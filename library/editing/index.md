@@ -42,6 +42,16 @@ doesn't do what you need** — most clips don't need manual keyframes at all.
    view. Use it as a starting point to triage a big pile of clips, not as
    the final answer for anything you actually care about.
 
+## Styles and recipes
+Once the reframing is sorted, these cover the finishing touches:
+- [Beat-sync a reel to music](beat-sync-to-music.md) — land a cut or
+  transition on the beat of a trending sound.
+- [Colour in the phone app](colour-in-the-app.md) — where the colour tools
+  hide, and a simple recipe.
+- [Fast holiday reel recipe](fast-holiday-reel.md) — turning a day's clips
+  into a reel with the fewest steps, plus a starter sequence for combining
+  effects into one reel.
+
 ## Before any of this: finding the good bits
 If you've got a long continuous roll, don't scrub through the whole thing
 by hand. See [Finding moments in long clips](finding-moments-in-long-clips.md)

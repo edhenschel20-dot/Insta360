@@ -30,6 +30,13 @@ Direction Lock itself is covered at `H3o30IYsGXg` @161s.
 ## Adapt it
 - **Bicycle:** the same bracing trick works clipped to the handlebar at low speed.
 - **Golf cart:** works the same way, held or clamped to the frame — good for a scenic drive around a course.
+- **Shopping trolley, pushchair, luggage trolley:** camera low on the cart
+  (flexible tube or clamp), Timelapse 11K, 2 s interval, ND16 in bright
+  light, Direction Lock on so the view stays forward through corners.
+- **Escalator / moving walkway:** stand still while the building streams
+  past — 5.7K timelapse with a 0.5 s interval for a longer ride, ND64, hand
+  hidden behind the person in front (or a mini tripod on the step ahead).
+  11K + 2 s interval gives a shorter, wilder warp instead.
 
 ## Settings
 - 5.7K30, Direction Lock on, Motion ND for the blur.
@@ -41,3 +48,4 @@ Direction Lock itself is covered at `H3o30IYsGXg` @161s.
 ## Sources
 - Ben Claremont, 2024-08-27, https://www.youtube.com/watch?v=nTOnQ0aw1U0 (checked 2026-09-26)
 - The 360 Guy, 2026-06-04 (Direction Lock), https://www.youtube.com/watch?v=H3o30IYsGXg (checked 2026-09-26)
+- Insta360 (Brandon Li), 2025-09-12, https://www.youtube.com/watch?v=VBaG9gxgGaY (checked 2026-09-26)

@@ -33,7 +33,16 @@ Also: Best360's version at `UK64zAgZQgY` @466s.
 ## Tips
 - Good one for a snorkel-boat or ferry ride out to a dive/snorkel spot — see [Snorkelling & water settings](../settings/snorkelling-and-water.md) for the rest of that day's setup.
 - Turning the camera sideways on the stick is the detail that sells this — a straight-up stick reads obviously as a selfie stick in the reframe.
+- **3 m stick version:** the extended stick held out from the boat over a
+  harbour or coastline gives a bigger, more convincing "drone" feel than
+  the standard stick — a good alternative when an actual drone isn't
+  practical or allowed.
+- **Jet-ski / rear-deck mount:** an extended stick clamped to the rear
+  deck or rail, pointing back and up, gives a "drone follow" look on a
+  moving boat or jet-ski without anyone holding it.
 
 ## Sources
 - Brandon Li, 2022-08-20, https://www.youtube.com/watch?v=awhRm5ruOuo (checked 2026-09-26)
 - Insta360 Tutorials (Best360), 2024-07-31, https://www.youtube.com/watch?v=UK64zAgZQgY (checked 2026-09-26)
+- Aaron and Cassie, 2026-02-22, https://www.youtube.com/watch?v=-twDRkZcJ04 (checked 2026-09-26)
+- Obi Ski TV, 2025-10-20, https://www.youtube.com/watch?v=vhmilZjjp7w (checked 2026-09-26)

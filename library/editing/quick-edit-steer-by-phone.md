@@ -23,6 +23,10 @@ keyframes, and it saves instantly.
 - Good for walk-throughs, look-arounds, and anything where you just want a
   natural "look around the scene" feel rather than a precise cinematic
   move.
+- Also called **"viewfinder mode"** in some tutorials — same feature: hold
+  record on the clip, physically turn your body and tilt the phone to
+  trace the camera move you want (used for bicycle tiny-planet and
+  hyperlapse-reveal shots, for example).
 - If you mess up partway through, just play it again — it's a live pass,
   not a set of edits you have to undo one at a time.
 - For a precise, repeatable move (a reveal timed exactly to a beat), use
@@ -32,3 +36,5 @@ keyframes, and it saves instantly.
 ## Sources
 - Insta360 blog, "Insta360 Speeds Up Workflow" (Snap Wizard) (checked 2026-09-26)
 - This project's own `docs/research-effects-and-workflows.md` Part 2 (checked 2026-09-26)
+- Best360, app 2.0 guide, 2025-12-07, https://www.youtube.com/watch?v=KD5n1TgPIHY (checked 2026-09-26)
+- Best360, 2023-10-25, https://www.youtube.com/watch?v=hS7eVP-aXrk (checked 2026-09-26)

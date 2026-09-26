@@ -23,7 +23,7 @@ Generative video transformations — the app repaints your clip into a different
 
 ## Edit it (phone app)
 1. **AI Warp** (Shot Lab): pick a clip, choose a preset style — confirmed names include **Cyberpunk**, **Sci-Fi**, **Space** and **Anime** — or a free-text "Custom prompt effect", or paint over an area for a "Custom AI effect". Use the **Preview** button (bottom-left) to see the result before spending a generation.
-2. **For Ed's "Ghost Rider" (son running at camera) or "wave crashing over someone" ideas:** use the painted-area route — paint over the person, type a prompt describing the effect, and let the AI fill just that area. Works best on a steady, well-lit 4-15 s clip with the subject large in frame (tripod, straight run toward camera); results are hit-or-miss, so always Preview first.
+2. **For a "Ghost Rider" (kid running at the camera) or "wave crashing over someone" ideas:** use the painted-area route — paint over the person, type a prompt describing the effect, and let the AI fill just that area. Works best on a steady, well-lit 4-15 s clip with the subject large in frame (tripod, straight run toward camera); results are hit-or-miss, so always Preview first.
 3. **AI Effects** (Edit tab, a separate newer section next to Shot Lab): pick an effect, "Use this theme", pick a clip, wait about a minute for processing.
 4. Seasonal packs (holiday skies/styles) appear from time to time under Sky Swap or AI Warp — free Sky Swap swaps don't use generations, but seasonal AI Warp styles do.
 5. Output carries a permanent "AI Generation" watermark either way.

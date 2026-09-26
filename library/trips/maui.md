@@ -9,7 +9,14 @@ activity-by-activity notes that link back to the general pages.
 
 ## Kit list
 - X5 camera, Invisible Selfie Stick (and the extended one if you're bringing
-  it), Invisible Dive Case Pro
+  it), Invisible Dive Case Pro (the glass-dome version — clearer than the
+  standard plastic dome, for roughly $20 more)
+- Electric Suction Cup Mount — for any car/boat exterior shots on the Road
+  to Hana or a boat trip; see [Accessories that unlock shots](../gear/accessories-for-shots.md)
+- A ground stake (¼″ spike) if you want legless tiny planets on the beach
+  or golf course rough
+- Optionally, a Dive Buddy (buoyancy handle + seabed stand) if you want any
+  hands-free seabed shots while diving
 - 2 batteries currently owned, plus a spare battery or a power bank (see
   battery plan below)
 - 1×256GB card currently owned, plus **two 1TB cards** (recommended — see
@@ -20,6 +27,11 @@ activity-by-activity notes that link back to the general pages.
 - Lens cap — the lenses stick out and scratch easily
 - Cleaning cloth — wipe both lenses before anything that matters
 - Wrist strap (for the helicopter flight and anything over water)
+
+Before the first dive: save a **5.7K60 preset to the Q/power button** (Dive
+Case Mode locks most settings once sealed, so set this ahead of time), and
+check the camera's **all-weather USB-C door** is seated properly if
+charging in humid conditions.
 
 ## Storage and battery plan (17 days, no laptop)
 You already own one 256GB card and two batteries. For 17 days without a
@@ -39,6 +51,9 @@ laptop to offload footage:
   use that to sanity-check whether two 1TB cards is actually enough for the
   rest of the trip — see [storage and batteries](../gear/storage-and-batteries.md)
   for the full method and a worked example.
+- **Download every night** rather than letting several days pile up — one
+  creator's top travel-tip lesson learned the hard way; it also means a
+  lost or damaged card only costs you one day, not the whole trip.
 
 ## Activities
 

@@ -29,7 +29,11 @@ Looks like a camera operator riding or skiing in front of you — actually a mou
 
 ## Tips
 - Good for [Golf](../shots/golf.md), biking and skiing where a real front-facing operator isn't practical.
+- **Handlebar mount angle:** try both a low angle near the front wheel and
+  a higher angle for different feels — keep the pole parallel to the bike
+  and stay under 60 km/h; this mount is rated for roads only.
 
 ## Sources
 - MountMedia, 2026-03-28 (2:18), https://www.youtube.com/watch?v=DZcy1So1Et4 (checked 2026-09-26)
 - Insta360, bike mount announcement, https://www.insta360.com/blog/news/new-bike-mount-for-third-person-shots.html (checked 2026-09-26)
+- Patrick Delorenzi, 2022-07-19, https://www.youtube.com/watch?v=0VVnEbgam34 (checked 2026-09-26)

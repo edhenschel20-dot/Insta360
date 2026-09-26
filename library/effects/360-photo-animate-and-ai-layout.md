@@ -12,7 +12,7 @@ Two photo-editing additions from app version 2.29.0 (July 2026):
 - **Animate:** turns one 360 photo into a moving clip by applying a one-tap camera move within the still image.
 - **AI Layout:** suggests framing/crop options for a 360 still automatically.
 
-This "Animate" feature is one half of Ed's photo-to-photo spin transition idea — see [Spin Transition](spin-transition.md) for how it's combined with a cut into another animated still.
+This "Animate" feature is one half of the photo-to-photo spin transition — see [Spin Transition](spin-transition.md) for how it's combined with a cut into another animated still.
 
 **Difficulty:** Easy · **Works on X5:** Yes
 

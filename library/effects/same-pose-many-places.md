@@ -7,7 +7,7 @@ difficulty: Medium
 tags: [transitions, one-tap, shot-lab, spin]
 ---
 # Same Pose, Many Places (Spin Me Around)
-Ed's "same person, same pose, several locations" idea — you spin on the stick at each place and the app tornado-cuts between them. There's a one-tap template for this, plus manual versions with more control over speed and framing.
+The "same person, same pose, several locations" effect — you spin on the stick at each place and the app tornado-cuts between them. There's a one-tap template for this, plus manual versions with more control over speed and framing.
 
 **Difficulty:** Medium · **Works on X5:** Yes
 

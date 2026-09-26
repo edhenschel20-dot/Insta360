@@ -23,7 +23,7 @@ The camera tracks a subject you pick and bakes out a smooth, gimbal-stable flat 
 3. Choose a gimbal mode (Pitch Lock, Follow or FPV) depending on how much camera movement you want to keep.
 
 ## Edit it (phone app)
-1. Keep **"360 video backup" ON** — this matches how Ed already shoots (always full 360) and means you still have the complete sphere to fall back on if the tracked flat video misses something.
+1. Keep **"360 video backup" ON** — this matches shooting in full 360 and means you still have the complete sphere to fall back on if the tracked flat video misses something.
 2. Review the flat output; if the tracking picked the wrong moment or subject, you still have the 360 backup to reframe manually.
 
 ## Adapt it

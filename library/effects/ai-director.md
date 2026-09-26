@@ -32,10 +32,16 @@ A free, on-camera feature: while your X5 is charging (from 80% battery or above)
 
 ## Tips
 - Because it runs while charging, there's no shoot-time cost at all — turn it on and forget about it.
-- If the auto-edit swings toward people over action (Ed's known issue with the app's other AI auto-edit), this is worth comparing against manually reframing the same footage — it may or may not have the same bias.
+- If the auto-edit swings toward people over action (a known issue with the app's other AI auto-edit), this is worth comparing against manually reframing the same footage — it may or may not have the same bias.
+- **This is the exact "things happen behind you" case from this project's
+  own notes:** one snorkeller's AI Director edit surfaced a turtle that had
+  been behind them the whole time and that they never noticed while
+  shooting — direct evidence for letting long clips roll rather than
+  shooting short, since the AI can catch what you missed.
 
 ## Sources
 - Eat Sleep 360, "I Tested insta360 AI Director - 10 Tips You Need To Know", 2026-08-26, https://www.youtube.com/watch?v=lvqg0kgfsk8 (checked 2026-09-26)
 - RobHK, "Insta360 X6 ZERO Editing EXPLAINED! 3 Ways To Edit with No Experience", https://www.youtube.com/watch?v=297G-NWKSqU (checked 2026-09-26)
 - MountMedia, "The NEW Insta360 Auto Edit Features for the X6 & X5 Explained", https://www.youtube.com/watch?v=uu1UNkbGzbI (checked 2026-09-26)
 - latestupdate.io, X5 firmware log (1.13.21, 2026-09-15) (checked 2026-09-26)
+- Hugh Hou (turtle example), 2026-08-15, https://www.youtube.com/watch?v=crtqtl-Ya0I (checked 2026-09-26)

@@ -32,6 +32,11 @@ The camera passes through or past a railing, bike, doorway or car, and the subje
 ## Tips
 - Doorways, gates and rows of trees all work — see also the doorway/tunnel version under [people shots](../shots/people-shots-with-the-x5.md).
 - Keep the subject at least 1 m from the lens so the stitch line doesn't cut through them.
+- **Get Closer variant:** move the stick physically toward the subject
+  while the pan swings from facing you round to facing them — the
+  combination of a real move and a reframe sells more depth than either
+  alone.
 
 ## Sources
 - MountMedia, 2026-03-28 (4:05), https://www.youtube.com/watch?v=DZcy1So1Et4 (checked 2026-09-26)
+- Best360, 2026-04-10, https://www.youtube.com/watch?v=JRNfhT4cP1w (checked 2026-09-26)

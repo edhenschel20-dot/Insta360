@@ -28,6 +28,9 @@ setup.
   Swim with it, dunk it under, spin it around; frame it later.
 - A short stick or wrist strap is enough at the surface. Save the dive case
   for real depth.
+- See [Underwater diving](underwater-diving.md) for dive-case handling
+  notes (framing toward the sun, minimising rotation, AquaVision 3.0) that
+  also apply if you use the case in a pool or for deeper snorkelling.
 
 ## Sources
 - [Underwater Photography Guide](https://www.insta360.com/blog/tips/underwater-photography.html) (checked 2026-09-26)

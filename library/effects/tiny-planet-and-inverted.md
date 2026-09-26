@@ -37,7 +37,26 @@ The world wrapped into a little ball with you standing on top (tiny planet), or 
 - Full step-by-step for the group version lives in [people-shots-with-the-x5.md](../shots/people-shots-with-the-x5.md).
 - **Location Reveal:** start tight, lift the stick, and end on a tiny planet at the top with the clip slowed to 0.5x — [demo](https://www.youtube.com/watch?v=GmYovhkMmKY&t=626s).
 - Inverted-planet "flower tunnel" variant — [demo](https://www.youtube.com/watch?v=TGSsNRdch-c&t=213s).
+- **Composition rules for tiny planet photos** (Ben Claremont): landmarks
+  end up on *top* of the planet when they're *behind* you as you shoot —
+  turn your back on the view you want featured; find the mid-point between
+  two features you want both visible; keep things around you similar in
+  size for symmetry; hold the camera low so it pops above the horizon;
+  leave breathing room around the planet and keep it centred; export at
+  full resolution, never a screenshot. Take several at each spot.
+- **Ground-level inverted planet:** camera on a mini tripod or stake on
+  the ground among tall things (a palm grove, forest, courtyard); a
+  self-timer lets you step out of shot, but being in it is also fine —
+  he just becomes "the tower." Export as an inverted planet.
+- A **ground stake** (any ¼″ tent-peg-style spike) does this legless — no
+  tripod feet visible in the bottom of the ball.
+- **Bicycle tiny planet:** see [Walking Tiny Planet](walking-tiny-planet.md)
+  for the moving version of this technique, including on a bike.
 
 ## Sources
 - Insta360 X5 tips guide, 2025-04-24, https://www.insta360.com/blog/insta360-x5-tips-shooting-best-settings-guide.html (checked 2026-09-26)
 - Insta360 app manual, Keyframes & Camera Movements, https://onlinemanual.insta360.com/app/en-us/operation-tutorial/edit-function/keyframes-and-camera-movements (checked 2026-09-26)
+- Ben Claremont, 2016-07-04, https://www.youtube.com/watch?v=kV5FgDuJszI (checked 2026-09-26)
+- Ben Claremont, 2016-08-26, https://www.youtube.com/watch?v=LibO63_Xj0s (checked 2026-09-26)
+- Ben Claremont, 2018-10-03, https://www.youtube.com/watch?v=rhm9-BZTAwY (checked 2026-09-26)
+- MrBlack, 2025-06-10, https://www.youtube.com/watch?v=bklKCjE93Xk (checked 2026-09-26)

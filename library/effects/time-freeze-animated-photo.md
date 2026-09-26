@@ -19,6 +19,11 @@ A frozen moment that the camera flies around — built from a single still photo
 
 ## Shoot it
 1. Take a 360 photo (72 MP) of an action pose or a group mid-gesture — arms out, mid-laugh, mid-jump.
+2. **Or pull the still out of a video you already shot:** pause a clip at
+   the exact moment (a jump, a splash) and use ⋯ > **Snapshot > Save as 360
+   image** to freeze it as a full 360 photo, no separate photo needed
+   (menu names vary by app version — confirmed on a 2020 app UI, check it's
+   still there in yours).
 
 ## Edit it (phone app)
 1. Open the photo and use Record/Quick Edit (swipe, or move the phone) to trace a camera path through the still, then export as video.
@@ -34,3 +39,4 @@ A frozen moment that the camera flies around — built from a single still photo
 ## Sources
 - Gimbal Guru (uploaded 2021-01-10, X2-era UI), https://www.youtube.com/watch?v=_BpjaaCGS5E (checked 2026-09-26)
 - Insta360 app listing (one-tap Animate feature), https://apps.apple.com/us/app/insta360/id1491299654 (checked 2026-09-26)
+- Luke Edwin, 2020-07-01, https://www.youtube.com/watch?v=cRObCbz2dcg (checked 2026-09-26)

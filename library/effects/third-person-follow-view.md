@@ -30,8 +30,15 @@ You, seen from above and slightly behind — a "video game" third-person camera,
 
 ## Tips
 - The main limiting factor is wearing the mount comfortably for a whole activity, not the shot itself.
+- **Bike Tail-Mount Drone Chase:** a seat-post/saddle-rail mount (or a
+  clamp on the rear tube) with the stick extended makes a drone-like chase
+  view from behind — smooth tarmac only, too bouncy on gravel.
+- **Backpack TimeShift variant:** TimeShift at 10× in the backpack holder
+  itself, then another 2× on top in the app edit; re-centre your head every
+  few seconds so the reframe has something steady to lock onto.
 
 ## Sources
 - Gimbal Guru (uploaded 2021-01-10, X2-era UI), https://www.youtube.com/watch?v=_BpjaaCGS5E (checked 2026-09-26)
 - MountMedia, "Back Mount Shot", 2026-03-28 (10:20), https://www.youtube.com/watch?v=DZcy1So1Et4 (checked 2026-09-26)
 - Best360, "Backpack Shot", 2025 (11:45) (checked 2026-09-26)
+- Best360, "10 Creative Shots", 2025-05-22, https://www.youtube.com/watch?v=mYMILGQoyfc (checked 2026-09-26)

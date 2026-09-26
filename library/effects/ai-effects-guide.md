@@ -19,7 +19,7 @@ The app is repainting a real clip, not generating one from scratch, so the sourc
 - **Steady footage.** Handheld shake or fast camera movement makes it harder for the AI to track what to repaint; a tripod or a steady stick helps a lot.
 - **A clean, simple background** tends to give more predictable results than a busy, cluttered one.
 
-**For "transformation" style effects specifically** — like a person running toward the camera and turning into something else (Ed's idea: his son running toward him and becoming "Ghost Rider," flaming skull and chains) — the footage that seems to work best is:
+**For "transformation" style effects specifically** — like a person running toward the camera and turning into something else (e.g. a kid running toward you and becoming "Ghost Rider," flaming skull and chains) — the footage that seems to work best is:
 - The subject running or walking **straight toward the camera**, filling more of the frame as they approach.
 - Camera held still (tripod, or braced) so the AI only has to track the person, not compensate for camera motion too.
 - A clear runway with nothing else moving through the shot.

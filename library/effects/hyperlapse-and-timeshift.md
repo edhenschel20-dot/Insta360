@@ -34,7 +34,17 @@ Full settings reference: [Timelapse & TimeShift settings](../settings/timelapse-
 - Constant height and straight lines are what make the edit fast — curves are where extra keyframes get added.
 - **Hyperlapse-to-hyperlapse match:** end one hyperlapse wide on a path, then start the next wide on a path too — the cut reads as continuous — Ben Claremont [demo](https://www.youtube.com/watch?v=U9sb6JGT6Lk&t=516s).
 - TimeShift (in-camera) and Timelapse are different modes, not the same thing (menu names vary by app version); TimeShift defaults to 32x rather than 16x.
+- **Bike hyperlapse recipe (The 360 Guy):** Direction Lock ON, 4 keyframes,
+  16–32× speed, Motion ND with spread/intensity dialled in, zoom in on the
+  first keyframe then back out through the rest. For a version that locks
+  onto a subject instead of the direction of travel, use the same idea with
+  Direction Lock **off**.
+- Ben Claremont's rule: use 16/32/64× clip speed for most hyperlapses; only
+  reach for the dedicated TimeShift mode itself for takes longer than about
+  10 minutes.
 
 ## Sources
 - MountMedia, 2026-03-28 (5:52, 8:43), https://www.youtube.com/watch?v=DZcy1So1Et4 (checked 2026-09-26)
 - Ben Claremont, "All 17 X5 shooting modes", 2025-05-29, https://www.benclaremont.com/blog/insta360-x5-all-17-shooting-modes-full-breakdown (checked 2026-09-26)
+- The 360 Guy, 2026-05-14, https://www.youtube.com/watch?v=g2cQ9AfLeG0 (checked 2026-09-26)
+- Ben Claremont blog, "How to Shoot Epic Fast/Slow Motion", 2026-04-24 (checked 2026-09-26)

@@ -3,7 +3,7 @@ title: Just for fun
 ---
 # Just for fun
 
-Crowd-pleasers and silly effects. **25 effects**, easiest first in each group. â–¶ = added from a YouTube video.
+Crowd-pleasers and silly effects. **32 effects**, easiest first in each group. â–¶ = added from a YouTube video.
 
 ## Transitions
 
@@ -24,6 +24,8 @@ Crowd-pleasers and silly effects. **25 effects**, easiest first in each group. â
 | [Tiny Planet & Inverted Tiny Planet](../../effects/tiny-planet-and-inverted.md) | World wrapped into a tiny ball, or inverted | Easy |
 | [Curtain Reveal / Natural Fade](../../effects/curtain-reveal-natural-fade.md) | Curtains open onto the view, or close for a fade | Medium |
 | [Fake FPV Dive](../../effects/fake-fpv-dive.md) | Fake FPV drone dive down a cliff or slope | Medium |
+| [Hamster Wheel](../../effects/hamster-wheel.md) | You appear to walk inside a giant rolling wheel | Medium |
+| [Tiny Planet Photo Composition](../../effects/tiny-planet-composition.md) | The five rules that make tiny planet photos work | Medium |
 | [Walking Tiny Planet](../../effects/walking-tiny-planet.md) | Run laps around a camera on your own tiny planet | Medium |
 
 ## Stick & mount tricks
@@ -31,18 +33,22 @@ Crowd-pleasers and silly effects. **25 effects**, easiest first in each group. â
 | Effect | What it looks like | Difficulty |
 |---|---|---|
 | [360 Orbit (Hand-Swung)](../../effects/hand-swung-360-orbit.md) | Drone-like orbit around you, swung by hand | Easy |
+| [Crevice Probe / Bug View](../../effects/crevice-probe-bug-view.md) | The camera goes where you can't - crevices, ledges, through grass | Easy |
 | [Stick Freestyle / Windmill Orbit](../../effects/stick-freestyle-windmill-orbit.md) | Wave the stick anywhere; the edit keeps you centred | Medium |
 
 ## Speed & time
 
 | Effect | What it looks like | Difficulty |
 |---|---|---|
+| [Cart / Trolley / Stroller Direction-Lock Timelapse](../../effects/cart-trolley-stroller-timelapse.md) | A trolley, pushchair or golf cart glides forward in timelapse | Easy |
+| [Escalator Timelapse](../../effects/escalator-timelapse.md) | You stand still while the building streams past | Easy |
 | [Freeze Go](../../effects/freeze-go.md) | Video freezes at a jump's peak moment | Easy |
 
 ## Bullet time
 
 | Effect | What it looks like | Difficulty |
 |---|---|---|
+| [Turntable Bullet Time](../../effects/turntable-bullet-time.md) | The Bullet Time spin without holding an arm overhead | Easy |
 | [Bullet Time](../../effects/bullet-time.md) | World spins around you in dramatic slow motion | Medium |
 
 ## Shot Lab & templates
@@ -64,3 +70,9 @@ Crowd-pleasers and silly effects. **25 effects**, easiest first in each group. â
 | [Seasonal AI Scenes](../../effects/seasonal-ai-scenes.md) | Time-limited holiday sky and style packs in Sky Swap / AI Warp | Easy |
 | [AI Effects Guide](../../effects/ai-effects-guide.md) | How to get good results from AI Warp and AI Effects on a limited budget | Medium |
 | [AI Warp & AI Effects](../../effects/ai-warp-and-ai-effects.md) | AI repaints your clip into a new style | Medium |
+
+## X5 modes
+
+| Effect | What it looks like | Difficulty |
+|---|---|---|
+| [Light Painting 360 Photo](../../effects/light-painting-360-photo.md) | Words or shapes drawn in light, hanging in the air around you | Medium |

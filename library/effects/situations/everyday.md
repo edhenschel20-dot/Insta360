@@ -3,7 +3,7 @@ title: Everyday & walking
 ---
 # Everyday & walking
 
-Walking around, everyday moments. **15 effects**, easiest first in each group. â–¶ = added from a YouTube video.
+Walking around, everyday moments. **17 effects**, easiest first in each group. â–¶ = added from a YouTube video.
 
 ## Transitions
 
@@ -20,6 +20,7 @@ Walking around, everyday moments. **15 effects**, easiest first in each group. â
 |---|---|---|
 | [360 Look-Around (Slow Pan)](../../effects/look-around-pan.md) | Slow deliberate pan around your surroundings | Easy |
 | [Movement Templates (One-Tap Camera Moves)](../../effects/movement-templates.md) | 40+ preset camera moves, applied with one tap | Easy |
+| [Perspective-Shift Run & Follow Perspective](../../effects/perspective-shift-run.md) | One clip cut into several different "cameras" | Medium |
 
 ## Stick & mount tricks
 
@@ -42,5 +43,6 @@ Walking around, everyday moments. **15 effects**, easiest first in each group. â
 |---|---|---|
 | [AI Director](../../effects/ai-director.md) | Camera auto-edits your day's clips into one finished video for free | Easy |
 | [Foldable Selfie Stick Remote Kit](../../effects/foldable-selfie-stick-remote-kit.md) | New collapsible stick + remote firmware said to give gimbal-like video | Easy |
+| [Hands-Off Triggers](../../effects/hands-off-triggers.md) | Start a photo or clip without touching the camera | Easy |
 | [Me Mode & FreeFrame](../../effects/me-mode-and-freeframe.md) | Single-lens modes for a stick-holder-only view or later 16:9/9:16 choice | Easy |
 | [InstaFrame & Virtual Gimbal](../../effects/instaframe-and-virtual-gimbal.md) | In-camera tracked, gimbal-smooth flat video with a 360 backup | Medium |

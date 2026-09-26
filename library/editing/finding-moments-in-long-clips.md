@@ -34,8 +34,17 @@ without scrubbing through the whole thing by hand.
 - Don't fight long clips by scrubbing through them manually. Marks, AI
   Highlights, and a rough pre-trim before Auto Edit cover this without
   needing to shoot shorter in the first place.
+- **"The Long Take":** one continuous roll can be reconfigured entirely in
+  post — different segments given different direction, FOV and speed —
+  rather than being treated as one fixed shot. A good mental model for why
+  letting it roll is worth the extra minutes of raw footage.
+- Jordan Hetrick's "why I still film everything": the same argument as this
+  project's own "things happen behind you" reasoning — long, unbroken
+  clips catch moments you'd otherwise miss by stopping and starting.
 
 ## Sources
 - Insta360 X5 manual, "Voice Control" (checked 2026-09-26)
 - Insta360 X5 manual, "AI Highlights Assistant" (checked 2026-09-26)
 - This project's own `docs/long-vs-short-clips.md` (checked 2026-09-26)
+- ProductNation / Insta360 Tutorials, 2025-07-07, https://www.youtube.com/watch?v=3IqkDZtdFK4 (checked 2026-09-26)
+- Jordan Hetrick, 2026-03-16, https://www.youtube.com/watch?v=Wud2M9Wa8wI (checked 2026-09-26)

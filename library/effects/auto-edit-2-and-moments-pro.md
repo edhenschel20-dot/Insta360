@@ -33,7 +33,12 @@ Two related but separate features:
 ## Tips
 - Good as a fast first draft for a day's worth of clips (e.g. a beach day or a scenic drive) before you go in and do any manual reframing.
 - If you want more control over pacing than the auto templates give, fall back to building the timeline by hand.
+- **Night-walk clean-up:** one creator ran a night-walk clip through Auto
+  Edit specifically to tidy up shaky or dark stretches automatically,
+  rather than reframing them by hand — a reasonable use even when you're
+  not building a full themed edit.
 
 ## Sources
 - MountMedia, "The NEW Insta360 Auto Edit Features for the X6 & X5 Explained", 2026-08-10, https://www.youtube.com/watch?v=uu1UNkbGzbI (checked 2026-09-26)
 - Insta360 app manual, Auto Edit, https://onlinemanual.insta360.com/app/en-us/operation-tutorial/edit-function/auto-edit (checked 2026-09-26)
+- Best360, "10 Creative Shots", 2025-05-22, https://www.youtube.com/watch?v=mYMILGQoyfc (checked 2026-09-26)

@@ -3,7 +3,7 @@ title: Kids & family
 ---
 # Kids & family
 
-Fun shots with the kids, family days, and people. **49 effects**, easiest first in each group. ▶ = added from a YouTube video.
+Fun shots with the kids, family days, and people. **67 effects**, easiest first in each group. ▶ = added from a YouTube video.
 
 ## Transitions
 
@@ -27,6 +27,7 @@ Fun shots with the kids, family days, and people. **49 effects**, easiest first 
 | Effect | What it looks like | Difficulty |
 |---|---|---|
 | [360 Spin and Barrel Roll](../../effects/spin-and-barrel-roll.md) | World spins horizontally or rolls end-over-end | Easy |
+| [Court-Side "Kitchen Cam"](../../effects/courtside-kitchen-cam.md) | One fixed camera covers the whole court | Easy |
 | [Fake Drone / Aerial Shot](../../effects/fake-drone-shot.md) | Overhead drone-style shot using just the selfie stick | Easy |
 | [Movement Templates (One-Tap Camera Moves)](../../effects/movement-templates.md) | 40+ preset camera moves, applied with one tap | Easy |
 | [Object Reveal / Push-Through](../../effects/object-reveal-push-through.md) | Subject is revealed as you pass an object | Easy |
@@ -35,7 +36,11 @@ Fun shots with the kids, family days, and people. **49 effects**, easiest first 
 | [Split Screen / MultiView](../../effects/split-screen-multiview.md) | Two to four views of the same moment | Easy |
 | [Time Freeze (Animated 360 Photo)](../../effects/time-freeze-animated-photo.md) | Camera flies around a single frozen photo | Easy |
 | [Tiny Planet & Inverted Tiny Planet](../../effects/tiny-planet-and-inverted.md) | World wrapped into a tiny ball, or inverted | Easy |
+| [Bicycle Tiny Planet](../../effects/bicycle-tiny-planet.md) | You ride on top of your own little planet | Medium |
 | [Dolly Zoom / Horizon Pull](../../effects/dolly-zoom.md) | Classic vertigo effect, subject steady, background zooms | Medium |
+| [Hamster Wheel](../../effects/hamster-wheel.md) | You appear to walk inside a giant rolling wheel | Medium |
+| [Perspective-Shift Run & Follow Perspective](../../effects/perspective-shift-run.md) | One clip cut into several different "cameras" | Medium |
+| [Tiny Planet Photo Composition](../../effects/tiny-planet-composition.md) | The five rules that make tiny planet photos work | Medium |
 | [Tracked-Object POV](../../effects/tracked-object-pov.md) | An object stays centred while the world moves | Medium |
 | [Walking Tiny Planet](../../effects/walking-tiny-planet.md) | Run laps around a camera on your own tiny planet | Medium |
 
@@ -45,17 +50,26 @@ Fun shots with the kids, family days, and people. **49 effects**, easiest first 
 |---|---|---|
 | [360 Orbit (Hand-Swung)](../../effects/hand-swung-360-orbit.md) | Drone-like orbit around you, swung by hand | Easy |
 | [Chest-Mount 360 POV](../../effects/chest-mount-pov.md) | Wide hands-free POV with hands and bike visible | Easy |
+| [Crevice Probe / Bug View](../../effects/crevice-probe-bug-view.md) | The camera goes where you can't - crevices, ledges, through grass | Easy |
+| [Illuminations Roof-Mount Drive-Past](../../effects/christmas-lights-roof-mount-drive-past.md) | Camera on the car roof rolls slowly past a lights display | Easy |
 | [Invisible Selfie Stick Shot](../../effects/invisible-selfie-stick.md) | You filmed as if by an invisible cameraman | Easy |
+| [Legless Tiny Planet via Ground Stake](../../effects/legless-tiny-planet-ground-stake.md) | A tiny planet with no tripod legs in the ball | Easy |
 | [Mouth-Mount / Bite POV](../../effects/mouth-mount-bite-pov.md) | A hands-free POV held in your mouth | Easy |
+| [Over-the-Edge Selfie with Slow Rotation](../../effects/over-the-edge-selfie-slow-rotation.md) | Filmed from out over a pier or drop, with a slow drone-like orbit | Easy |
+| [Wildlife-Between Selfie](../../effects/wildlife-between-selfie.md) | A turtle or fish fills the frame with you still visible behind it | Easy |
+| [Front-Wheel POV](../../effects/front-wheel-pov.md) | Camera rides the front wheel, looking up at you | Medium |
+| [Seabed Drop & Swim-Around](../../effects/seabed-drop-and-swim-around.md) | Camera sits on the sand while you and the fish circle it | Medium |
 | [Stick Freestyle / Windmill Orbit](../../effects/stick-freestyle-windmill-orbit.md) | Wave the stick anywhere; the edit keeps you centred | Medium |
 
 ## Speed & time
 
 | Effect | What it looks like | Difficulty |
 |---|---|---|
+| [Cart / Trolley / Stroller Direction-Lock Timelapse](../../effects/cart-trolley-stroller-timelapse.md) | A trolley, pushchair or golf cart glides forward in timelapse | Easy |
 | [Freeze Go](../../effects/freeze-go.md) | Video freezes at a jump's peak moment | Easy |
 | [Slow-Mo Particle Shot](../../effects/slow-mo-particle-shot.md) | Spray, sand, snow or bubbles drifting past in slow motion | Easy |
 | [Slow-Motion Tracked Run](../../effects/slow-motion-tracked-run.md) | Cinematic slow motion of someone running or riding | Easy |
+| [Fireworks Two-Parter](../../effects/fireworks-two-parter.md) | Sunset timelapse pans onto fireworks, then handheld PureVideo | Medium |
 | [Speed Ramp](../../effects/speed-ramp.md) | Fast, then real-time, then fast again | Medium |
 
 ## Bullet time
@@ -63,7 +77,9 @@ Fun shots with the kids, family days, and people. **49 effects**, easiest first 
 | Effect | What it looks like | Difficulty |
 |---|---|---|
 | [Bullet Time Mix](../../effects/bullet-time-mix.md) | Stitches several Bullet Time clips into one reel | Easy |
+| [Turntable Bullet Time](../../effects/turntable-bullet-time.md) | The Bullet Time spin without holding an arm overhead | Easy |
 | [Bullet Time](../../effects/bullet-time.md) | World spins around you in dramatic slow motion | Medium |
+| [Low-Angle Ground Spin](../../effects/low-angle-ground-spin.md) | A no-cord bullet-time-style orbit from knee height | Medium |
 
 ## Shot Lab & templates
 
@@ -92,4 +108,6 @@ Fun shots with the kids, family days, and people. **49 effects**, easiest first 
 | Effect | What it looks like | Difficulty |
 |---|---|---|
 | [AI Director](../../effects/ai-director.md) | Camera auto-edits your day's clips into one finished video for free | Easy |
+| [Hands-Off Triggers](../../effects/hands-off-triggers.md) | Start a photo or clip without touching the camera | Easy |
 | [InstaFrame & Virtual Gimbal](../../effects/instaframe-and-virtual-gimbal.md) | In-camera tracked, gimbal-smooth flat video with a 360 backup | Medium |
+| [Light Painting 360 Photo](../../effects/light-painting-360-photo.md) | Words or shapes drawn in light, hanging in the air around you | Medium |

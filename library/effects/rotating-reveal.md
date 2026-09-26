@@ -33,7 +33,11 @@ The camera glides forward, then the view swings round to show what's behind or a
 
 ## Tips
 - This is the cheapest "wow" move in the whole library: two keyframes, one ease curve.
-- Works from any of Ed's normal rolling footage — no need to plan the shot in advance.
+- Works from any normal rolling footage — no need to plan the shot in advance.
+- **Turnaround variant:** hold on a nearby building or feature for about 3
+  seconds, pan for 2 seconds, then tilt up to reveal the wider scene above
+  it — a quick, structured take on the same idea.
 
 ## Sources
 - MountMedia, "The Best Creative Shot Ideas For the Insta360 X5", 2026-03-28, https://www.youtube.com/watch?v=DZcy1So1Et4 (checked 2026-09-26)
+- Best360, 2026-04-10, https://www.youtube.com/watch?v=JRNfhT4cP1w (checked 2026-09-26)

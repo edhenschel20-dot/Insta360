@@ -29,7 +29,13 @@ This mode is built for motorcycle and car dash-cam use specifically — continuo
 
 ## Tips
 - Only reach for Road Mode if continuous, uninterrupted coverage genuinely matters (e.g. dashcam-style safety recording); for capturing highlights of a road trip, ordinary clips reframe and edit far more easily.
+- **Road Mode vs single-lens Loop mode as a travel dash cam:** one creator
+  compares the two directly as dash-cam options — worth a watch if you're
+  specifically weighing Road Mode against single-lens Loop recording,
+  though this project still defaults to full 360 and ordinary clips (see
+  above) for anything beyond genuine dash-cam use.
 
 ## Sources
 - Ben Claremont, "EVERY Insta360 X5 Shooting Mode Explained!", 2025-05-29, https://www.youtube.com/watch?v=lFkxnXitsEU (checked 2026-09-26)
+- Gear on the Go, 2025-09-10, https://www.youtube.com/watch?v=1elMHlo4zc4 (checked 2026-09-26)
 - latestupdate.io, X5 firmware log (1.11.6, 2026-04-13) (checked 2026-09-26)

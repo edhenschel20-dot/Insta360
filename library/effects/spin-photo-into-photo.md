@@ -7,7 +7,7 @@ difficulty: Medium
 tags: [transitions, photos, one-tap, shot-lab]
 ---
 # Spin One Photo Into Another
-Ed's "spin one photo into another" idea — there's no single one-tap template that does the whole thing, but two in-app pieces combine to get there: animate each still, then cut between them with a spin-style transition.
+The "spin one photo into another" effect — there's no single one-tap template that does the whole thing, but two in-app pieces combine to get there: animate each still, then cut between them with a spin-style transition.
 
 **Difficulty:** Medium · **Works on X5:** Yes
 

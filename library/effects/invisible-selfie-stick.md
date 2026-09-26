@@ -29,7 +29,15 @@ None needed beyond normal framing — the disappearing act happens at shoot time
 
 ## Tips
 - This is the base technique underneath almost every other stick trick in this library — [Fake Drone Shot](fake-drone-shot.md), [Rise Shot](rise-shot-crane.md), [Third-Person Follow View](third-person-follow-view.md) all depend on the stick disappearing first.
+- **Crowd selfie walk:** stick around 1.5 m, held low, raised and lowered
+  as you move for a bit of variation; walk it slightly behind you to give
+  a "following" feel through a crowd or busy street.
+- **Holding it cleanly:** face your body away from the direction the stick
+  points (so you don't accidentally appear twice in the stitch), and a
+  slim-topped stick disappears more reliably than a bulky one.
 
 ## Sources
 - Insta360 X5 tips guide, 2025-04-24, https://www.insta360.com/blog/insta360-x5-tips-shooting-best-settings-guide.html (checked 2026-09-26)
 - Insta360, "How to use the Invisible Selfie Stick", https://www.insta360.com/blog/tips/invisible-selfie-stick-how-to-use.html (checked 2026-09-26)
+- Insta360 (Brandon Li), 2025-05-08, https://www.youtube.com/watch?v=uK9J00EZPNY (checked 2026-09-26)
+- 2024-02-27, https://www.youtube.com/watch?v=QCWCuRblebc (checked 2026-09-26)

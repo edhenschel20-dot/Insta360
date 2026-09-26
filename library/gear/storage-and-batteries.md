@@ -52,6 +52,9 @@ own. It remembers your entries on this device, and **Reset** clears them.
   a deliberate stop for editing convenience — this fits how you already
   shoot.
 - See [memory cards](memory-cards.md) for which cards to buy and how many.
+- See [Accessories that unlock shots](accessories-for-shots.md) for which
+  mounts, filters and dive-case options are worth buying for specific
+  activities.
 
 ## Sources
 - Insta360 X5 manual, "Battery Level & Battery Life" (checked 2026-09-26)

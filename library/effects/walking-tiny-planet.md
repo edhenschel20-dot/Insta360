@@ -34,6 +34,16 @@ The inverted variant is at @107s, "flower tunnel" at @213s, and further variants
 ## Tips
 - Open areas like a beach or a field give the most room to run a clean lap without anything cutting into frame — a good one for a beach day with the kids.
 - This builds on the static [Tiny Planet & Inverted](tiny-planet-and-inverted.md) technique, but needs more keyframing because you (not the scene) are the thing moving.
+- **Hamster Wheel** is the inverse of this shot: instead of you walking on
+  top of the planet, the camera sits on the ground in the centre of an
+  open circle and you (or the kids) walk or run around it once, reframed
+  so it looks like you're inside a giant wheel that rolls with you.
+- **Bicycle version:** camera clamped to the head tube, extended out about
+  a section and a half, ride 30 seconds; in the edit, hold record and
+  physically turn your body and point the phone down to roll the view
+  into a planet with you riding on top.
 
 ## Sources
 - The 360 Guy, 2024-05-19, https://www.youtube.com/watch?v=TGSsNRdch-c (checked 2026-09-26)
+- Best360, 2026-04-10, https://www.youtube.com/watch?v=JRNfhT4cP1w (checked 2026-09-26)
+- Best360, 2023-10-25, https://www.youtube.com/watch?v=hS7eVP-aXrk (checked 2026-09-26)

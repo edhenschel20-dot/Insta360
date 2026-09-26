@@ -21,6 +21,16 @@ Action happens in one direction for a long time — the parade goes past, the fi
 ## Effects that work here
 - [Split Screen / MultiView](../effects/split-screen-multiview.md) — reactions and the fireworks/parade in one frame.
 - [Motion Timelapse](../effects/motion-timelapse.md) — good for a long parade route.
+- **Fireworks Two-Parter** (round 2 research) — a sunset-to-dark 11K
+  timelapse that pans onto the first rockets, then handheld PureVideo
+  fireworks on the 3 m stick. If this effect page exists in your library
+  yet, it covers the full recipe; otherwise see
+  `docs/effects-gap-list-round2.md` for the sourced steps.
 
 ## Settings
 [Night & low light settings](../settings/night-and-low-light.md) for fireworks and evening parades.
+
+## Examples with no how-to (yet)
+Disney parade footage on the X5 exists (8K, PureVideo) but has no
+accompanying tutorial — example only, not a sourced technique: tolley,
+2025-10-25, `3vhYT9qcMBM`.

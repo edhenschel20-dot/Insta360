@@ -29,6 +29,14 @@ Set FOV to Dewarp rather than Mega — Mega makes arms look unnaturally long fro
 
 ## Tips
 - Good default for biking and hikes where you want a hands-free POV without a stick to hold.
+- **Stand-up-sprint fix:** if a chest mount tips awkwardly when you stand
+  up to sprint, fix the angle in the edit (re-point the view) rather than
+  stopping to re-mount mid-ride.
+- **Family-ride habit:** keep the stick in a back pocket and only pull it
+  out for a view worth capturing, holding it behind you under the bars or
+  over your shoulder — a way to combine the chest-mount POV with occasional
+  stick shots on the same ride.
 
 ## Sources
 - MountMedia, 2026-03-28 (9:34), https://www.youtube.com/watch?v=DZcy1So1Et4 (checked 2026-09-26)
+- Trace Velo, 2025-04-22, https://www.youtube.com/watch?v=Pj7tElTzcWk (checked 2026-09-26)

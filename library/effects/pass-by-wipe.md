@@ -32,8 +32,8 @@ Also: Best360's hands-free "Jump Cut" version at `YyVv2tKdO1U` @526s, where you 
 - Any resolution you already shot at — this is a framing and timing trick, not a settings one.
 
 ## Tips
-- Doesn't need a second camera operator: the hands-free "Jump Cut" version works solo, which fits Ed's usual setup of shooting himself with the family.
-- The original demo of the basic version was filmed in Single-Lens mode — do it in full 360 instead and reframe afterward, matching how Ed always shoots.
+- Doesn't need a second camera operator: the hands-free "Jump Cut" version works solo, which fits shooting yourself with the family.
+- The original demo of the basic version was filmed in Single-Lens mode — do it in full 360 instead and reframe afterward, so you keep all your 360 options.
 
 ## Sources
 - Gimbal Guru, 2022-09-08, https://www.youtube.com/watch?v=U_ZB5rn8N_4 (checked 2026-09-26)

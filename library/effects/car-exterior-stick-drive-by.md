@@ -39,8 +39,23 @@ Also: the top-down roof shot at `15OQIt-zZg4` @506s and the roadside drive-by at
 ## Tips
 - Roughly 30 seconds per angle is plenty — you're picking the best few seconds of each in the edit, not using the whole take.
 - Pairs with [Driving & Road Trips](../shots/driving-and-road-trips.md) for the rest of a road-trip day's plan.
+- **Bumper/GTA chase-cam recipe:** triple/electric suction cup on the boot
+  or bonnet, stick extended two sections pointing up; in the edit, turn on
+  Direction Lock, set speed to 4×, one keyframe with the car centred, and
+  Motion ND on. The Electric Suction Cup Mount (self-pumping, warns of
+  pressure loss) is the current official version of this mount.
+- **At night:** the same recipe works in PureVideo for a "night cruise"
+  look — same reframe as the daytime version.
+- **Older X3-era variants worth knowing:** Fly Lapse shot from the car,
+  head-strap driving POV, and MultiView pairing this shot with a
+  dash-cam-style interior mount.
 
 ## Sources
 - Insta360 (Chris Hau), 2025-09-05, https://www.youtube.com/watch?v=qRpa3ZSWXtw (checked 2026-09-26)
 - Learn Online Video, 2025-04-22, https://www.youtube.com/watch?v=15OQIt-zZg4 (checked 2026-09-26)
 - Insta360 Tutorials, 2025-07-17, https://www.youtube.com/watch?v=4ooR3D4WXk0 (checked 2026-09-26)
+- Insta360 Tutorials (Best360), 2024-12-16, https://www.youtube.com/watch?v=skyxbnqW9Dk (checked 2026-09-26)
+- Insta360 Tutorials, "Electric Suction Cup Mount", 2025-12-05, https://www.youtube.com/watch?v=1iO2Z2dchyQ (checked 2026-09-26)
+- SPORTZ N TOURING, 2023-11-13, https://www.youtube.com/watch?v=Y6C2s_aQSj4 (checked 2026-09-26)
+- Shine Gadget, 2025-10-08, https://www.youtube.com/watch?v=DBLlZBWg6-E (checked 2026-09-26)
+- Insta360 Tutorials (X3 car shots), 2022-12-23, https://www.youtube.com/watch?v=d5KJIbrWstQ (checked 2026-09-26)

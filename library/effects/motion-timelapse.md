@@ -30,6 +30,13 @@ Full reference: [Timelapse & TimeShift settings](../settings/timelapse-and-times
 
 ## Tips
 - Different from [Hyperlapse/TimeShift](hyperlapse-and-timeshift.md): this is a static Timelapse mode capture with a pan added in the edit, not an in-camera moving hyperlapse.
+- **Day-to-night version:** start 45–60 minutes before sunset on a power
+  bank (a long-enough run will outlast a battery), pan and zoom in the edit,
+  and use clip speed to bring the whole thing under 10 seconds (Best360).
+- **Use each timelapse twice** — once facing forward, once facing back the
+  way you came — for two different clips from one capture.
 
 ## Sources
 - MountMedia, 2026-03-28 (3:14), https://www.youtube.com/watch?v=DZcy1So1Et4 (checked 2026-09-26)
+- Best360, 2025-04-23, https://www.youtube.com/watch?v=FEQLE7UNtLs (checked 2026-09-26)
+- Insta360 (Brandon Li), 2025-09-12, https://www.youtube.com/watch?v=VBaG9gxgGaY (checked 2026-09-26)
