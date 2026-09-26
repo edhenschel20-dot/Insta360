@@ -1,0 +1,39 @@
+site_name: Insta360 X5 Guide
+site_description: Settings, effects, editing how-tos and shot ideas for the Insta360 X5.
+site_url: https://edhenschel20-dot.github.io/Insta360/
+repo_url: https://github.com/edhenschel20-dot/Insta360
+docs_dir: library
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      toggle: { icon: material/weather-night, name: Dark mode }
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      toggle: { icon: material/weather-sunny, name: Light mode }
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+
+plugins:
+  - search
+  - tags
+  - awesome-nav
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - toc:
+      permalink: true

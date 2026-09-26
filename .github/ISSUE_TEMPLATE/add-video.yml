@@ -1,0 +1,23 @@
+name: Add a video
+description: Paste a YouTube link and it gets written up as a guide page.
+title: "Video: "
+labels: [video]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: YouTube link
+      placeholder: https://www.youtube.com/watch?v=...
+    validations:
+      required: true
+  - type: checkboxes
+    id: careful
+    attributes:
+      label: Options
+      options:
+        - label: Read carefully (slower, costs a bit more; for tricky tutorials)
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes (optional)
+      description: e.g. "only the transition at 3:20" or "focus on the settings"

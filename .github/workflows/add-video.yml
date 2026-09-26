@@ -1,0 +1,84 @@
+name: Add video to guide
+
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: add-video
+  cancel-in-progress: false
+
+jobs:
+  add-video:
+    # Only the repo owner can trigger this, so strangers can't spend the Gemini key.
+    if: >-
+      contains(github.event.issue.labels.*.name, 'video') &&
+      github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Read the issue form
+        id: form
+        env:
+          BODY: ${{ github.event.issue.body }}
+        run: |
+          url=$(printf '%s' "$BODY" | grep -oE 'https?://(www\.|m\.)?(youtube\.com|youtu\.be)/[^ )>]+' | head -1)
+          careful=$(printf '%s' "$BODY" | grep -qiE '\- \[x\] Read carefully' && echo "--careful" || echo "")
+          notes=$(printf '%s' "$BODY" | awk '/### Notes/{f=1;next} f' | grep -v '_No response_' | tr '\n' ' ' | sed 's/^ *//;s/ *$//')
+          echo "url=$url" >> "$GITHUB_OUTPUT"
+          echo "careful=$careful" >> "$GITHUB_OUTPUT"
+          {
+            echo "notes<<EOF"
+            echo "$notes"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Watch the video with Gemini
+        id: gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          URL: ${{ steps.form.outputs.url }}
+          CAREFUL: ${{ steps.form.outputs.careful }}
+          NOTES: ${{ steps.form.outputs.notes }}
+        run: |
+          page=$(python scripts/video_to_entry.py "$URL" $CAREFUL --notes "$NOTES")
+          echo "page=$page" >> "$GITHUB_OUTPUT"
+
+      - name: Save the new page
+        env:
+          PAGE: ${{ steps.gemini.outputs.page }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add library/youtube
+          git commit -m "Add video entry: $PAGE"
+          git push
+
+      - name: Rebuild the site and reply
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PAGE: ${{ steps.gemini.outputs.page }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          gh workflow run pages.yml --ref main
+          slug=$(basename "$PAGE" .md)
+          site="https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/youtube/$slug/"
+          gh issue comment "$ISSUE" --body "Done. It'll be live in about a minute: $site"
+          gh issue close "$ISSUE"
+
+      - name: Report a failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$ISSUE" --body "Sorry, that didn't work. See the Actions tab for details: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
