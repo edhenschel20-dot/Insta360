@@ -33,13 +33,20 @@ The main pain point is reframing:
   advised short clips. That's being re-checked against creator advice (see
   `docs/long-vs-short-clips.md`); don't repeat the short-clip advice as a rule.
 
-## Upcoming
-- **An upcoming Maui trip** (date kept private; see local memory). This is the priority:
-  anything that helps Ed shoot and edit Maui footage comes first.
+## Long-term guide, with trip sections
+This is Ed's **ongoing guide to using the camera**, not a one-off trip
+planner. The core is general: settings, effects, editing how-tos, shot
+recipes, and gear/storage planning. Trips get their own section (a kit list,
+a storage/battery plan, and activity-by-activity notes that link back to the
+general pages).
+- First trip section: **Maui** (the date is kept private; see local memory).
+  Maui-relevant content goes first because of the deadline, but it's written
+  as general pages (diving, snorkelling, golf, beach, luau, scenic drives,
+  helicopter) that are reused on later trips.
 
 ## What we're building
 1. **Library of effects, techniques and settings** that Ed can search on his
-   phone while travelling. It's seeded from the research in `docs/`. Each
+   phone, at home or away. It's seeded from the research in `docs/`. Each
    entry covers: what it looks like, how to shoot it, the step-by-step edit
    in the phone app (and Studio if different), settings, difficulty, a
    source link, and the date it was checked.
