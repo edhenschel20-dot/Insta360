@@ -19,10 +19,15 @@ is the opposite problem to night, and needs the opposite fix.
 | Sharpness | Medium |
 
 ## Tips
-- Add an **ND filter** — this is the single biggest recommendation for this
-  scenario. ND16 for general bright/cloudy, ND32 for direct midday sun,
-  ND64/128 for snow glare. It stops overexposure and lets the camera use a
-  natural motion blur instead of a harsh, stuttery fast shutter.
+- **ND filter (optional accessory).** A tinted clip-on "sunglasses" set for
+  both lenses, sold separately (Insta360 makes an X5 set). In bright sun it
+  gives a smoother, more natural motion blur instead of a slightly stuttery
+  look on fast movement. ND16 for general bright/cloudy, ND32 for direct
+  midday sun, ND64/128 for snow glare. You don't need it for normal
+  let-it-roll footage: negative EV handles exposure. It's mostly worth it
+  for speed shots (driving, hyperlapse). Take it off when it gets dim.
+- **Free alternative:** the app's **Motion ND** effect adds motion blur in
+  the edit, with no accessory needed.
 - The negative EV protects snow texture and highlights from turning into a
   featureless white blob.
 - If your firmware has **AdaptiveTone**, turn it on — it balances exposure
