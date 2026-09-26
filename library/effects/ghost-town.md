@@ -1,5 +1,9 @@
 ---
 title: Ghost Town
+summary: Removes moving people from a busy scene
+category: shot-lab
+good_for: [travel-scenic]
+difficulty: Easy
 tags: [shot-lab, easy, timelapse, static-camera]
 ---
 # Ghost Town

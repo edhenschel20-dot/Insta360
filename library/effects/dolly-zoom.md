@@ -1,5 +1,9 @@
 ---
 title: Dolly Zoom / Horizon Pull
+summary: Classic vertigo effect, subject steady, background zooms
+category: reframe-moves
+good_for: [travel-scenic, kids-family]
+difficulty: Medium
 tags: [reframe-moves, vertigo, medium]
 ---
 # Dolly Zoom / Horizon Pull

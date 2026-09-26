@@ -1,5 +1,9 @@
 ---
 title: Chest-Mount 360 POV
+summary: Wide hands-free POV with hands and bike visible
+category: stick-mount
+good_for: [bicycle, kids-family]
+difficulty: Easy
 tags: [stick-mount, easy, biking, hands-free]
 ---
 # Chest-Mount 360 POV

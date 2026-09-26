@@ -1,5 +1,9 @@
 ---
 title: Low-Angle Ground Skim
+summary: Camera skims just above the ground surface
+category: stick-mount
+good_for: [beach-water, travel-scenic]
+difficulty: Easy
 tags: [stick-mount, easy, dramatic]
 ---
 # Low-Angle Ground Skim
@@ -25,6 +29,7 @@ Frame on the subject with a single reframe, or track it with [Deep Track](../edi
 
 ## Tips
 - Watch for the stick's shadow crossing the stitch line in bright sun.
+- "The step over" (skim low, then step over an object as the camera passes it) and Brandon Li's "Under Over" are two named variants worth a watch — no transcript exists for either, so check the video rather than this page for the exact move: [demo](https://www.youtube.com/watch?v=-64ENzj6usE&t=417s), [demo](https://www.youtube.com/watch?v=awhRm5ruOuo&t=138s).
 
 ## Sources
 - MountMedia, 2026-03-28 (11:10), https://www.youtube.com/watch?v=DZcy1So1Et4 (checked 2026-09-26)

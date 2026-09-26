@@ -1,5 +1,9 @@
 ---
 title: Other Shot Lab Templates
+summary: Quick reference to remaining one-tap Shot Lab templates
+category: shot-lab
+good_for: [just-for-fun, kids-family]
+difficulty: Easy
 tags: [shot-lab, easy, catch-all]
 ---
 # Other Shot Lab Templates
@@ -12,20 +16,29 @@ Shot Lab has 25–30+ templates that change over time. The ones above have enoug
 _No verified example video yet. Add one with the "Add a video" form._
 
 ## What's in here
-- **Dolly Zoom** — one-tap version of [Dolly Zoom / Horizon Pull](dolly-zoom.md).
+Current X5 Shot Lab list per the manual (checked 2026-09-26): AI Warp, Sky Swap, Fly Lapse, Bullet Time Mix, Auto TimeShift, CineLapse, Horizon Flip, Flash Dash, Electric Surge, Clone Trail, Clone Loop, Stop Motion, Stop Motion Statue, Stop Motion Mix, Spin Me Around, Street Lapse, Ghost Town, MatchCuts, Time Flip, Parallel Planet, Roll Planet, Jump Planet, Flip My Day, Nose Mode, Freeze Throw, Shadow Clone, Pixelize, Center Stage, Dolly Zoom, Face Off (not X5), Giant Jump, Split Jump, Spin View, Starlapse, AI Selfie Stick Eraser (Ace only). Platform notes in the manual (e.g. "iOS only") appear to be about max-resolution support, not availability — confirm in the app.
+
+The ones already covered elsewhere in this library: [AI Warp](ai-warp-and-ai-effects.md), [Sky Swap](sky-swap.md), [Fly Lapse](fly-lapse.md), [Bullet Time Mix](bullet-time-mix.md), [Clone Trail](clone-trail.md), [Stop Motion](stop-motion.md), [Street Lapse & Flash Dash](street-lapse-and-flash-dash.md), [Ghost Town](ghost-town.md), [Roll Planet / Spin View / Jump Planet](roll-planet-and-spin-view.md), [Dolly Zoom](dolly-zoom.md).
+
+**Not yet written up individually** (Ben Claremont's verdicts, 2025-10-22, in brackets):
 - **Auto TimeShift** — automatic version of [Hyperlapse / TimeShift](hyperlapse-and-timeshift.md).
-- **Time Flip, Horizon Flip** — reframe flips, similar family to [Tiny Planet Flip / Planet Landing](tiny-planet-flip-transition.md).
-- **Starlapse** — night-sky timelapse template; pairs with [Night & low light settings](../settings/night-and-low-light.md).
-- **Overtaker** — speed/motion template, not independently verified beyond the name.
-- **Pixelize** — a stylised pixel-art look.
+- **Horizon Flip** — Inception-style mirrored horizon while the frame spins (S-tier, "hard to mess up").
+- **Time Flip** — half-turns at several locations stitched together (D-tier, needs genuinely different scenes each time).
+- **CineLapse** — AI hyperlapse that picks its own highlights; moves around more than manual keyframing.
+- **Electric Surge, Center Stage, Giant Jump** — names only, not independently verified (Center Stage and Giant Jump both F-tier per Ben).
+- **Spin Me Around** — spin on the stick, tornado-cuts to a new location (S-tier).
+- **MatchCuts** — auto match cut on a clap/gesture/lens-brush (A-tier; manual says Android-only, flat video).
+- **Parallel Planet** — another tiny-planet variant, related to [Roll Planet / Spin View / Jump Planet](roll-planet-and-spin-view.md) (F-tier).
+- **Flip My Day** — day-in-the-life compilation template (D-tier, lots of planning).
+- **Freeze Throw** — throwing the camera to trigger a freeze frame (F-tier — don't; the throw is the gimmick, not worth the risk to the camera).
+- **Shadow Clone, Pixelize** — see [Clone Trail](clone-trail.md) for both (A-tier).
 - **Split Jump** — a jump-timed split effect, related to [Freeze Go](freeze-go.md).
-- **Stop Motion Mix** — compilation version of [Stop Motion](stop-motion.md).
-- **Flip My Day** — a day-in-the-life style compilation template.
-- **Parallel Planet** — another tiny-planet variant, related to [Roll Planet / Spin View / Jump Planet](roll-planet-and-spin-view.md).
-- **People Swap** — a Movement-template category effect that swaps or duplicates people in frame; check whether it's generative (and so counts against an AI allowance) before relying on it — see [AI Warp & AI Effects](ai-warp-and-ai-effects.md) for how to check.
+- **Starlapse** — night-sky timelapse template; pairs with [Night & low light settings](../settings/night-and-low-light.md).
 
 ## How to use any of these
 Edit > Shot Lab > browse the current list > pick a template > follow its on-screen shooting/recording guide. Since names and availability shift between app updates, the fastest way to know what's currently offered is to scroll the list in the app rather than plan around this page alone.
 
 ## Sources
 - Research report catalogue entry 40 and "other templates" list, `docs/research-effects-and-workflows.md` (checked 2026-09-26)
+- Insta360 app manual, Shot Lab template list, https://onlinemanual.insta360.com/app/en-us/operation-tutorial/edit-function/shot-lab (checked 2026-09-26)
+- Ben Claremont, "Best and Worst Insta360 Effects (Ranked)", 2025-10-22, https://www.youtube.com/watch?v=3-5jjbZubYo (checked 2026-09-26)

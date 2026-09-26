@@ -1,5 +1,9 @@
 ---
 title: Third-Person Follow / Top-Down View
+summary: You seen from above and slightly behind
+category: stick-mount
+good_for: [bicycle, travel-scenic]
+difficulty: Medium
 tags: [stick-mount, easy-medium, hero-shot]
 ---
 # Third-Person Follow / Top-Down View

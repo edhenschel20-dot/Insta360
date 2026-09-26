@@ -1,0 +1,5 @@
+nav:
+  - index.md
+  - By situation: situations
+  - All effects A-Z:
+    - "*.md"

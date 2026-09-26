@@ -44,6 +44,11 @@ about 360 cameras, still summarise the technique and note that.
 """
 
 LIST = {"type": "ARRAY", "items": {"type": "STRING"}}
+# Must match docs/effect-page-spec.md and scripts/build_groups.py.
+CATEGORIES = ["transitions", "reframe-moves", "stick-mount", "speed-time", "bullet-time",
+              "shot-lab", "ai-effects", "x5-modes"]
+SITUATIONS = ["everyday", "kids-family", "beach-water", "night", "travel-scenic", "bicycle",
+              "car-road-trip", "golf-sport", "just-for-fun", "motorcycle-only"]
 SCHEMA = {
     "type": "OBJECT",
     "properties": {
@@ -53,6 +58,12 @@ SCHEMA = {
         "summary": {"type": "STRING", "description": "one line, max 12 words"},
         "what_it_looks_like": {"type": "STRING", "description": "1-2 sentences"},
         "difficulty": {"type": "STRING", "enum": ["Easy", "Medium", "Hard"]},
+        "category": {"type": "STRING", "enum": CATEGORIES},
+        "good_for": {
+            "type": "ARRAY",
+            "description": "1-4 situations where this effect works well, adapted to a non-motorcycle rider",
+            "items": {"type": "STRING", "enum": SITUATIONS},
+        },
         "camera_in_video": {"type": "STRING", "description": "model shown, or 'not stated'"},
         "shoot_steps": LIST,
         "edit_steps": LIST,
@@ -72,7 +83,7 @@ SCHEMA = {
         },
     },
     "required": [
-        "title", "slug", "tags", "summary", "what_it_looks_like", "difficulty",
+        "title", "slug", "tags", "summary", "what_it_looks_like", "difficulty", "category", "good_for",
         "camera_in_video", "shoot_steps", "edit_steps", "settings", "tips",
         "key_moments", "differs_from_common_advice",
     ],
@@ -170,8 +181,11 @@ def write_entry(url: str, entry: dict) -> Path:
 
     tags = ", ".join(slugify(t) for t in entry["tags"][:4]) or "video"
     title = entry["title"].replace('"', "'")
+    summary = entry["summary"].replace('"', "'")
     path.write_text(
-        f'---\ntitle: "{title}"\ntags: [youtube, {tags}]\n---\n'
+        f'---\ntitle: "{title}"\nsummary: "{summary}"\ncategory: {entry["category"]}\n'
+        f'good_for: [{", ".join(entry["good_for"][:4])}]\ndifficulty: {entry["difficulty"]}\n'
+        f"tags: [youtube, {tags}]\n---\n"
         f"{render_body(entry, url)}\n"
         f"## Source\n- [Watch the video]({url}) (read by {entry['model']} on {date.today()})\n\n"
         f'!!! note "Unreviewed"\n    Written automatically from the video. '

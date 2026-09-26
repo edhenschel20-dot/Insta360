@@ -1,5 +1,9 @@
 ---
 title: Invisible Selfie Stick Shot
+summary: You filmed as if by an invisible cameraman
+category: stick-mount
+good_for: [everyday, kids-family]
+difficulty: Easy
 tags: [stick-mount, easy, foundational]
 ---
 # Invisible Selfie Stick Shot

@@ -1,5 +1,9 @@
 ---
 title: Look-Up Shot
+summary: Trees or buildings converge overhead as you pass
+category: stick-mount
+good_for: [travel-scenic, everyday]
+difficulty: Easy
 tags: [stick-mount, easy, architecture, nature]
 ---
 # Look-Up Shot

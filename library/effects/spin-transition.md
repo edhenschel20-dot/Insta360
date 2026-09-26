@@ -1,5 +1,9 @@
 ---
 title: Spin Transition
+summary: Fast blurry whip-cut between two clips
+category: transitions
+good_for: [travel-scenic, kids-family]
+difficulty: Medium
 tags: [transitions, medium, cut]
 ---
 # Spin Transition
@@ -27,6 +31,8 @@ The view whips round at the end of one clip and settles at the start of the next
 
 ## Tips
 - This is a good default transition between situation clips (e.g. hike b-roll to summit reveal) without needing a fade or a hard cut.
+- This is the whip-pan/blur version. For a slower 180° twist instead of a whip-blur, keyframe roll 0°→180° at the end of clip A and 180°→360° at the start of clip B with matching spacing — same idea, a visibly rotating cut rather than a blur.
+- Zero-effort option: skip keyframes entirely — Edit > Create a Video > tap the box between two clips > pick a built-in transition (e.g. Zoom Cut, Blur Cut) — Ben Claremont [demo](https://www.youtube.com/watch?v=0vsCPu4ZlxY&t=654s).
 
 ## Sources
 - Insta360 short, "How to do this creative spin transition", 2025-12-01, https://www.youtube.com/shorts/r5fsQzzXHus (checked 2026-09-26)

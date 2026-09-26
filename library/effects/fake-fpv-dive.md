@@ -1,5 +1,9 @@
 ---
 title: Fake FPV Dive
+summary: Fake FPV drone dive down a cliff or slope
+category: reframe-moves
+good_for: [travel-scenic, just-for-fun]
+difficulty: Medium
 tags: [reframe-moves, hero-shot, medium-hard]
 ---
 # Fake FPV Dive
@@ -27,6 +31,8 @@ Reads like an FPV drone diving down a cliff, slope or building face.
 
 ## Tips
 - The one-tap version of this idea is [Fly Lapse](fly-lapse.md) — try that first if you want the look without the manual keyframing.
+- Brandon Li's "FPV flip and fly away": a gentler C-shaped sweep using a thropod (mini tripod on the stick) instead of a straight dive — [demo](https://www.youtube.com/watch?v=DMIZ6KYBdOo&t=481s).
+- Lincolas' softer "Dive": start high on the stick and ease slowly down to the ground rather than sweeping fast — [demo](https://www.youtube.com/watch?v=4ooR3D4WXk0&t=238s).
 
 ## Sources
 - Gimbal Guru (uploaded 2024-01-10, X3-era UI, technique current), https://www.youtube.com/watch?v=PZx1yj1pUvA (checked 2026-09-26)

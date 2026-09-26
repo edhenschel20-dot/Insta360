@@ -1,5 +1,9 @@
 ---
 title: Tracked-Object POV
+summary: An object stays centred while the world moves
+category: reframe-moves
+good_for: [golf-sport, kids-family]
+difficulty: Medium
 tags: [reframe-moves, tracking, medium]
 ---
 # Tracked-Object POV

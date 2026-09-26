@@ -1,5 +1,9 @@
 ---
 title: 360 Look-Around (Slow Pan)
+summary: Slow deliberate pan around your surroundings
+category: reframe-moves
+good_for: [travel-scenic, everyday]
+difficulty: Easy
 tags: [reframe-moves, walking, easy]
 ---
 # 360 Look-Around (Slow Pan)
@@ -25,6 +29,7 @@ A slow, deliberate pan around the environment while you keep moving — good for
 
 ## Tips
 - This is one of the best uses of long, rolling footage: pick any calm stretch and pan across it later, rather than trying to plan a pan while it's happening.
+- Ben Claremont's "Location Sweep" variant: one keyframe, then a full 360° spin a few seconds later, with that keyframe dragged out to slow the spin right down — [demo](https://www.youtube.com/watch?v=nTOnQ0aw1U0&t=125s).
 
 ## Sources
 - Gimbal Guru (uploaded 2021-01-10, X2-era UI, technique current), https://www.youtube.com/watch?v=_BpjaaCGS5E (checked 2026-09-26)

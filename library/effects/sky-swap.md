@@ -1,5 +1,9 @@
 ---
 title: Sky Swap
+summary: Replaces a flat sky with an atmospheric one
+category: shot-lab
+good_for: [travel-scenic]
+difficulty: Easy
 tags: [shot-lab, easy, sky, photos]
 ---
 # Sky Swap

@@ -1,5 +1,9 @@
 ---
 title: Object Reveal / Push-Through
+summary: Subject is revealed as you pass an object
+category: reframe-moves
+good_for: [kids-family, travel-scenic]
+difficulty: Easy
 tags: [reframe-moves, reveal, easy-medium]
 ---
 # Object Reveal / Push-Through

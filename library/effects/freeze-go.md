@@ -1,5 +1,9 @@
 ---
 title: Freeze Go
+summary: Video freezes at a jump's peak moment
+category: speed-time
+good_for: [kids-family, just-for-fun]
+difficulty: Easy
 tags: [speed-time, easy, shot-lab, jumps]
 ---
 # Freeze Go

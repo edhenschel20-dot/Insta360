@@ -1,5 +1,9 @@
 ---
 title: Fake Drone / Aerial Shot
+summary: Overhead drone-style shot using just the selfie stick
+category: reframe-moves
+good_for: [travel-scenic, beach-water, kids-family]
+difficulty: Easy
 tags: [reframe-moves, overhead, easy, hero-shot]
 ---
 # Fake Drone / Aerial Shot

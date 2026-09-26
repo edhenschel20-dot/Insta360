@@ -1,5 +1,9 @@
 ---
 title: Portal Water Jump / Dive Match-Cut
+summary: Jump into water in one place, surface elsewhere
+category: transitions
+good_for: [beach-water, kids-family]
+difficulty: Hard
 tags: [transitions, water, medium-hard]
 ---
 # Portal Water Jump / Dive Match-Cut
@@ -27,6 +31,10 @@ Cut exactly at the moment the lens crosses the water surface in both clips, so t
 
 ## Tips
 - Practice the timing of the dunk/surface a couple of times before the take that matters — the cut only sells if both halves match in speed.
+
+## Variants
+- **Underwater Transition:** dip the camera fully under the water in one place, cut as it surfaces somewhere else — Gimbal Guru [demo](https://www.youtube.com/watch?v=U_ZB5rn8N_4&t=328s).
+- **Dive Transition:** the person dives *up* into shot 2 instead of surfacing normally — [demo](https://www.youtube.com/watch?v=PZx1yj1pUvA&t=644s).
 
 ## Sources
 - Gimbal Guru (uploaded 2024-01-10, X3-era UI), https://www.youtube.com/watch?v=PZx1yj1pUvA (checked 2026-09-26)

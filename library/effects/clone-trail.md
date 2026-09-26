@@ -1,5 +1,9 @@
 ---
 title: Clone Trail
+summary: Multiple copies of you trailing across one shot
+category: shot-lab
+good_for: [kids-family, just-for-fun]
+difficulty: Easy
 tags: [shot-lab, easy, static-camera]
 ---
 # Clone Trail
@@ -25,6 +29,7 @@ Edit > Shot Lab > **Clone Trail** (also called Shadow Clone) — the app composi
 
 ## Tips
 - Static camera means whoever is shooting can step out of frame entirely, or be one of the clones themselves.
+- Related templates: **Clone Loop** (walk round the camera doing an action, you're cloned as it pans) and **Shadow Clone** (different actions in different spots, 10-15 s each) — Ben Claremont [demo](https://www.youtube.com/watch?v=3-5jjbZubYo&t=472s).
 
 ## Sources
 - Insta360, "Shot Lab: the AI tool", https://www.insta360.com/blog/tips/insta360-shot-lab-ai-editing-tool.html (checked 2026-09-26)

@@ -1,5 +1,9 @@
 ---
 title: Time Flies (Real-Time You + Timelapse Sky)
+summary: You in real time, clouds racing overhead
+category: speed-time
+good_for: [travel-scenic]
+difficulty: Hard
 tags: [speed-time, hard, desktop]
 ---
 # Time Flies (Real-Time You + Timelapse Sky)

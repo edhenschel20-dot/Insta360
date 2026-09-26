@@ -1,5 +1,9 @@
 ---
 title: Nose Mode
+summary: Funny exaggerated camera-on-face selfie
+category: shot-lab
+good_for: [kids-family, just-for-fun]
+difficulty: Easy
 tags: [shot-lab, easy, selfie, fun]
 ---
 # Nose Mode

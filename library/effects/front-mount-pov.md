@@ -1,5 +1,9 @@
 ---
 title: Front-Mount "Who Is Filming Me" Shot
+summary: Looks like someone is filming you from ahead
+category: stick-mount
+good_for: [bicycle, golf-sport]
+difficulty: Easy
 tags: [stick-mount, easy, biking, skiing]
 ---
 # Front-Mount "Who Is Filming Me" Shot

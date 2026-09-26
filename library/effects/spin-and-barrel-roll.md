@@ -1,5 +1,9 @@
 ---
 title: 360 Spin and Barrel Roll
+summary: World spins horizontally or rolls end-over-end
+category: reframe-moves
+good_for: [kids-family, just-for-fun]
+difficulty: Easy
 tags: [reframe-moves, in-camera, easy]
 ---
 # 360 Spin and Barrel Roll
@@ -26,6 +30,9 @@ The world spins horizontally around you (spin) or rolls end-over-end (barrel rol
 
 ## Tips
 - Great as a punctuation move between two clips — see [Spin Transition](spin-transition.md) for the whip-cut version between two separate clips.
+- **360 Spin Shot recipe:** 8x section speed, a 90° keyframe roughly every 2 s, ending on a zoom into a landmark — Best360 [demo](https://www.youtube.com/watch?v=UK64zAgZQgY&t=767s).
+- Wedge the 3 m stick against something solid while you spin for a steadier result — [demo](https://www.youtube.com/watch?v=VYwVi9ruAS8&t=186s).
+- In-camera version: InstaFrame 2.0 can trigger a barrel roll or 360 spin live as you shoot — [demo](https://www.youtube.com/watch?v=Ntzeog5Wc7Y&t=181s).
 
 ## Sources
 - Insta360, "How to edit and reframe 360" (updated for X5), https://www.insta360.com/blog/tips/how-to-edit-and-reframe-360.html (checked 2026-09-26)

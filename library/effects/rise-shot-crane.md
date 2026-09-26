@@ -1,5 +1,9 @@
 ---
 title: Rise Shot (Crane)
+summary: Camera rises from the ground into the sky
+category: reframe-moves
+good_for: [travel-scenic, kids-family]
+difficulty: Easy
 tags: [reframe-moves, crane, easy, hero-shot]
 ---
 # Rise Shot (Crane)
@@ -27,6 +31,9 @@ The camera lifts from ground level up past you into the sky — a jib/crane move
 ## Tips
 - Works as an opener or closer for a longer edit — it reads as a title-card move.
 - Pairs well with [Rotating Reveal](rotating-reveal.md) if you turn to face something as you rise.
+- **Float Up (editing-only, no stick lift needed):** start zoomed in on a ground detail, then tilt up and zoom out — [demo](https://www.youtube.com/watch?v=nTOnQ0aw1U0&t=252s).
+- Brandon Li's rise-and-walk-away and "Walking Fly Away" variants — [demo](https://www.youtube.com/watch?v=awhRm5ruOuo&t=98s) and [demo](https://www.youtube.com/watch?v=awhRm5ruOuo&t=347s).
+- Ben's "Drone takeoff": run low, lift the stick, and hide a zoom-in inside the move — [demo](https://www.youtube.com/watch?v=GmYovhkMmKY&t=706s).
 
 ## Sources
 - MountMedia, 2026-03-28 (8:07), https://www.youtube.com/watch?v=DZcy1So1Et4 (checked 2026-09-26)

@@ -1,5 +1,9 @@
 ---
 title: Hyperlapse / TimeShift
+summary: Flies through a scene at speed with blur
+category: speed-time
+good_for: [travel-scenic, bicycle, car-road-trip]
+difficulty: Easy
 tags: [speed-time, easy, travel]
 ---
 # Hyperlapse / TimeShift
@@ -28,6 +32,8 @@ Full settings reference: [Timelapse & TimeShift settings](../settings/timelapse-
 
 ## Tips
 - Constant height and straight lines are what make the edit fast — curves are where extra keyframes get added.
+- **Hyperlapse-to-hyperlapse match:** end one hyperlapse wide on a path, then start the next wide on a path too — the cut reads as continuous — Ben Claremont [demo](https://www.youtube.com/watch?v=U9sb6JGT6Lk&t=516s).
+- TimeShift (in-camera) and Timelapse are different modes, not the same thing (menu names vary by app version); TimeShift defaults to 32x rather than 16x.
 
 ## Sources
 - MountMedia, 2026-03-28 (5:52, 8:43), https://www.youtube.com/watch?v=DZcy1So1Et4 (checked 2026-09-26)

@@ -1,5 +1,9 @@
 ---
 title: Rotating Reveal
+summary: Camera glides forward then swings round to reveal
+category: reframe-moves
+good_for: [travel-scenic, kids-family]
+difficulty: Easy
 tags: [reframe-moves, pan, easy, walking]
 ---
 # Rotating Reveal

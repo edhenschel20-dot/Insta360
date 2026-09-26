@@ -1,5 +1,9 @@
 ---
 title: Roll Planet / Spin View / Jump Planet
+summary: One-tap templates turning a tiny planet into motion
+category: shot-lab
+good_for: [travel-scenic, kids-family]
+difficulty: Easy
 tags: [shot-lab, easy, tiny-planet, people]
 ---
 # Roll Planet / Spin View / Jump Planet

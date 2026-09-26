@@ -1,5 +1,9 @@
 ---
 title: Street Lapse & Flash Dash
+summary: Isolated from a streaming background, or trailing light
+category: shot-lab
+good_for: [kids-family, just-for-fun]
+difficulty: Easy
 tags: [shot-lab, easy, speed]
 ---
 # Street Lapse & Flash Dash

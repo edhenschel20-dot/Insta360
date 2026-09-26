@@ -1,5 +1,9 @@
 ---
 title: Tiny Planet Flip / Planet Landing
+summary: View flips between tiny planet and normal
+category: transitions
+good_for: [travel-scenic, just-for-fun]
+difficulty: Medium
 tags: [transitions, tiny-planet, medium]
 ---
 # Tiny Planet Flip / Planet Landing
@@ -28,6 +32,7 @@ The view flips from tiny planet to normal (or the reverse) — either as a "land
 ## Tips
 - Use as an opening "descending onto the scene" shot, or as a scene-change transition mid-edit.
 - Pairs well with [Time Freeze](time-freeze-animated-photo.md) as a title card.
+- Jump-to-inverted-planet variant: land the flip on an inverted planet instead of a normal view, for more of a "portal" feel — [demo](https://www.youtube.com/watch?v=TGSsNRdch-c&t=169s).
 
 ## Sources
 - Gimbal Guru (uploaded 2021-01-10, X2-era UI), https://www.youtube.com/watch?v=_BpjaaCGS5E (checked 2026-09-26)

@@ -1,5 +1,9 @@
 ---
 title: Speed Ramp
+summary: Fast, then real-time, then fast again
+category: speed-time
+good_for: [kids-family, travel-scenic]
+difficulty: Medium
 tags: [speed-time, medium, editing]
 ---
 # Speed Ramp

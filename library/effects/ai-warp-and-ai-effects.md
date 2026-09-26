@@ -1,5 +1,9 @@
 ---
 title: AI Warp & AI Effects
+summary: AI repaints your clip into a new style
+category: ai-effects
+good_for: [kids-family, beach-water, just-for-fun]
+difficulty: Medium
 tags: [shot-lab, medium, generative, ai]
 ---
 # AI Warp & AI Effects
@@ -18,9 +22,11 @@ Generative video transformations — the app repaints your clip into a different
 2. Any normal 360 footage works; you don't need to plan the shot differently.
 
 ## Edit it (phone app)
-1. **AI Warp** (Shot Lab): pick a clip, choose a preset style or a free-text "Custom prompt effect", or paint over an area for a "Custom AI effect". Use the **Preview** button (bottom-left) to see the result before spending a generation.
-2. **AI Effects** (Edit tab, a separate newer section next to Shot Lab): pick an effect, "Use this theme", pick a clip, wait about a minute for processing.
-3. Output carries a permanent "AI Generation" watermark either way.
+1. **AI Warp** (Shot Lab): pick a clip, choose a preset style — confirmed names include **Cyberpunk**, **Sci-Fi**, **Space** and **Anime** — or a free-text "Custom prompt effect", or paint over an area for a "Custom AI effect". Use the **Preview** button (bottom-left) to see the result before spending a generation.
+2. **For Ed's "Ghost Rider" (son running at camera) or "wave crashing over someone" ideas:** use the painted-area route — paint over the person, type a prompt describing the effect, and let the AI fill just that area. Works best on a steady, well-lit 4-15 s clip with the subject large in frame (tripod, straight run toward camera); results are hit-or-miss, so always Preview first.
+3. **AI Effects** (Edit tab, a separate newer section next to Shot Lab): pick an effect, "Use this theme", pick a clip, wait about a minute for processing.
+4. Seasonal packs (holiday skies/styles) appear from time to time under Sky Swap or AI Warp — free Sky Swap swaps don't use generations, but seasonal AI Warp styles do.
+5. Output carries a permanent "AI Generation" watermark either way.
 
 ## Settings
 - No special camera settings — the transformation happens entirely in the app after you've already shot the clip.
@@ -35,6 +41,7 @@ Generative video transformations — the app repaints your clip into a different
 - Use the Preview button every time before committing a generation.
 - Spread practice across multiple days to make the most of the free daily allowance rather than burning it all at once.
 - Don't buy an Insta360+ subscription hoping it unlocks more generations — its credits are for a separate "Moments" feature, not AI Warp/AI Effects.
+- Free 5-minute action: open Edit > AI Effects and Shot Lab > AI Warp and screenshot both lists — that settles the current scene names and remaining-generation count better than anything published online.
 
 ## Sources
 - Insta360 official app manual, "AI Warp", https://onlinemanual.insta360.com/app/en-us/operation-tutorial/edit-function/al-magician (checked 2026-09-26)

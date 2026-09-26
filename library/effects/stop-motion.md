@@ -1,5 +1,9 @@
 ---
 title: Stop Motion
+summary: Turns a steady walk into stop-motion animation
+category: shot-lab
+good_for: [everyday, just-for-fun]
+difficulty: Easy
 tags: [shot-lab, easy, walking]
 ---
 # Stop Motion
@@ -25,6 +29,7 @@ Edit > Shot Lab > **Stop Motion**, long-press yourself in the preview, then pick
 
 ## Tips
 - Consistent pace matters more than speed — the AI needs a repeatable pose to work from.
+- Related templates: **Stop Motion Statue** (feet-together pose detection is unreliable — Ben Claremont rates it low) and **Stop Motion Mix** (compilation version) — [demo](https://www.youtube.com/watch?v=3-5jjbZubYo&t=843s).
 
 ## Sources
 - Insta360 support, https://www.insta360.com/support/supportcourse?post_id=17281 (2020, checked 2026-09-26)

@@ -1,5 +1,9 @@
 ---
 title: Time Freeze (Animated 360 Photo)
+summary: Camera flies around a single frozen photo
+category: reframe-moves
+good_for: [kids-family, just-for-fun]
+difficulty: Easy
 tags: [reframe-moves, photos, easy]
 ---
 # Time Freeze (Animated 360 Photo)

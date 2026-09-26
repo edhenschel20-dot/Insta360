@@ -1,5 +1,9 @@
 ---
 title: Fly Lapse
+summary: One-tap fake FPV-drone hyperlapse from a straight walk
+category: shot-lab
+good_for: [travel-scenic, everyday]
+difficulty: Easy
 tags: [shot-lab, easy, hyperlapse]
 ---
 # Fly Lapse

@@ -1,5 +1,9 @@
 ---
 title: Bullet Time
+summary: World spins around you in dramatic slow motion
+category: bullet-time
+good_for: [kids-family, travel-scenic, just-for-fun]
+difficulty: Medium
 tags: [bullet-time, easy-medium, hero-shot, slow-motion]
 ---
 # Bullet Time
@@ -29,6 +33,7 @@ Full reference: [Bullet time & slow motion settings](../settings/bullet-time-and
 ## Tips
 - For six-plus locations stitched into one reel, see [Bullet Time Mix](bullet-time-mix.md).
 - Works well as an opening or closing "title card" shot in a longer edit.
+- **Rotating landscape flip:** swing bullet-time style at several different landscapes, with a speed ramp between each — Gimbal Guru [demo](https://www.youtube.com/watch?v=U_ZB5rn8N_4&t=580s).
 
 ## Sources
 - Insta360 X5 tips guide, 2025-04-24, https://www.insta360.com/blog/insta360-x5-tips-shooting-best-settings-guide.html (checked 2026-09-26)

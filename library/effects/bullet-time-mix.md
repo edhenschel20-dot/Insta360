@@ -1,5 +1,9 @@
 ---
 title: Bullet Time Mix
+summary: Stitches several Bullet Time clips into one reel
+category: bullet-time
+good_for: [travel-scenic, kids-family]
+difficulty: Easy
 tags: [bullet-time, easy, shot-lab, compilation]
 ---
 # Bullet Time Mix
@@ -24,6 +28,7 @@ Same as standard [Bullet Time](bullet-time.md): 5.7K120, good light.
 
 ## Tips
 - A nice way to close out a trip video — one bullet-time clip per stop, all cut together automatically.
+- For a version that swings at several different landscapes with speed ramps rather than a straight stitch, see the "Rotating landscape flip" variant on the [Bullet Time](bullet-time.md) page.
 
 ## Sources
 - Bullet Time Mix tutorial (ONE R era, legacy UI), https://www.insta360.com/support/supportcourse?post_id=17299 (checked 2026-09-26)

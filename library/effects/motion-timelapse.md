@@ -1,5 +1,9 @@
 ---
 title: Motion Timelapse
+summary: Timelapse that also pans across sky or crowd
+category: speed-time
+good_for: [travel-scenic, night]
+difficulty: Easy
 tags: [speed-time, easy, sky, timelapse]
 ---
 # Motion Timelapse

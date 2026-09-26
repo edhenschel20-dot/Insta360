@@ -1,5 +1,9 @@
 ---
 title: 360 Orbit (Hand-Swung)
+summary: Drone-like orbit around you, swung by hand
+category: stick-mount
+good_for: [kids-family, just-for-fun]
+difficulty: Easy
 tags: [stick-mount, easy, people]
 ---
 # 360 Orbit (Hand-Swung)

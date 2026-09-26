@@ -1,5 +1,9 @@
 ---
 title: Slow-Motion Tracked Run
+summary: Cinematic slow motion of someone running or riding
+category: speed-time
+good_for: [kids-family, golf-sport]
+difficulty: Easy
 tags: [speed-time, easy, tracking]
 ---
 # Slow-Motion Tracked Run
