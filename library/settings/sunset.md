@@ -26,6 +26,11 @@ up, then a switch to night settings once it's properly dark.
   you want the "watch the whole sky change" effect — see the
   [timelapse page](timelapse-and-timeshift.md).
 
+## More tips
+For a cold pre-dawn summit rather than an evening sunset, see
+[Summit Sunrise](../shots/summit-sunrise.md) — same timelapse idea, plus
+cold-weather handling.
+
 ## Sources
 - [Golden Hour Photography](https://www.insta360.com/blog/tips/golden-hour-photography.html) (checked 2026-09-26)
 - This project's own `docs/settings-presets.md` (checked 2026-09-26)

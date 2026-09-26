@@ -24,3 +24,17 @@ Parties, dinners, kids playing, presents, candles — the moments you actually w
 
 ## Settings
 [Events & indoors settings](../settings/events-and-indoors.md).
+
+## Step-by-step plans
+- [Birthday Party](../shots/birthday-party.md) — present-opening two
+  angles, candle Time Freeze.
+- [Christmas Morning](../shots/christmas-morning.md) — the camera rolling
+  before the kids come down.
+
+## More tips
+[Present-Opening Two-Angle](../effects/present-opening-two-angle.md),
+[Christmas-Morning Tree Cam](../effects/christmas-morning-tree-cam.md),
+[Mic the Kid](../effects/mic-the-kid-wireless-mic-deep-track.md) (a
+wireless mic on a child, paired with Deep Track), and
+[Trampoline Freeze & Bullet Time](../effects/trampoline-freeze-bullet-time.md)
+all extend this page.

@@ -41,6 +41,16 @@ Also: Best360's version at `UK64zAgZQgY` @466s.
   deck or rail, pointing back and up, gives a "drone follow" look on a
   moving boat or jet-ski without anyone holding it.
 
+## More tips
+- **White-body reflection warning:** a white X5 body reflects inside a
+  dive housing in on-water footage — use the black body, or keep the
+  housing off while on deck. Source: Hawaii Virtual Reality, X5 boat
+  footage, 2026-02-11, https://www.youtube.com/watch?v=oRrpVv5g7zc (checked 2026-09-26).
+- **Stability rule:** stand at the back of the boat — the most stable
+  spot — and lean your hips on the rail rather than fighting the boat's
+  movement. Source: Slater Moore, https://www.youtube.com/watch?v=CPwMPgbInNk
+  @75 (checked 2026-09-26).
+
 ## Sources
 - Brandon Li, 2022-08-20, https://www.youtube.com/watch?v=awhRm5ruOuo (checked 2026-09-26)
 - Insta360 Tutorials (Best360), 2024-07-31, https://www.youtube.com/watch?v=UK64zAgZQgY (checked 2026-09-26)

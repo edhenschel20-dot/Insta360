@@ -5,7 +5,7 @@ tags: [editing, music, transitions]
 # Beat-sync a reel to music
 
 There's no dedicated one-tap "auto beat-sync" feature in the app (checked
-round 2 — only the manual workflow below and the music picker in Auto Edit
+2026-09-26: only the manual workflow below and the music picker in Auto Edit
 templates exist). This is the manual way to land a cut or transition exactly
 on the drop of a trending sound.
 
@@ -34,4 +34,4 @@ on the drop of a trending sound.
 
 ## Sources
 - Hugh Hou, 2022-08-10, https://www.youtube.com/watch?v=g4YDxXudp-8 (checked 2026-09-26)
-- This project's own `docs/effects-gap-list-round2.md` (checked 2026-09-26)
+- This guide's research notes (checked 2026-09-26)

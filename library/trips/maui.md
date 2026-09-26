@@ -11,8 +11,8 @@ activity-by-activity notes that link back to the general pages.
 - X5 camera, Invisible Selfie Stick (and the extended one if you're bringing
   it), Invisible Dive Case Pro (the glass-dome version — clearer than the
   standard plastic dome, for roughly $20 more)
-- Electric Suction Cup Mount — for any car/boat exterior shots on the Road
-  to Hana or a boat trip; see [Accessories that unlock shots](../gear/accessories-for-shots.md)
+- Electric Suction Cup Mount — for any car/boat exterior shots on the
+  scenic coastal drive or a boat trip; see [Accessories that unlock shots](../gear/accessories-for-shots.md)
 - A ground stake (¼″ spike) if you want legless tiny planets on the beach
   or golf course rough
 - Optionally, a Dive Buddy (buoyancy handle + seabed stand) if you want any
@@ -27,6 +27,10 @@ activity-by-activity notes that link back to the general pages.
 - Lens cap — the lenses stick out and scratch easily
 - Cleaning cloth — wipe both lenses before anything that matters
 - Wrist strap (for the helicopter flight and anything over water)
+- A folding case-handle, for any venue that doesn't allow selfie sticks
+- A black camera body (or keep the dive housing off on deck) for boat
+  days — a white body can reflect inside a housing
+- A twine leash for anything mounted near water
 
 Before the first dive: save a **5.7K60 preset to the Q/power button** (Dive
 Case Mode locks most settings once sealed, so set this ahead of time), and
@@ -69,18 +73,18 @@ laptop to offload footage:
   then Deep Track on anything worth following (a diver, a fish) rather than
   Auto Frame.
 
-### Golf (3 rounds — film Kapalua most)
+### Golf (a few rounds — pick a favourite course to film the most)
 - **Settings:** standard Video, 5.7K30, Auto everything — nothing special
   needed for daylight outdoor golf. See [bright sun and snow](../settings/bright-sun-and-snow.md)
   if it's a particularly bright day and you want the ND filter/EV notes.
 - **Shooting approach:** stick planted or handheld at the tee, let it roll
-  through the swing and the walk down the fairway. Kapalua is the round
-  worth filming the most — plan to shoot more there and be more selective
-  on the other two.
+  through the swing and the walk down the fairway. Pick one round to film
+  the most and be more selective on the others.
 - **Edit approach:** [split and fixed views](../editing/split-and-fixed-views.md)
   works well for golf — a fixed view on the swing, a short second piece for
   the reaction/view. [Keyframes with easing](../editing/keyframes-with-easing.md)
   if you want a deliberate reveal of the view from a tee box.
+- **Step-by-step:** [Golf round](../shots/golf-round.md).
 
 ### Snorkelling and beach days
 - **Settings:** see [snorkelling and water](../settings/snorkelling-and-water.md) —
@@ -90,6 +94,7 @@ laptop to offload footage:
 - **Edit approach:** mostly triage — skim for the good stretches, Deep
   Track only on anything specific you want followed (a swimmer, a fish),
   otherwise a fixed forward view is enough.
+- **Step-by-step:** [Snorkel boat trip](../shots/snorkel-boat-trip.md).
 
 ### Luau (night/event)
 - **Settings:** see [events and indoors](../settings/events-and-indoors.md) —
@@ -102,20 +107,23 @@ laptop to offload footage:
 - **Edit approach:** [Deep Track](../editing/deep-track.md) on whoever's
   active on stage, or [multi-view](../editing/multi-view.md) if you want
   the performance and the table both visible.
+- **Step-by-step:** [Luau night](../shots/luau-night.md).
 
-### Road to Hana
+### Scenic coastal drive
 - **Settings:** TimeShift for the drive itself — see
   [timelapse and TimeShift](../settings/timelapse-and-timeshift.md). Switch
   to normal Video settings for stops.
 - **Shooting approach:** mount for the drive, TimeShift running for the
   long stretches of road; stop TimeShift and shoot normally at waterfalls,
   viewpoints, and other stops — don't try to make one continuous clip cover
-  both driving and stopping.
+  both driving and stopping. Keep the stick's mini tripod screwed on
+  permanently so every stop is a ten-second set-up.
 - **Edit approach:** TimeShift needs no reframing at all — trim only. Stops
   get the normal ladder — start with
   [fixed views](../editing/split-and-fixed-views.md) or
   [keyframes](../editing/keyframes-with-easing.md) for a reveal shot at a
   viewpoint.
+- **Step-by-step:** [Coastal drive with stops](../shots/coastal-drive-with-stops.md).
 
 ### Helicopter flight
 - **Settings:** standard Video, 5.7K30 or 8K if the operator allows it and
@@ -128,6 +136,7 @@ laptop to offload footage:
   for scenic aerial footage — see [keyframes with easing](../editing/keyframes-with-easing.md)
   for a slow reveal move, or just export a fixed forward/downward view for
   something quick.
+- **Step-by-step:** [Helicopter flight (doors on)](../shots/helicopter-flight.md).
 
 ## Sources
 - This project's `CLAUDE.md` (checked 2026-09-26)

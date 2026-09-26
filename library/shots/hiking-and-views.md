@@ -27,3 +27,9 @@ The walk up, and the payoff at the top. Long clips are a feature here — things
 
 ## Settings
 [Bright sun & snow settings](../settings/bright-sun-and-snow.md) for most daylight hikes; [Photos settings](../settings/photos.md) for the payoff still; [Timelapse & TimeShift settings](../settings/timelapse-and-timeshift.md) for long approach stretches.
+
+## Step-by-step plan
+[Summit Sunrise](../shots/summit-sunrise.md) — the cold-weather timelapse
+plan for a pre-dawn viewpoint. At a bridge or lookout rail, see also
+[Bridge Spinner](../effects/bridge-spinner.md) for a corkscrew "drone"
+move from below the family up past them.

@@ -25,16 +25,20 @@ Not covered directly in this project's research — the notes below are general 
 - [Slow-Motion Tracked Run](../effects/slow-motion-tracked-run.md) — swing slow-mo, decided in the edit.
 - [Bullet Time](../effects/bullet-time.md) — only in good light (120fps needs it), and only when you have a clear moment to yourself away from other groups. [general advice]
 - [Fake Drone Shot](../effects/fake-drone-shot.md) — a flyover-style overhead look at the hole from the tee.
-- **Round 2 additions** (see `docs/effects-gap-list-round2.md` for the
-  sourced how-to on each, once the corresponding effect page exists):
-  Form Check Slow-Mo (your own swing from a tripod beside the tee),
-  Golf-Club/Pole-Mount Shot (camera rides on the club shaft), Legless Tiny
-  Planet (ground stake in the rough, never the green), Low-Angle Ground
-  Spin (a no-cord bullet-time-style orbit from knee height), and the
-  Bumper/GTA chase recipe adapted to golf-cart speed for the cart itself.
+- [Form Check Slow-Mo](../effects/form-check-slow-mo.md): your own swing from a tripod beside the tee.
+- [Golf Club / Pole Mount](../effects/golf-club-ski-pole-mount.md): the camera rides on the club shaft.
+- [Legless Tiny Planet](../effects/legless-tiny-planet-ground-stake.md): ground stake in the rough, never the green.
+- [Low-Angle Ground Spin](../effects/low-angle-ground-spin.md): a no-cord bullet-time-style orbit from knee height.
+- [Bumper / GTA Chase Shot](../effects/bumper-gta-chase-shot.md): adapted to golf-cart speed for the cart itself.
 - **Don't:** MrBlack's ball-into-the-lens slow-mo trick (deliberately
   hitting the camera with a golf ball) — the lenses are replaceable, but a
   direct hit isn't worth the risk or cost.
+- [Swing-Analysis Camera Positions](../effects/golf-swing-camera-positions.md)
+  now has a sourced how-to, and the Jewkes Clan's "leave it rolling in the
+  golf bag" is worth a line for the walk between shots
+  (https://www.youtube.com/watch?v=fwu1DGVxLfw, 2025-05-24). Still no
+  2025–26 tutorial specifically about golf on a 360 camera. See the
+  step-by-step [Golf Round](golf-round.md) plan.
 
 ## Settings
 [Bright sun & snow settings](../settings/bright-sun-and-snow.md) for most daytime rounds; [Bullet time & slow motion settings](../settings/bullet-time-and-slow-motion.md) for the swing.

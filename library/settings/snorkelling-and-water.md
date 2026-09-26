@@ -32,6 +32,15 @@ setup.
   notes (framing toward the sun, minimising rotation, AquaVision 3.0) that
   also apply if you use the case in a pool or for deeper snorkelling.
 
+## More tips
+See [Spray-Proof Lens & Leash](../effects/spray-proof-lens-and-leash.md) for
+the full page. Highlights: an old diver's **spray-off trick** — lick the
+lens, then rinse and dry, so spray runs off instead of beading; **sunscreen
+on your hands ruins a lens faster than water does** — rub it on your
+wetsuit shoulder and dunk it rather than wiping with a finger; and
+**check the battery/USB doors are fully closed every time** — a
+millimetre open is enough to let water in.
+
 ## Sources
 - [Underwater Photography Guide](https://www.insta360.com/blog/tips/underwater-photography.html) (checked 2026-09-26)
 - [X5 Waterproofing tutorial](https://onlinemanual.insta360.com/x5/en-us/camera/maintenance/waterproof) (checked 2026-09-26)

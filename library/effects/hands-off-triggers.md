@@ -35,5 +35,12 @@ No edit needed to trigger these — they're shoot-time settings. Once captured, 
 - Fits letting it roll: set it up once, then just peace-sign the family photo or say "mark" without stopping to fiddle with the camera.
 - Pre-recording is the best fix for "I wish I'd been rolling for that" moments — turn it on by default for anything unpredictable (kids, wildlife).
 
+## More tips
+[Christmas Morning](../shots/christmas-morning.md) is a worked example of
+Timed Capture used this way: set up the night before, so nobody has to
+press a button in front of sleepy kids. A deaf creator has said this is
+part of why he likes the peace-sign trigger — no need to hear a countdown.
+Source: https://www.youtube.com/watch?v=-BP64qsKWjE @800 (checked 2026-09-26).
+
 ## Sources
 - Ben Claremont, 2025-07-09, https://www.youtube.com/watch?v=h3MeuLv3YsU (checked 2026-09-26)

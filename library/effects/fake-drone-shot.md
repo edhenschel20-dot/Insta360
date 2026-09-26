@@ -34,6 +34,14 @@ An overhead "drone" shot following you or the scene — no drone required, just 
 - Combine with [Rotating Reveal](rotating-reveal.md) for a "drone orbits then reveals" feel.
 - The 3 m stick is the single accessory that sells this effect — most people can't tell it from a real drone.
 
+## More tips (X6, applies to X5 at 5.7K60)
+Ben's settings: distortion control at 0, widen with FOV rather than
+distortion, 50% speed for the floating feel, and a −360° rotation
+keyframe for a corkscrew move over a bridge. Source:
+https://www.youtube.com/watch?v=G_CWxv3O9Mg @200, @360, @500 (2026-09-04,
+checked 2026-09-26). Also see Gimbal Guru's water shot and cable-car shot,
+https://www.youtube.com/watch?v=Sa-Fv3s2ycc @420, @533 (2023-05-07).
+
 ## Sources
 - Insta360, "No drone? No problem!", 2022-07-18, https://www.insta360.com/blog/news/no-drone-no-problem.html (checked 2026-09-26)
 - MountMedia, 2026-03-28, https://www.youtube.com/watch?v=DZcy1So1Et4 (checked 2026-09-26)

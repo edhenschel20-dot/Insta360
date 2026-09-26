@@ -16,7 +16,6 @@ Written for someone who lets the camera roll: set up once, enjoy the moment, sor
 - [Family Events](family-events.md)
 - [Theme Parks & Rides](theme-parks-and-rides.md)
 - [Parades & Fireworks](parades-and-fireworks.md)
-- [Lighted parade at dusk](lighted-parade.md): step-by-step plan
 
 ## Water
 - [Water, Beach & Diving](water-beach-and-diving.md)
@@ -28,6 +27,26 @@ Written for someone who lets the camera roll: set up once, enjoy the moment, sor
 ## People
 - [People Photos with a Phone](people-photos-with-a-phone.md)
 - [People Shots with the X5](people-shots-with-the-x5.md)
+
+---
+
+## Step-by-step plans
+
+One-event plans: a before-you-leave checklist, a set-once settings table,
+where to stand, and a fast edit. Set it up once, let it roll, enjoy the
+moment.
+
+- [Lighted Parade at Dusk](lighted-parade.md)
+- [Luau Night](luau-night.md)
+- [Whale Watch](whale-watch.md)
+- [Helicopter Flight (Doors On)](helicopter-flight.md)
+- [Snorkel Boat Trip](snorkel-boat-trip.md)
+- [Golf Round](golf-round.md)
+- [Birthday Party](birthday-party.md)
+- [Christmas Morning](christmas-morning.md)
+- [Summit Sunrise](summit-sunrise.md)
+- [Coastal Drive with Stops](coastal-drive-with-stops.md)
+- [Dog Walk / Beach Day](dog-walk-beach-day.md)
 
 ---
 

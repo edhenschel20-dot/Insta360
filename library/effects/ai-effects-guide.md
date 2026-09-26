@@ -58,6 +58,13 @@ Results are hit-or-miss, so treat each attempt as an experiment: if the first pr
 ## What we don't know — please check in-app
 **Honestly:** the specific list of scenes inside the separate "AI Effects" section (Edit tab) changes over time and couldn't be verified from any public source for this guide — only one scene name ("snowboarding") turned up anywhere, and a Reddit thread literally titled "Ghost Rider" exists but couldn't be read. **Please open Edit > AI Effects and Shot Lab > AI Warp in the app and screenshot both lists** — that settles the current scene names and each one's remaining-generation count far better than anything found online, and takes about five minutes.
 
+## Latest findings
+Still no readable public source for the AI Effects scene list — see
+[AI Warp & AI Effects](ai-warp-and-ai-effects.md#latest-findings)
+for exactly what was tried, so a future round doesn't repeat it. Also
+worth knowing: Gimbal Guru's "AI tricks" videos are a paid third-party
+service (Higgsfield.ai), not this app's own AI Effects — not this.
+
 ## Tips
 - Spread your free generations across multiple days rather than burning all 3 in one sitting while you're still learning what works.
 - Don't buy an Insta360+ subscription hoping it unlocks more generations — its credits are for a different feature ("Moments"), not AI Warp or AI Effects.

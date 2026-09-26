@@ -35,5 +35,14 @@ Water spray, sand, snow or bubbles passing the camera on all sides at a quarter 
 - Works well for kids running through sprinklers, wave splashback, or a sandy kick-up at the beach.
 - Because it's full 360, you don't need to aim — just get in among the particles and pick the angle later.
 
+## More tips: glow-stick variant
+See [Glow Sticks & Light-Up Toys Slow-Mo](glow-sticks-slow-mo.md): at dusk
+while there's still sky light, shoot 4K120 with the camera low and kids
+waving glow sticks or light-up toys past the lenses on all sides. After
+full dark, switch to PureVideo 5.7K30, EV −0.7, and give up the slow-mo —
+glow sticks are too dim for 120fps. A backyard water-gun day is a good
+everyday example of the base shot:
+https://www.youtube.com/watch?v=rsg0_YSGUU0 (2025-07-06, checked 2026-09-26).
+
 ## Sources
 - Insta360 Tutorials, "Insta360 X5 - 7 Cinematic Shots to Try with Your 360 Cam", https://www.youtube.com/watch?v=4ooR3D4WXk0 (checked 2026-09-26)

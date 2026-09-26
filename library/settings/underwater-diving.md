@@ -59,6 +59,13 @@ surface swimming without the case.
 - **Pool days with kids:** the same dive-case setup works fine in a pool,
   including toddler-height POV shots of them paddling.
 
+## More tips
+The Bucket List Family's boat-entry technique: press record before you sit
+on the boat's edge, hold the camera to your chest for a backward roll
+entry, then extend the stick once you're under — turns the whole entry and
+first sighting into one clip instead of two. Source: 2025-08-03,
+https://www.youtube.com/watch?v=GngrCVfnwpM (checked 2026-09-26).
+
 ## Sources
 - [X5 Invisible Dive Case Pro](https://store.insta360.com/product/x5-invisible-dive-case-pro) (checked 2026-09-26)
 - [X5 Stitching guide](https://onlinemanual.insta360.com/x5/en-us/camera/basicuse/stitching) (checked 2026-09-26)

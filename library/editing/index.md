@@ -52,6 +52,13 @@ Once the reframing is sorted, these cover the finishing touches:
   into a reel with the fewest steps, plus a starter sequence for combining
   effects into one reel.
 
+## Desktop (Studio) extras
+Three more shortcuts that only exist in Insta360 Studio on desktop, not the
+phone app:
+- [Studio's AI tools: Auto Frame batch, Motion ND, Waypoint editor](studio-ai-tools.md) —
+  batch-export one angle per person from a long clip, a software motion-blur
+  ND, and a fast multi-point camera move.
+
 ## Before any of this: finding the good bits
 If you've got a long continuous roll, don't scrub through the whole thing
 by hand. See [Finding moments in long clips](finding-moments-in-long-clips.md)

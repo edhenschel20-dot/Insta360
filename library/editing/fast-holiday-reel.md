@@ -64,4 +64,4 @@ travel vlogs (app version, `YyVv2tKdO1U`; Studio version, `JRNfhT4cP1w`,
 - Ben Claremont blog, "How to Shoot Epic Fast/Slow Motion", 2026-04-24, https://www.benclaremont.com/blog/how-to-shoot-epic-fast-slow-motion-with-your-insta360-camera (checked 2026-09-26)
 - Best360, 2026-04-10, https://www.youtube.com/watch?v=JRNfhT4cP1w (checked 2026-09-26)
 - MountMedia, 2026-03-28, https://www.youtube.com/watch?v=DZcy1So1Et4 (checked 2026-09-26)
-- This project's own `docs/effects-gap-list-round2.md` (checked 2026-09-26)
+- This guide's research notes (checked 2026-09-26)

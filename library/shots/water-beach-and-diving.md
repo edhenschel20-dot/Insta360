@@ -24,3 +24,19 @@ Kayaking, pool, beach, boat, snorkelling and diving. The X5 is natively waterpro
 
 ## Settings
 [Underwater/diving settings](../settings/underwater-diving.md) for dive case use; [Snorkelling & water settings](../settings/snorkelling-and-water.md) for surface swimming; [Bright sun & snow settings](../settings/bright-sun-and-snow.md) for glare off the water.
+
+## Step-by-step plans
+- [Whale Watch](../shots/whale-watch.md) — boat positioning, no chasing the animal.
+- [Snorkel Boat Trip](../shots/snorkel-boat-trip.md) — the boat-entry roll-through.
+- [Dog Walk / Beach Day](../shots/dog-walk-beach-day.md) — beach base-camp cam and a tide-pool dip.
+
+## More tips
+[Waterfall Plunge-Pool](../effects/waterfall-plunge-pool.md),
+[Surf & Bodyboard POV](../effects/surf-bodyboard-pov.md),
+[Bodyboard / Boogie-Board Mount](../effects/bodyboard-boogie-board-mount.md),
+[Whitewater Follow-Cam & Hand-Off](../effects/whitewater-follow-cam.md),
+[Spray-Proof Lens & Leash](../effects/spray-proof-lens-and-leash.md),
+[Black / Red Sand Beach](../effects/black-red-sand-beach.md),
+[Sunset Silhouette](../effects/sunset-silhouette.md) and
+[Resort Pool & Lazy River Float-Along](../effects/resort-pool-lazy-river.md)
+all extend this page.

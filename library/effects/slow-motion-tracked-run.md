@@ -29,6 +29,12 @@ Full reference: [Bullet time & slow motion settings](../settings/bullet-time-and
 ## Tips
 - Good default for kids running around, dogs, or anything on wheels — shoot normally, decide the slow-mo moment later.
 
+## More tips
+"Run puppy run" — camera on the ground, dog runs at it — is the same
+technique applied to a pet; see [Dog Walk / Beach Day](../shots/dog-walk-beach-day.md)
+for the full plan. Source: Insta360 Tutorials (Gregfilms), 5 pet playtime
+shots, 2023-10-04, https://www.youtube.com/watch?v=hDYfGmuajg4 @69 (checked 2026-09-26).
+
 ## Sources
 - Insta360 X5 tips guide, 2025-04-24, https://www.insta360.com/blog/insta360-x5-tips-shooting-best-settings-guide.html (checked 2026-09-26)
 - Gimbal Guru (uploaded 2024-01-10, X3-era UI), https://www.youtube.com/watch?v=PZx1yj1pUvA (checked 2026-09-26)

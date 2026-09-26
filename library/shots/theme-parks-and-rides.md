@@ -25,3 +25,11 @@ Queues, rides, kids' reactions, characters, fireworks over the castle at closing
 
 ## Settings
 [Fast motion & driving settings](../settings/fast-motion-and-driving.md) for the rides themselves; [Events & indoors](../settings/events-and-indoors.md) for indoor/dark rides; [Night & low light](../settings/night-and-low-light.md) for evening fireworks over the park.
+
+## Where sticks aren't allowed
+Some venues ban selfie sticks. See the
+[Foldable Utility Handle](../effects/foldable-utility-handle.md) — a
+folding case-handle that covers the lenses when closed and stands the
+camera on a table when open, confirmed to pass a bag check at one park.
+Hold it at arm's length for faces, since there's no distance from the
+lens the way a stick gives you.

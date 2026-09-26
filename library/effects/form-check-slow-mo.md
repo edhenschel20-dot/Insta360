@@ -32,5 +32,14 @@ Full reference: [Bullet time & slow motion settings](../settings/bullet-time-and
 - Trace Velo used exactly this to adjust a bike fit from Bullet Time slow-mo footage — the same idea works for a golf swing, even though no dedicated golf swing-analysis tutorial exists yet (see the gap list's "Not found" section).
 - Golf etiquette: set the tripod up off to the side, not in anyone's line, and don't hold up the group behind you reviewing footage on the tee.
 
+## More tips: golf swing-analysis positions
+See [Swing-Analysis Camera Positions](golf-swing-camera-positions.md) for
+the full page: **face-on** = camera at hand height, at right angles to
+the target line; **down-the-line** = behind the hands, lens at hand
+height, pointing down the target line through them; a third **rear view
+at belt height** shows hip and spine tilt. **A 16-inch camera offset is
+enough to change the apparent swing plane**, so plant it in the same spot
+each session. See [Golf Round](../shots/golf-round.md) for the full plan.
+
 ## Sources
 - Trace Velo, 2025-04-22, https://www.youtube.com/watch?v=Pj7tElTzcWk (checked 2026-09-26)

@@ -3,7 +3,7 @@ title: Just for fun
 ---
 # Just for fun
 
-Crowd-pleasers and silly effects. **32 effects**, easiest first in each group. â–¶ = added from a YouTube video.
+Crowd-pleasers and silly effects. **40 effects**, easiest first in each group. â–¶ = added from a YouTube video.
 
 ## Transitions
 
@@ -34,6 +34,10 @@ Crowd-pleasers and silly effects. **32 effects**, easiest first in each group. â
 |---|---|---|
 | [360 Orbit (Hand-Swung)](../../effects/hand-swung-360-orbit.md) | Drone-like orbit around you, swung by hand | Easy |
 | [Crevice Probe / Bug View](../../effects/crevice-probe-bug-view.md) | The camera goes where you can't - crevices, ledges, through grass | Easy |
+| [Playground Trio [general advice]](../../effects/playground-trio.md) | Swing pendulum, slide POV and a cord-free roundabout bullet time | Easy |
+| [Resort Pool & Lazy River Float-Along](../../effects/resort-pool-lazy-river.md) | Drift the lazy river on a tube, or cover the pool from the lounger | Easy |
+| [Bridge Spinner](../../effects/bridge-spinner.md) | The camera rises past the family while spinning, corkscrewing the world | Medium |
+| [Snow-Day Mount Swap (Sledding)](../../effects/snow-day-mount-swap-sledding.md) | Swap mounts through the afternoon so every sledding clip looks different | Medium |
 | [Stick Freestyle / Windmill Orbit](../../effects/stick-freestyle-windmill-orbit.md) | Wave the stick anywhere; the edit keeps you centred | Medium |
 
 ## Speed & time
@@ -43,11 +47,13 @@ Crowd-pleasers and silly effects. **32 effects**, easiest first in each group. â
 | [Cart / Trolley / Stroller Direction-Lock Timelapse](../../effects/cart-trolley-stroller-timelapse.md) | A trolley, pushchair or golf cart glides forward in timelapse | Easy |
 | [Escalator Timelapse](../../effects/escalator-timelapse.md) | You stand still while the building streams past | Easy |
 | [Freeze Go](../../effects/freeze-go.md) | Video freezes at a jump's peak moment | Easy |
+| [Glow Sticks & Light-Up Toys Slow-Mo](../../effects/glow-sticks-slow-mo.md) | Kids' glow sticks at dusk, slowed until the light smears into ribbons | Easy |
 
 ## Bullet time
 
 | Effect | What it looks like | Difficulty |
 |---|---|---|
+| [Trampoline Freeze & Bullet Time [general advice]](../../effects/trampoline-freeze-bullet-time.md) | The jump frozen at its peak, or the garden spinning round the bounce | Easy |
 | [Turntable Bullet Time](../../effects/turntable-bullet-time.md) | The Bullet Time spin without holding an arm overhead | Easy |
 | [Bullet Time](../../effects/bullet-time.md) | World spins around you in dramatic slow motion | Medium |
 
@@ -62,6 +68,7 @@ Crowd-pleasers and silly effects. **32 effects**, easiest first in each group. â
 | [Stop Motion](../../effects/stop-motion.md) | Turns a steady walk into stop-motion animation | Easy |
 | [Street Lapse & Flash Dash](../../effects/street-lapse-and-flash-dash.md) | Isolated from a streaming background, or trailing light | Easy |
 | [Clone Loop & Shadow Clone](../../effects/clone-loop-and-shadow-clone.md) | Multiple copies of yourself doing different things in one shot | Medium |
+| [Split Jump & Giant Jump](../../effects/split-jump-giant-jump.md) | Six jumps cut into one, or you land as a giant beside a tripod | Medium |
 
 ## AI effects ðŸ’Ž
 
@@ -75,4 +82,5 @@ Crowd-pleasers and silly effects. **32 effects**, easiest first in each group. â
 
 | Effect | What it looks like | Difficulty |
 |---|---|---|
+| [Foldable Utility Handle (No-Stick Venues)](../../effects/foldable-utility-handle.md) | A folding case-handle for places that ban selfie sticks | Easy |
 | [Light Painting 360 Photo](../../effects/light-painting-360-photo.md) | Words or shapes drawn in light, hanging in the air around you | Medium |

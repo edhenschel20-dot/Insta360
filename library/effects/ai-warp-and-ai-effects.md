@@ -37,6 +37,11 @@ Generative video transformations — the app repaints your clip into a different
 - A failed generation is automatically refunded; there's no confirmed refund for a result you simply don't like.
 - Screenshot which exact feature name appears when you tap an effect — that single check tells you which allowance actually applies, more reliably than anything published online.
 
+## Latest findings
+- **Don't repeat this search:** the AI Effects scene list (Ghost Rider, wave, snowboarding, …) still has no readable public source. Tried and exhausted: r/Insta360 (login wall after one request), forums.insta360.com (JS app, API returns 400), insta360.com/blog (only covers Sky Swap and AI Warp), App/Play Store listings (name Shot Lab templates, not AI Effects scenes), Bing, and channel-scoped YouTube searches. The in-app screenshot is still the only reliable route.
+- **Not this:** Gimbal Guru's "6 mind-blowing AI tricks" video is Higgsfield.ai — a paid third-party service you upload footage to — not an app feature. Don't go looking for those buttons in Insta360's own app.
+- **Split Jump and Giant Jump now have a verified official how-to** — see [Other Shot Lab Templates](other-shot-lab-templates.md).
+
 ## Tips
 - Use the Preview button every time before committing a generation.
 - Spread practice across multiple days to make the most of the free daily allowance rather than burning it all at once.

@@ -34,6 +34,10 @@ Also: Eat Sleep 360's version, https://www.youtube.com/watch?v=CRzGF78HjMc, and 
 - Practise the shape or word once with the torch off before the real take — it's easy to run out of dark before you finish.
 - This is the closest thing this library has to a bonfire/luau light trick — no dedicated tutorial exists for glow sticks at a fire event, but the same settings and backwards-writing rule apply.
 
+## More tips
+For a moving-video companion to this still-photo trick, see the glow-stick
+variant on [Slow-Mo Particle Shot](slow-mo-particle-shot.md#more-tips-glow-stick-variant).
+
 ## Sources
 - Ben Claremont, 2023-04-19, https://www.youtube.com/watch?v=fRwiJrr0sXk (checked 2026-09-26)
 - Eat Sleep 360, 2019-04-08, https://www.youtube.com/watch?v=CRzGF78HjMc (checked 2026-09-26)

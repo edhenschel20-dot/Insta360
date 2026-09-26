@@ -32,6 +32,15 @@ Also: Insta360's own demo (Chris Hau) at `qRpa3ZSWXtw` @295s.
 - This is also the natural mount for [Catch / Throw Transition](catch-throw-transition.md) and a golf-swing POV — anything where you need your hands.
 - Compare with [Chest-Mount 360 POV](chest-mount-pov.md) if you'd rather not hold anything in your mouth — that's the strap-based hands-free alternative.
 
+## Surf specifics
+See [Surf & Bodyboard POV](surf-bodyboard-pov.md),
+[Bodyboard / Boogie-Board Mount](bodyboard-boogie-board-mount.md) and
+[Whitewater Follow-Cam & Hand-Off](whitewater-follow-cam.md). Three
+practical points from those pages: **exhaling fogs the lens**, so breathe
+through your nose once it's in; **tilt the mount up for barrels/whitewater**
+(shows the lip) and **down to show the board and feet** for turns; and
+keep screen lock on so water drops don't change settings mid-session.
+
 ## Sources
 - Insta360 Tutorials, 2025-07-17, https://www.youtube.com/watch?v=4ooR3D4WXk0 (checked 2026-09-26)
 - Insta360 (Chris Hau), 2025-09-05, https://www.youtube.com/watch?v=qRpa3ZSWXtw (checked 2026-09-26)

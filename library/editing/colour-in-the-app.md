@@ -35,4 +35,4 @@ doesn't need Studio or a desktop NLE.
 - The 360 Guy, 2026-04-03, https://www.youtube.com/watch?v=eTNYMxKyTOk (checked 2026-09-26)
 - Ben Claremont, 2025-06-13, https://www.youtube.com/watch?v=QmvhmjVSFP8 (checked 2026-09-26)
 - Best360, app 2.0 guide, 2025-12-07, https://www.youtube.com/watch?v=KD5n1TgPIHY (checked 2026-09-26)
-- This project's own `docs/effects-gap-list-round2.md` (checked 2026-09-26)
+- This guide's research notes (checked 2026-09-26)

@@ -36,6 +36,12 @@ Full reference: [Timelapse & TimeShift settings](../settings/timelapse-and-times
 - **Use each timelapse twice** — once facing forward, once facing back the
   way you came — for two different clips from one capture.
 
+## More tips: sunset timelapse settings
+A fuller sunset-timelapse recipe: 11K, 5 second interval, Vivid colour,
+EV −0.3, white balance manual at 6500K (Auto hunts as the light changes),
+low-light stabilisation off. Source: The Jaunting Ape, 2025-04-13,
+https://www.youtube.com/watch?v=aKNm8xc_50M @30 (checked 2026-09-26).
+
 ## Sources
 - MountMedia, 2026-03-28 (3:14), https://www.youtube.com/watch?v=DZcy1So1Et4 (checked 2026-09-26)
 - Best360, 2025-04-23, https://www.youtube.com/watch?v=FEQLE7UNtLs (checked 2026-09-26)

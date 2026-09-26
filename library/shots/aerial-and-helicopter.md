@@ -24,3 +24,8 @@ Not covered directly in this project's research — the notes below are general 
 
 ## Settings
 [Bright sun & snow settings](../settings/bright-sun-and-snow.md) generally applies at altitude in daylight; [Fast motion & driving settings](../settings/fast-motion-and-driving.md) if the aircraft is moving fast (e.g. a fast bank or descent).
+
+## Step-by-step
+See [Helicopter Flight (Doors On)](helicopter-flight.md) for a full plan:
+tethering, the operator conversation, and lens-on-glass positioning for a
+doors-on tour.

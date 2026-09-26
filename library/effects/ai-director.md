@@ -39,6 +39,13 @@ A free, on-camera feature: while your X5 is charging (from 80% battery or above)
   shooting — direct evidence for letting long clips roll rather than
   shooting short, since the AI can catch what you missed.
 
+## Videos worth a look
+Three videos worth a Gemini or dual-read pass before expanding this page
+further — their transcripts were rate-limited during text-only research:
+Eat Sleep 360, "10 tips", 2026-08-26, https://www.youtube.com/watch?v=lvqg0kgfsk8;
+leonardmlee, 2026-09-08, https://www.youtube.com/watch?v=xgwSX9kqkVc;
+Insta360, X6 "Zero Editing" official film, 2026-08-10, https://www.youtube.com/watch?v=2J-_L24FBgY.
+
 ## Sources
 - Eat Sleep 360, "I Tested insta360 AI Director - 10 Tips You Need To Know", 2026-08-26, https://www.youtube.com/watch?v=lvqg0kgfsk8 (checked 2026-09-26)
 - RobHK, "Insta360 X6 ZERO Editing EXPLAINED! 3 Ways To Edit with No Experience", https://www.youtube.com/watch?v=297G-NWKSqU (checked 2026-09-26)

@@ -32,6 +32,13 @@ One camera clamped at the net post or side fence covers the entire court, so you
 - Because it never moves, one clamp and one battery covers an entire match or practice session — set it and forget it.
 - A tennis version of this exists too (CourtCraft's 2023 X3 test), though pickleball has the more current write-up.
 
+## More tips
+See [Kids' Match Cam](kids-match-cam.md) for a whole football/basketball
+season rather than one court: clamp on the scoring table or touchline
+(never a tripod — people trip over it), two 128 GB cards plus a card
+reader for back-to-back games, and a small USB fan in a 3D-printed sleeve
+to stop the camera overheating in a hot gym.
+
 ## Sources
 - Pickleball Traveler Cam, 2025-09-12, https://www.youtube.com/watch?v=xlx0njhKhu4 (checked 2026-09-26)
 - CourtCraft, tennis X3 test, 2023-05-26, https://www.youtube.com/watch?v=nCge9IQPFo8 (checked 2026-09-26)

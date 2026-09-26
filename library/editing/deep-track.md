@@ -34,6 +34,13 @@ instead of the actual thing I wanted."
 - Don't fight a bad auto-suggestion with more keyframes — just re-draw the
   box or fall back to [split and fixed views](split-and-fixed-views.md).
 
+## What creators say
+- "Draw the box, hit tracking, walk away — it takes as long as the clip."
+  David Manning, https://www.youtube.com/watch?v=Kzm9k4SJN7A @710 (checked 2026-09-26).
+- Filming Fatherhood's habit: Deep Track every clip on the lift/on the
+  walk back, and send it before the next run rather than batching edits
+  for later. https://www.youtube.com/watch?v=mi_txVkM7Ag @550 (checked 2026-09-26).
+
 ## Sources
 - Insta360 app manual, "Tracking Feature" (checked 2026-09-26)
 - This project's own `docs/research-effects-and-workflows.md` Part 2 (checked 2026-09-26)

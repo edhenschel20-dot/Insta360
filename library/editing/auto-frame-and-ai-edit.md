@@ -44,6 +44,14 @@ anything you actually care about.
   length, but its behaviour on very long (20–60+ minute) clips isn't
   independently tested — worth just trying it on your own footage.
 
+## Studio's batch export
+In Insta360 Studio (desktop), right-click a clip › **Start Autoframe** —
+Studio outputs a separate 16:9 clip per person/moving object plus a
+combined one; select several results and batch-export them together. This
+is the fast route for "one angle per child" from a single table-side
+clip. Source: Orlando Nelson, X5 AI features in Studio, 2026 update,
+2026-01-20, https://www.youtube.com/watch?v=4C_SgSFTTcc @150 (checked 2026-09-26).
+
 ## Sources
 - Insta360 app manual, "Auto Edit" (checked 2026-09-26)
 - Insta360 Studio manual, "Auto Frame" (checked 2026-09-26)

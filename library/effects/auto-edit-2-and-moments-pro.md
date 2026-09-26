@@ -38,6 +38,13 @@ Two related but separate features:
   rather than reframing them by hand — a reasonable use even when you're
   not building a full themed edit.
 
+## Latest findings
+Sarb Johal's walkthrough clarifies Moments vs Auto Edit and the upload
+step, and flags a **music-copyright catch**: the music Moments adds to a
+cloud edit may get the result claimed on YouTube, so check before you
+publish one anywhere public. Source: Sarb Johal, Insta360+ Moments guide,
+2026-01-05, https://www.youtube.com/watch?v=zP468bhBaO8 @331 (checked 2026-09-26).
+
 ## Sources
 - MountMedia, "The NEW Insta360 Auto Edit Features for the X6 & X5 Explained", 2026-08-10, https://www.youtube.com/watch?v=uu1UNkbGzbI (checked 2026-09-26)
 - Insta360 app manual, Auto Edit, https://onlinemanual.insta360.com/app/en-us/operation-tutorial/edit-function/auto-edit (checked 2026-09-26)

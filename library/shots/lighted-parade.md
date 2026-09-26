@@ -64,6 +64,10 @@ point. See [Night & low light](../settings/night-and-low-light.md).
 - **Tiny planet photo** of the street before it starts, while there's still
   light in the sky: stick planted, photo mode, self-timer, hold still.
 - If there are **fireworks** at the end, see [Fireworks Two-Parter](../effects/fireworks-two-parter.md).
+- **Between floats:** see [Parade Periscope & Lamp-Post Clamp](../effects/parade-periscope-lamp-post-clamp.md) —
+  raise the stick over the crowd for a "drone"-style pass, or clamp the
+  camera to a lamp-post or barrier and let it roll hands-free rather than
+  roaming with it.
 
 ## Edit it fast (tomorrow)
 1. **Skip AI Edit and Auto Frame.** They'll swing round to faces instead

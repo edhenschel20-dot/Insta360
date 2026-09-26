@@ -25,3 +25,7 @@ You're the subject: talking to camera, wandering somewhere, or just narrating wh
 
 ## Settings
 See [Settings index](../settings/index.md) for the full picture; walking vlogging doesn't have its own dedicated settings page, so pick between [Bright sun & snow](../settings/bright-sun-and-snow.md), [Sunset](../settings/sunset.md) or [Night & low light](../settings/night-and-low-light.md) depending on the light you're in.
+
+## Walking with kids
+Hold the camera at their eye height rather than over your head — see
+[Kid-Height Invisible Cinematographer](../effects/kid-height-invisible-cinematographer.md).

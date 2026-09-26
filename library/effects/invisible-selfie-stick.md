@@ -36,6 +36,12 @@ None needed beyond normal framing — the disappearing act happens at shoot time
   points (so you don't accidentally appear twice in the stitch), and a
   slim-topped stick disappears more reliably than a bulky one.
 
+## More tips
+A stiff carbon stick (e.g. SIRUI) stays invisible; a bendy aluminium one
+shows a black dot in your hand when it flexes. Worth the upgrade if
+you're buying a second stick. Source: David Manning, 2026-06-24,
+https://www.youtube.com/watch?v=Kzm9k4SJN7A @125 (checked 2026-09-26).
+
 ## Sources
 - Insta360 X5 tips guide, 2025-04-24, https://www.insta360.com/blog/insta360-x5-tips-shooting-best-settings-guide.html (checked 2026-09-26)
 - Insta360, "How to use the Invisible Selfie Stick", https://www.insta360.com/blog/tips/invisible-selfie-stick-how-to-use.html (checked 2026-09-26)

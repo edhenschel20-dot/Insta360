@@ -33,6 +33,12 @@ keyframes, and it saves instantly.
   [keyframes with easing](keyframes-with-easing.md) instead — this method
   trades precision for speed.
 
+## More tips
+David Manning steers straight from the Quick Reader without offloading
+footage first, and confirms it also works over Bluetooth to the camera,
+just with more lag. https://www.youtube.com/watch?v=Kzm9k4SJN7A @764, @840
+(2026-06-24, checked 2026-09-26).
+
 ## Sources
 - Insta360 blog, "Insta360 Speeds Up Workflow" (Snap Wizard) (checked 2026-09-26)
 - This project's own `docs/research-effects-and-workflows.md` Part 2 (checked 2026-09-26)

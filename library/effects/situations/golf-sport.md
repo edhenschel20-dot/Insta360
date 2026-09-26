@@ -3,7 +3,7 @@ title: Golf & sport
 ---
 # Golf & sport
 
-Golf rounds and other sport. **19 effects**, easiest first in each group. ▶ = added from a YouTube video.
+Golf rounds and other sport. **22 effects**, easiest first in each group. ▶ = added from a YouTube video.
 
 ## Transitions
 
@@ -16,6 +16,7 @@ Golf rounds and other sport. **19 effects**, easiest first in each group. ▶ = 
 | Effect | What it looks like | Difficulty |
 |---|---|---|
 | [Court-Side "Kitchen Cam"](../../effects/courtside-kitchen-cam.md) | One fixed camera covers the whole court | Easy |
+| [Kids' Match Cam (Pitch-Side Placement & the Overheating Fix)](../../effects/kids-match-cam.md) | One clamped camera covers a whole pitch or court, season-long | Medium |
 | [Perspective-Shift Run & Follow Perspective](../../effects/perspective-shift-run.md) | One clip cut into several different "cameras" | Medium |
 | [Tracked-Object POV](../../effects/tracked-object-pov.md) | An object stays centred while the world moves | Medium |
 
@@ -40,6 +41,7 @@ Golf rounds and other sport. **19 effects**, easiest first in each group. ▶ = 
 | [Cart / Trolley / Stroller Direction-Lock Timelapse](../../effects/cart-trolley-stroller-timelapse.md) | A trolley, pushchair or golf cart glides forward in timelapse | Easy |
 | [Form Check Slow-Mo](../../effects/form-check-slow-mo.md) | Slow-motion technique check from any angle | Easy |
 | [Slow-Motion Tracked Run](../../effects/slow-motion-tracked-run.md) | Cinematic slow motion of someone running or riding | Easy |
+| [Swing-Analysis Camera Positions](../../effects/golf-swing-camera-positions.md) | Where to plant one camera so the swing replay is actually useful | Medium |
 
 ## Bullet time
 
@@ -51,5 +53,6 @@ Golf rounds and other sport. **19 effects**, easiest first in each group. ▶ = 
 
 | Effect | What it looks like | Difficulty |
 |---|---|---|
+| [Mic the Kid (Wireless Mic + Deep Track)](../../effects/mic-the-kid-wireless-mic-deep-track.md) | The child's own voice on the clip, not just ambient noise | Medium |
 | [Ride / Run Stats Overlay](../../effects/stats-overlay.md) | Speed, heart rate and gradient drawn over the footage | Medium |
 | [Speed-Blur Shutter Trick](../../effects/speed-blur-shutter-trick.md) | A ride or drive looks much faster than it was | Medium |

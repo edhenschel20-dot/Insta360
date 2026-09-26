@@ -3,7 +3,7 @@ title: Travel & scenic
 ---
 # Travel & scenic
 
-Views, landmarks, towns and big reveals. **58 effects**, easiest first in each group. ▶ = added from a YouTube video.
+Views, landmarks, towns and big reveals. **67 effects**, easiest first in each group. ▶ = added from a YouTube video.
 
 ## Transitions
 
@@ -49,12 +49,16 @@ Views, landmarks, towns and big reveals. **58 effects**, easiest first in each g
 | [Look-Up Shot](../../effects/look-up-shot.md) | Trees or buildings converge overhead as you pass | Easy |
 | [Low-Angle Ground Skim](../../effects/low-angle-ground-skim.md) | Camera skims just above the ground surface | Easy |
 | [Over-the-Edge Selfie with Slow Rotation](../../effects/over-the-edge-selfie-slow-rotation.md) | Filmed from out over a pier or drop, with a slow drone-like orbit | Easy |
+| [Parade Periscope & Lamp-Post Clamp](../../effects/parade-periscope-lamp-post-clamp.md) | Stick up like a periscope over the crowd, then clamp and go hands-free | Easy |
+| [Whale-Watch Boat Setup](../../effects/whale-watch-boat-setup.md) | The breach and the kids' reaction in one clip, without chasing it | Easy |
 | [Aircraft / Gondola Window Shot](../../effects/aircraft-gondola-window-shot.md) | Camera centred in a cabin window, zooming out slowly | Medium |
 | [Boat / Jet-Ski Rear-Deck Drone & Side-Out Stick](../../effects/boat-jetski-rear-deck-drone.md) | A drone appears to follow the boat, or ride alongside at wave height | Medium |
 | [Boat Selfie / Off-the-Stern Shot](../../effects/boat-selfie-off-the-stern.md) | A drone-like shot off the back of a boat | Medium |
+| [Bridge Spinner](../../effects/bridge-spinner.md) | The camera rises past the family while spinning, corkscrewing the world | Medium |
 | [Stick Freestyle / Windmill Orbit](../../effects/stick-freestyle-windmill-orbit.md) | Wave the stick anywhere; the edit keeps you centred | Medium |
 | [Third-Person Follow / Top-Down View](../../effects/third-person-follow-view.md) | You seen from above and slightly behind | Medium |
 | [Up-and-Over Reveal](../../effects/up-and-over-reveal.md) | The camera swings from behind you, up over your head, onto the view | Medium |
+| [Waterfall Plunge-Pool](../../effects/waterfall-plunge-pool.md) | Under the curtain of falling water, or split at the surface below it | Medium |
 
 ## Speed & time
 
@@ -67,6 +71,7 @@ Views, landmarks, towns and big reveals. **58 effects**, easiest first in each g
 | [Night 11K Timelapse with ND16](../../effects/night-11k-timelapse-nd16.md) | Smooth, blurred-traffic night timelapse with no flicker | Medium |
 | [Night Interval Timelapse (72 MP Stills)](../../effects/night-interval-timelapse-72mp.md) | Max-quality night footage built from 72 MP RAW stills, not video | Medium |
 | [Speed Ramp](../../effects/speed-ramp.md) | Fast, then real-time, then fast again | Medium |
+| [Summit Sunrise Timelapse in the Cold](../../effects/summit-sunrise-timelapse.md) | A sunrise-above-the-clouds timelapse without frosted lenses or a snapped tripod | Hard |
 | [Time Flies (Real-Time You + Timelapse Sky)](../../effects/time-flies-composite.md) | You in real time, clouds racing overhead | Hard |
 
 ## Bullet time
@@ -95,5 +100,9 @@ Views, landmarks, towns and big reveals. **58 effects**, easiest first in each g
 | Effect | What it looks like | Difficulty |
 |---|---|---|
 | [AI Director](../../effects/ai-director.md) | Camera auto-edits your day's clips into one finished video for free | Easy |
+| [Black / Red Sand Beach](../../effects/black-red-sand-beach.md) | Keep dark sand dark and the foam white, instead of grey mush | Easy |
 | [Cinematic 2.35:1 Photos & Filters](../../effects/cinematic-235-photos-and-filters.md) | Wide-format single-lens photos, style borders, and 8 in-camera looks | Easy |
+| [Rainbows After a Shower](../../effects/rainbows-after-a-shower.md) | A rainbow across the road or valley, with the family in frame | Easy |
 | [HDR / AEB Photo Recipe](../../effects/hdr-aeb-photo-recipe.md) | Which photo mode for sunsets and bright beaches | Medium |
+| [Luau / Fire-Dancer Night Show](../../effects/luau-fire-dancer-night-show.md) | A seated night show filmed from your table, torches and all | Medium |
+| [Sunset Silhouette (Manual Exposure)](../../effects/sunset-silhouette.md) | You and the kids as black shapes against the sunset sky | Medium |

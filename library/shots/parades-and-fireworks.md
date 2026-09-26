@@ -34,3 +34,12 @@ Action happens in one direction for a long time — the parade goes past, the fi
 Disney parade footage on the X5 exists (8K, PureVideo) but has no
 accompanying tutorial — example only, not a sourced technique: tolley,
 2025-10-25, `3vhYT9qcMBM`.
+
+## More tips
+More X5-era parade examples with no accompanying how-to: a state-fair walk
+and parade, 2026-09-07, https://www.youtube.com/watch?v=7daX4w_iJHk; a
+theme-park trick-or-treat show, 2026-05-24,
+https://www.youtube.com/watch?v=x8kYvsAl6VI (both checked 2026-09-26).
+Between floats, see [Parade Periscope & Lamp-Post Clamp](../effects/parade-periscope-lamp-post-clamp.md):
+raise the stick over the crowd for a "drone" pass, or clamp the camera to
+a lamp-post or barrier to film hands-free rather than roaming.

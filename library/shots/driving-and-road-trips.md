@@ -23,3 +23,9 @@ Dashcam-style footage, scenic drives, the whole family in the car. The car does 
 
 ## Settings
 [Fast motion & driving settings](../settings/fast-motion-and-driving.md); [Night & low light settings](../settings/night-and-low-light.md) for dusk/night driving.
+
+## Step-by-step plan
+[Coastal Drive with Stops](../shots/coastal-drive-with-stops.md) — the
+[Plant-and-Go Stick Tripod](../effects/plant-and-go-stick-tripod.md) habit
+for a road with frequent pull-offs, plus
+[Rainbows After a Shower](../effects/rainbows-after-a-shower.md).

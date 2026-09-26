@@ -99,4 +99,4 @@ Only worth buying for a specific activity.
   child (or riding partner) are apart, e.g. skiing or biking separately.
 
 ## Sources
-- This project's own `docs/effects-gap-list-round2.md` (checked 2026-09-26)
+- This guide's research notes (checked 2026-09-26)

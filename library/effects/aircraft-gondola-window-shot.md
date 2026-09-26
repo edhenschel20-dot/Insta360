@@ -34,6 +34,21 @@ Also: an X5 mounted in a small Cessna at `SwhUXtg8xmM` (Schmiiindy) and an in-co
 - See [Aerial & Helicopter](../shots/aerial-and-helicopter.md) for the rest of the setup/safety notes for a flight day.
 - The zoom-out is what turns a static window shot into something that feels like a reveal — a locked-off frame with no zoom reads flat by comparison.
 
+## More tips
+- No suction mount outside the aircraft, ever — pressure changes rule it
+  out; fine on a window or canopy inside the cabin if the operator allows
+  it. Source: Wairworthy, https://www.youtube.com/watch?v=JtXyXDgXbnI @372
+  (checked 2026-09-26).
+- A canopy suction mount plus a headset ear-cup mic (Mic Air) gives clean
+  intercom audio alongside the window shot. Source: Short Field,
+  https://www.youtube.com/watch?v=JfsjdGhzfdk @48, @180 (checked 2026-09-26).
+- Reflections come from the cabin, not the glass — dark clothing and the
+  lens as close to the window as allowed substitute for a lens hood.
+  Source: Jeff Schultz, https://www.youtube.com/watch?v=FwWe2V-att0 @304
+  (checked 2026-09-26). Tether everything: Jon Wright,
+  https://www.youtube.com/watch?v=LukG8rSZTco @412 (checked 2026-09-26).
+- See the step-by-step [Helicopter Flight (Doors On)](../shots/helicopter-flight.md) plan.
+
 ## Sources
 - Ben Claremont, 2026-02-10 (gondola), https://www.youtube.com/watch?v=GmYovhkMmKY (checked 2026-09-26)
 - Schmiiindy, 2025-11-04 (X5 in a Cessna), https://www.youtube.com/watch?v=SwhUXtg8xmM (checked 2026-09-26)
