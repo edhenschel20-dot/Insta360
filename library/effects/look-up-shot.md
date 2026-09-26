@@ -8,6 +8,11 @@ Towering trees or buildings converge overhead as you move underneath them.
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/mYMILGQoyfc?start=337" title="Insta360 X5 - 10 Creative Shots & How to Edit (ft. Best360)" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=mYMILGQoyfc&t=337s) · Insta360 Tutorials
+
 ## Shoot it
 1. Hold the camera low, moving forward at a steady pace — nothing else needed, this can come from normal rolling footage under trees or buildings.
 

@@ -122,7 +122,23 @@ def slugify(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")[:60] or "video"
 
 
-def render_body(e: dict) -> str:
+def video_id(url: str) -> str:
+    m = re.search(r"(?:v=|youtu\.be/|shorts/|embed/|live/)([A-Za-z0-9_-]{11})", url)
+    return m.group(1) if m else ""
+
+
+def embed(url: str, title: str) -> str:
+    vid = video_id(url)
+    if not vid:
+        return f"[Watch the video]({url})"
+    title = title.replace('"', "'")
+    return (
+        f'<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/{vid}" '
+        f'title="{title}" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>'
+    )
+
+
+def render_body(e: dict, url: str) -> str:
     def numbered(items):
         return "\n".join(f"{i}. {s}" for i, s in enumerate(items, 1)) or "_Not shown in the video._"
 
@@ -133,6 +149,7 @@ def render_body(e: dict) -> str:
     return (
         f"# {e['title']}\n\n{e['what_it_looks_like']}\n\n"
         f"**Difficulty:** {e['difficulty']}  ·  **Camera in video:** {e['camera_in_video']}\n\n"
+        f"## See it\n{embed(url, e['title'])}\n\n"
         f"## Shoot it\n{numbered(e['shoot_steps'])}\n\n"
         f"## Edit it (phone app)\n{numbered(e['edit_steps'])}\n\n"
         f"## Settings\n{bullets(e['settings'])}\n\n"
@@ -155,7 +172,7 @@ def write_entry(url: str, entry: dict) -> Path:
     title = entry["title"].replace('"', "'")
     path.write_text(
         f'---\ntitle: "{title}"\ntags: [youtube, {tags}]\n---\n'
-        f"{render_body(entry)}\n"
+        f"{render_body(entry, url)}\n"
         f"## Source\n- [Watch the video]({url}) (read by {entry['model']} on {date.today()})\n\n"
         f'!!! note "Unreviewed"\n    Written automatically from the video. '
         f"Check the steps the first time you try it.\n",

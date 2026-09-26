@@ -8,6 +8,11 @@ The camera passes through or past a railing, bike, doorway or car, and the subje
 
 **Difficulty:** Easy–Medium · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/DZcy1So1Et4?start=245" title="The Best Creative Shot Ideas For the Insta360 X5" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=DZcy1So1Et4&t=245s) · MountMedia
+
 ## Shoot it
 1. Long stick, move the camera through or alongside the object at a steady pace — a doorway, a bike, a railing, someone's shoulder.
 2. Keep going past it in one smooth move; no need to stop.

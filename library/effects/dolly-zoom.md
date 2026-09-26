@@ -8,6 +8,11 @@ The subject stays the same size while the background rushes in or out — the cl
 
 **Difficulty:** Medium · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/aY-SqbRtRyc" title="Insta360 X5 Dolly Zoom Tutorial 😍 | Horizon Pull Effect Explained" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=aY-SqbRtRyc) · Insta360
+
 ## Shoot it
 1. When you want a hero shot: walk straight toward (or away from) a subject at a steady pace, camera at their chest height.
 2. Keeping the walk speed even matters more than anything else here.

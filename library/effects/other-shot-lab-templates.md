@@ -8,6 +8,9 @@ Shot Lab has 25–30+ templates that change over time. The ones above have enoug
 
 **Difficulty:** Easy (one-tap templates) · **Works on X5:** Check app version — names and availability change often
 
+## See it
+_No verified example video yet. Add one with the "Add a video" form._
+
 ## What's in here
 - **Dolly Zoom** — one-tap version of [Dolly Zoom / Horizon Pull](dolly-zoom.md).
 - **Auto TimeShift** — automatic version of [Hyperlapse / TimeShift](hyperlapse-and-timeshift.md).

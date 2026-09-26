@@ -8,6 +8,11 @@ Stitches six or more Bullet Time shots from different locations into one reel.
 
 **Difficulty:** Easy · **Works on X5:** Check app version (legacy tutorial, technique current)
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/UrXAyFnzu9M" title="Insta360 - Learn How to Get Epic Bullet Time Mix With Shot Lab" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=UrXAyFnzu9M) · Insta360 Tutorials
+
 ## Shoot it
 Shoot several [Bullet Time](bullet-time.md) clips across a day or trip — same technique each time, different locations.
 

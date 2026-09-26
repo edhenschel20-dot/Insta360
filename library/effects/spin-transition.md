@@ -8,6 +8,11 @@ The view whips round at the end of one clip and settles at the start of the next
 
 **Difficulty:** Medium · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/r5fsQzzXHus" title="How to Do This Creative Spin Transition! ✨ | Insta360 X5" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=r5fsQzzXHus) · Insta360
+
 ## Shoot it
 1. Best with two clips that both have some movement in them already — nothing special needed at shoot time.
 

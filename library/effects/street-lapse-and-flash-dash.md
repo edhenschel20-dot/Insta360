@@ -8,6 +8,11 @@ You isolated from a background that streams past (Street Lapse), or rocketing fo
 
 **Difficulty:** Easy · **Works on X5:** Check app version (menu names vary by app version)
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/rqGtkeSO0GM" title="Insta360 X4 Flash Dash Effect using Shot Lab #insta360 #flash" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=rqGtkeSO0GM) · Yashwant Saini
+
 ## Shoot it
 Walk, skate or ski steadily with the stick extended. Several people can be in frame for a Flash Dash together.
 

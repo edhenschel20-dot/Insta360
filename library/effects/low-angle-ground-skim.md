@@ -8,6 +8,11 @@ A camera racing along just above the ground — dramatic, close-up texture rushi
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/DZcy1So1Et4?start=670" title="The Best Creative Shot Ideas For the Insta360 X5" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=DZcy1So1Et4&t=670s) · MountMedia
+
 ## Shoot it
 1. Point the stick down, camera just above the surface — don't let the lens actually touch the ground.
 2. Keep some distance from any subject you're skimming past.

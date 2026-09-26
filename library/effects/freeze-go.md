@@ -8,6 +8,9 @@ The video freezes at the peak of a jump or action while the camera keeps moving 
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+_No verified example video yet. Add one with the "Add a video" form._
+
 ## Shoot it
 Normal video with a clear peak moment — a jump, a catch, a high-five. No special setup needed.
 

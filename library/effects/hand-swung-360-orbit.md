@@ -8,6 +8,11 @@ Looks like a drone circling you at shoulder height — done by hand, no bullet-t
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/_BpjaaCGS5E?start=115" title="21 creative Insta360 X5 tricks & ideas" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=_BpjaaCGS5E&t=115s) · Gimbal Guru
+
 ## Shoot it
 1. Standard video mode (not Bullet Time — for the slow-motion version of an orbit, see [Bullet Time](bullet-time.md)).
 2. Swing the stick around yourself horizontally at shoulder height, one smooth circle.

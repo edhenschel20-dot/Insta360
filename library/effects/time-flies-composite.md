@@ -8,6 +8,11 @@ You standing still in real time while clouds race overhead — two clips composi
 
 **Difficulty:** Hard (desktop compositing) · **Works on X5:** Yes, but needs a desktop NLE
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/PZx1yj1pUvA?start=1093" title="10 sensational Insta360 X5 tricks for 2026" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=PZx1yj1pUvA&t=1093s) · Gimbal Guru
+
 ## Shoot it
 1. Clip A: normal video of the scene with you in it, camera locked off.
 2. Clip B: a timelapse from the exact same spot and framing (see [Motion Timelapse](motion-timelapse.md)).

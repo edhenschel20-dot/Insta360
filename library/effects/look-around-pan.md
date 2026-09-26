@@ -8,6 +8,11 @@ A slow, deliberate pan around the environment while you keep moving — good for
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/_BpjaaCGS5E?start=298" title="21 creative Insta360 X5 tricks & ideas" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=_BpjaaCGS5E&t=298s) · Gimbal Guru
+
 ## Shoot it
 1. Just walk normally, stick raised. Nothing to do at shoot time — this comes entirely from footage you already have rolling.
 

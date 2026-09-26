@@ -8,6 +8,11 @@ The camera glides forward, then the view swings round to show what's behind or a
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/DZcy1So1Et4?start=54" title="The Best Creative Shot Ideas For the Insta360 X5" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=DZcy1So1Et4&t=54s) · MountMedia
+
 ## Shoot it
 1. Just walk or ride forward smoothly, stick up, at a steady height. Nothing else to do — the 360 capture already has both directions.
 2. If you want a deliberate version later (see intro), keep the walk steady and don't swing the stick side to side.

@@ -8,6 +8,11 @@ Several copies of the same person trailing behind them as they walk across a sta
 
 **Difficulty:** Easy · **Works on X5:** Check app version (menu names vary by app version)
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/jEkmuyAEkSM?start=55" title="Insta360 X3 Tutorial. How to shoot a perfect Clone Trail" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=jEkmuyAEkSM&t=55s) · Restless Creative
+
 ## Shoot it
 1. Camera static — tripod, or held steady on a plant/table.
 2. One person moves across the scene in a single direction while the camera keeps rolling.

@@ -8,6 +8,11 @@ Replaces a flat, grey sky with an atmospheric or starry one — fixes the thing 
 
 **Difficulty:** Easy · **Works on X5:** Check app version (menu names vary by app version)
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/8qUrgQwj3BU" title="Insta360 - How to Swap Out the Sky in Your Footage (ft. Gregfilms)" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=8qUrgQwj3BU) · Insta360
+
 ## Shoot it
 1. Open space, camera on a stick or tripod.
 2. More than 15 seconds of footage with lots of visible sky in frame.

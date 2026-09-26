@@ -8,6 +8,11 @@ You, seen from above and slightly behind — a "video game" third-person camera,
 
 **Difficulty:** Easy–Medium (comfort is the hard part) · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/DZcy1So1Et4?start=620" title="The Best Creative Shot Ideas For the Insta360 X5" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=DZcy1So1Et4&t=620s) · MountMedia
+
 ## Shoot it
 1. Mount the stick behind and above you using the Third-Person Backpack Mount or Back Bar Mount, or simply hold the stick extended behind/above yourself.
 2. Walk, ride or ski normally — the mount does the work.

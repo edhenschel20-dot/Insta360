@@ -8,6 +8,11 @@ Three related one-tap templates that turn a tiny planet into a moving shot.
 
 **Difficulty:** Easy · **Works on X5:** Check app version (menu names vary by app version)
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/nsZZi-GGKgM" title="Insta360 App Tutorial: How To Film A Tiny Planet Spin With Insta360 X5" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=nsZZi-GGKgM) · Best360
+
 ## Shoot it
 - **Roll Planet:** camera static on a tripod, you walk a 2 m circle around it.
 - **Spin View:** one 360 photo of you at 45–60° to the stick — the template animates it (8 variants available).

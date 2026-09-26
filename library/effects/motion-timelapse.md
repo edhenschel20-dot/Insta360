@@ -8,6 +8,11 @@ A timelapse where the camera also pans — clouds racing past while the view slo
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/DZcy1So1Et4?start=194" title="The Best Creative Shot Ideas For the Insta360 X5" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=DZcy1So1Et4&t=194s) · MountMedia
+
 ## Shoot it
 1. Timelapse mode, 11K.
 2. Interval: 5 seconds for clouds, 2 seconds for crowds.

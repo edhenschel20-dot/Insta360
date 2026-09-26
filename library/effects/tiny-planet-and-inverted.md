@@ -8,6 +8,11 @@ The world wrapped into a little ball with you standing on top (tiny planet), or 
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/_BpjaaCGS5E?start=257" title="21 creative Insta360 X5 tricks & ideas" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=_BpjaaCGS5E&t=257s) · Gimbal Guru
+
 ## Shoot it
 1. Works from a static camera with things moving around it, or from you moving through a changing scene — either way, keep the stick vertical.
 2. For a group version, see [people shots with the X5](../shots/people-shots-with-the-x5.md) (tiny planet group portrait).

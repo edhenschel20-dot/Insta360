@@ -8,6 +8,11 @@ A very wide, first-person view with hands and bike visible — you're in the sho
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/DZcy1So1Et4?start=574" title="The Best Creative Shot Ideas For the Insta360 X5" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=DZcy1So1Et4&t=574s) · MountMedia
+
 ## Shoot it
 1. Mount the X5 protruding slightly from a chest mount, facing forward.
 2. Enable "tilt recovery" for bikes so your lean angle is preserved in the reframe (menu names vary by app version).

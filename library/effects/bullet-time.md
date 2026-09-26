@@ -8,6 +8,11 @@ The world spins around you in slow motion, Matrix-style.
 
 **Difficulty:** Easy–Medium · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/DZcy1So1Et4?start=452" title="The Best Creative Shot Ideas For the Insta360 X5" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=DZcy1So1Et4&t=452s) · MountMedia
+
 ## Shoot it
 1. This is a deliberate, short clip on purpose — one of the few effects where a quick, planned take beats rolling footage.
 2. Use Bullet Time mode (5.7K120).

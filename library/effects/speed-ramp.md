@@ -8,6 +8,11 @@ Fast, then real-time (or half-speed) at the key moment, then fast again.
 
 **Difficulty:** Medium · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/v9SaLex6pn0" title="@insta360 X5: How To Film Speed Ramp & Insta360 App Tutorial" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=v9SaLex6pn0) · Best360
+
 ## Shoot it
 Normal video — nothing special needed at shoot time. This is entirely an editing decision, so it works well on footage you already let roll.
 

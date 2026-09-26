@@ -8,6 +8,11 @@ Cinematic slow motion of someone running, riding, or otherwise moving fast, with
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/PZx1yj1pUvA?start=580" title="10 sensational Insta360 X5 tricks for 2026" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=PZx1yj1pUvA&t=580s) · Gimbal Guru
+
 ## Shoot it
 Shoot in 5.7K60 or 4K120 — these give roughly 4x slow-motion on playback. No special framing needed at shoot time.
 

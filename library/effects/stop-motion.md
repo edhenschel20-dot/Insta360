@@ -8,6 +8,11 @@ Turns a steady walk into a stop-motion-style animation of you moving forward, st
 
 **Difficulty:** Easy · **Works on X5:** Check app version (menu names vary by app version)
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/ryFgJ1c8ujY" title="How to shoot and edit awesome stop motion video with zero effort" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=ryFgJ1c8ujY) · Insta360
+
 ## Shoot it
 1. 5.7K30, stick at full length.
 2. Walk at an even pace for at least 2 minutes so the AI has enough footage to learn your pose.

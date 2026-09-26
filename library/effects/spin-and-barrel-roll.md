@@ -8,6 +8,11 @@ The world spins horizontally around you (spin) or rolls end-over-end (barrel rol
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/107gkzr5aKA" title="Insta360 X5 Tutorial: How To Film And Edit A Barrel Roll Shot" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=107gkzr5aKA) · Best360
+
 ## Shoot it
 1. No special shooting needed — this can be added after the fact to any clip.
 2. In-camera shortcut: InstaFrame 2.0 lets you trigger a spin or roll live; the Mini Remote does one with three button presses.

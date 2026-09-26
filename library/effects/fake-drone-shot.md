@@ -8,6 +8,11 @@ An overhead "drone" shot following you or the scene — no drone required, just 
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/DZcy1So1Et4?start=305" title="The Best Creative Shot Ideas For the Insta360 X5" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=DZcy1So1Et4&t=305s) · MountMedia
+
 ## Shoot it
 1. Put the X5 on the 3 m Extended Edition Selfie Stick (or the standard stick for a lower "drone"). Hold it straight up, lenses parallel to the stick so it disappears.
 2. Walk forward in a straight line at a constant height — that's the whole shot.

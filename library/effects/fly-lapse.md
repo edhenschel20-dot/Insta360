@@ -8,6 +8,11 @@ A fake FPV-drone hyperlapse, built automatically by Shot Lab from a straight wal
 
 **Difficulty:** Easy · **Works on X5:** Yes (menu names vary by app version)
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/2y_U-pJhInY?start=223" title="Insta360 Shot Lab Fly Lapse Effect // Flying Time Lapse Tutorial // Insta360 Video Effects" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=2y_U-pJhInY&t=223s) · Northern Maple
+
 ## Shoot it
 1. 5.7K30 (X5 can also do 8K). Invisible Selfie Stick at full length.
 2. Walk about 3 minutes in a straight line. Symmetrical streets with close buildings work best.

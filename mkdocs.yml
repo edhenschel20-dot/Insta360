@@ -3,6 +3,8 @@ site_description: Settings, effects, editing how-tos and shot ideas for the Inst
 site_url: https://edhenschel20-dot.github.io/Insta360/
 repo_url: https://github.com/edhenschel20-dot/Insta360
 docs_dir: library
+extra_css:
+  - stylesheets/extra.css
 
 theme:
   name: material

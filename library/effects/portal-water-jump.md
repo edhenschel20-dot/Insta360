@@ -8,6 +8,11 @@ You jump into water in one place and the cut makes it look like you surface some
 
 **Difficulty:** Medium–Hard · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/PZx1yj1pUvA?start=158" title="10 sensational Insta360 X5 tricks for 2026" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=PZx1yj1pUvA&t=158s) · Gimbal Guru
+
 ## Shoot it
 1. This is a deliberate, planned shot — not something you get from normal rolling footage.
 2. Clip A: jump in, and dunk the camera under as you enter the water.

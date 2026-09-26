@@ -8,6 +8,11 @@ Flying through a scene at speed with motion blur — a ski lift, a bike ride, a 
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/DZcy1So1Et4?start=352" title="The Best Creative Shot Ideas For the Insta360 X5" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=DZcy1So1Et4&t=352s) · MountMedia
+
 ## Shoot it
 Two ways to get this:
 1. **In-camera (TimeShift mode):** 8K, speed Auto or manual up to 60x. Keep the camera at a constant height, move in straight lines. Files come out around 10% the size of normal video.

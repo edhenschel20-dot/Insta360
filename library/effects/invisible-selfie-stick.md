@@ -8,6 +8,11 @@ You, filmed as if by an invisible cameraman — the stick disappears in the stit
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/_BpjaaCGS5E?start=85" title="21 creative Insta360 X5 tricks & ideas" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=_BpjaaCGS5E&t=85s) · Gimbal Guru
+
 ## Shoot it
 1. Keep the two lenses parallel with the stick — "right down the middle" — or it won't disappear cleanly.
 2. Use the extended 3 m stick for the "how did they film that" version, standard length for everyday use.

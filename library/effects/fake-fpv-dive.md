@@ -8,6 +8,11 @@ Reads like an FPV drone diving down a cliff, slope or building face.
 
 **Difficulty:** Medium–Hard · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/PZx1yj1pUvA?start=882" title="10 sensational Insta360 X5 tricks for 2026" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=PZx1yj1pUvA&t=882s) · Gimbal Guru
+
 ## Shoot it
 1. This is a deliberate "hero shot" extra, not something you get from normal rolling footage.
 2. Long stick, start high, sweep the camera down and forward along the drop in one smooth motion.

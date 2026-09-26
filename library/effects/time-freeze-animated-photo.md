@@ -8,6 +8,11 @@ A frozen moment that the camera flies around — built from a single still photo
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/_BpjaaCGS5E?start=362" title="21 creative Insta360 X5 tricks & ideas" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=_BpjaaCGS5E&t=362s) · Gimbal Guru
+
 ## Shoot it
 1. Take a 360 photo (72 MP) of an action pose or a group mid-gesture — arms out, mid-laugh, mid-jump.
 

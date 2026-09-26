@@ -8,6 +8,11 @@ A ball, tool, cup or hand-held object stays dead centre in frame while the world
 
 **Difficulty:** Medium · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/PZx1yj1pUvA?start=47" title="10 sensational Insta360 X5 tricks for 2026" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=PZx1yj1pUvA&t=47s) · Gimbal Guru
+
 ## Shoot it
 1. Mount the X5 on a mouth mount or chest mount, then hold, throw or pass the object as normal.
 

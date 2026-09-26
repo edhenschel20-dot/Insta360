@@ -8,6 +8,11 @@ The camera lifts from ground level up past you into the sky — a jib/crane move
 
 **Difficulty:** Easy · **Works on X5:** Yes
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/DZcy1So1Et4?start=487" title="The Best Creative Shot Ideas For the Insta360 X5" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=DZcy1So1Et4&t=487s) · MountMedia
+
 ## Shoot it
 1. This is a "when you want a hero shot" extra: pick a moment, extend the stick fully.
 2. Start with the camera near the ground, then raise it smoothly overhead in one motion. Having something on the left/right of frame (trees, a doorway, people) adds depth.

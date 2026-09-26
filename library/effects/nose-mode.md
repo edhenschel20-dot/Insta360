@@ -8,6 +8,11 @@ An exaggerated, funny camera-on-face selfie — famous for making people ask "wh
 
 **Difficulty:** Easy · **Works on X5:** Check app version (menu names vary by app version)
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/DwbBllAyR74" title="Insta360 Nose Mode 👃🏼. Shot with Insta360 X3 #insta360" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=DwbBllAyR74) · Best360
+
 ## Shoot it
 Shot Lab **Nose Mode**, or hold the camera right at face level, about 30 cm away.
 

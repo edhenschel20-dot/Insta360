@@ -8,6 +8,11 @@ Generative video transformations — the app repaints your clip into a different
 
 **Difficulty:** Medium (results are hit-or-miss; budget more than one try) · **Works on X5:** Yes · 💎 uses limited free generations
 
+## See it
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/D7Lhjj_flUU" title="Insta360 - AI Warp: Insane Effects Made Simple (ft. Gregfilms)" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=D7Lhjj_flUU) · Insta360 Tutorials
+
 ## Shoot it
 1. Pick a clip 4–15 seconds long — shorter clips are cheaper to experiment with.
 2. Any normal 360 footage works; you don't need to plan the shot differently.
