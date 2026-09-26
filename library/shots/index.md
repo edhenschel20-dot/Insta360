@@ -16,6 +16,7 @@ Written for someone who lets the camera roll: set up once, enjoy the moment, sor
 - [Family Events](family-events.md)
 - [Theme Parks & Rides](theme-parks-and-rides.md)
 - [Parades & Fireworks](parades-and-fireworks.md)
+- [Lighted parade at dusk](lighted-parade.md): step-by-step plan
 
 ## Water
 - [Water, Beach & Diving](water-beach-and-diving.md)

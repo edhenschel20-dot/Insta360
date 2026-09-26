@@ -4,6 +4,9 @@ tags: [shots, fireworks, parades, night]
 ---
 # Parades & Fireworks
 
+!!! tip "Lighted parade tonight?"
+    See the step-by-step **[Lighted parade at dusk](lighted-parade.md)** plan.
+
 Action happens in one direction for a long time — the parade goes past, the fireworks go up over the castle. This is the easiest kind of situation to shoot for a fast edit, because you already know where to point the "front" lens.
 
 ## Setup (once)
@@ -21,11 +24,8 @@ Action happens in one direction for a long time — the parade goes past, the fi
 ## Effects that work here
 - [Split Screen / MultiView](../effects/split-screen-multiview.md) — reactions and the fireworks/parade in one frame.
 - [Motion Timelapse](../effects/motion-timelapse.md) — good for a long parade route.
-- **Fireworks Two-Parter** (round 2 research) — a sunset-to-dark 11K
-  timelapse that pans onto the first rockets, then handheld PureVideo
-  fireworks on the 3 m stick. If this effect page exists in your library
-  yet, it covers the full recipe; otherwise see
-  `docs/effects-gap-list-round2.md` for the sourced steps.
+- [Fireworks Two-Parter](../effects/fireworks-two-parter.md): a sunset-to-dark
+  timelapse that pans onto the first rockets, then handheld PureVideo fireworks.
 
 ## Settings
 [Night & low light settings](../settings/night-and-low-light.md) for fireworks and evening parades.
