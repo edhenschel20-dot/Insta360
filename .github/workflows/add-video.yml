@@ -2,7 +2,7 @@ name: Add video to guide
 
 on:
   issues:
-    types: [opened, labeled]
+    types: [opened]
 
 permissions:
   contents: write
@@ -17,7 +17,8 @@ jobs:
   add-video:
     # Only the repo owner can trigger this, so strangers can't spend the Gemini key.
     if: >-
-      contains(github.event.issue.labels.*.name, 'video') &&
+      (contains(github.event.issue.labels.*.name, 'video') ||
+       startsWith(github.event.issue.title, 'Video:')) &&
       github.event.issue.user.login == github.repository_owner
     runs-on: ubuntu-latest
     steps:
