@@ -5,6 +5,8 @@ repo_url: https://github.com/edhenschel20-dot/Insta360
 docs_dir: library
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - javascripts/trip-planner.js
 
 theme:
   name: material

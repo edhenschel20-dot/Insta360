@@ -7,7 +7,13 @@ tags: [gear, storage, battery, trip-planning]
 A general method for working out how many cards and batteries a trip needs,
 before you go.
 
-## Steps
+## Trip planner
+Pick a recording mode, add what you'll be doing, and tap the card sizes you
+own. It remembers your entries on this device, and **Reset** clears them.
+
+<div id="trip-planner"><noscript>The planner needs JavaScript. The steps below do the same thing by hand.</noscript></div>
+
+## Doing it by hand
 1. **Estimate hours of footage per activity.** List your planned activities
    (diving, driving, events, general rolling) and a rough number of hours
    for each.
