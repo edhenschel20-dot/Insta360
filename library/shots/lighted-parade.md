@@ -15,7 +15,7 @@ roll, enjoy the parade.**
 
 ## Before you leave (5 minutes)
 - [ ] **Charge the battery**, especially after a day of shooting. PureVideo drains it faster. Bring the spare.
-- [ ] **Check card space.** About 1.5 hours of parade at 5.7K is roughly 120 GB, worst case.
+- [ ] **Check card space.** About 1 hour of parade is roughly 80 GB, worst case. The camera shows the time left, so check that.
 - [ ] **Wipe both lenses.** Lights plus a smudge give big glowing halos.
 - [ ] Bring the mini tripod or use the stick's stand, if you have one.
 
@@ -23,7 +23,7 @@ roll, enjoy the parade.**
 | | |
 |---|---|
 | Mode | **PureVideo** |
-| Resolution | **5.7K 30fps** (or 4K 30fps) |
+| Resolution | **8K 30fps** (sharper), or 5.7K 30fps (longer battery) |
 | EV | **−0.7** to start |
 | White balance | Auto |
 | Colour | Standard |

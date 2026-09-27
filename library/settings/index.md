@@ -10,8 +10,8 @@ worth a deliberate change.
 
 | Scenario | Mode | Res/FPS | EV | Notes |
 |---|---|---|---|---|
-| [Night & low light](night-and-low-light.md) | PureVideo | 4K or 5.7K 30fps | −0.3 to −0.7 | Manual WB 3200–4500K |
-| [Night & low light](night-and-low-light.md) (city lights) | PureVideo | 5.7K30 | −0.7 | WB 3200–3500K |
+| [Night & low light](night-and-low-light.md) | PureVideo | 8K or 5.7K 30fps | −0.3 to −0.7 | Manual WB 3200–4500K |
+| [Night & low light](night-and-low-light.md) (city lights) | PureVideo | 8K30 or 5.7K30 | −0.7 | WB 3200–3500K |
 | [Bright sun & snow](bright-sun-and-snow.md) | Video | 5.7K60 or 8K30 | −0.3 to −1.0 | ND filter optional |
 | [Sunset](sunset.md) | Video, Active HDR on | 5.7K60 or 8K30 | −0.7 to −1.3 for silhouette | Switch to PureVideo once dark |
 | [Diving](underwater-diving.md) | Video, Dive Case Mode ON | 5.7K30 | Auto (+0.3–0.7 if murky) | AquaVision to fix colour after |

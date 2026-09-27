@@ -12,7 +12,7 @@ brightness afterwards.
 | | General night | City lights (signage, streetlights) |
 |---|---|---|
 | Mode | PureVideo | PureVideo |
-| Res/FPS | 4K or 5.7K, 30fps | 5.7K30 |
+| Res/FPS | 8K30, 5.7K30 or 4K30 | 8K30 or 5.7K30 |
 | EV | −0.3 to −0.7 | −0.7 |
 | ISO | Auto, capped ~1600 (or manual 400–800 on a tripod) | same |
 | White balance | Manual 3200–4500K, or Auto if the scene is mixed/moving | Manual 3200–3500K |
@@ -54,13 +54,23 @@ a reason to add a gimbal to the kit — just a known trade-off of the mode.
   brighten later; blown highlights aren't.
 - A mini tripod or planted stick beats handheld for anything longer than a
   casual clip — slower effective shutter at night makes hand-shake obvious.
-- Don't shoot 8K in low light — more noise, and PureVideo's support for 8K
-  is inconsistent. Stick to 4K/5.7K.
+- **8K 30 works in PureVideo on the X5** with current firmware: the camera
+  offers it after you accept the low-light prompt, and Insta360's battery
+  page lists "PureVideo at 8K@30fps". 8K gives sharper reframes. 5.7K gives
+  longer battery life (roughly 135 vs 93 min), smaller files and a little
+  less grain. Both are fine; pick 8K when the battery is healthy.
+- **Finding PureVideo:** when it's dark, the camera pops up a low-light
+  prompt. Tap yes to switch into PureVideo. It's also its own shooting mode
+  in the mode list (menu names vary by firmware).
+- PureVideo runs at 30fps or lower. 60fps isn't offered, and wouldn't help
+  at night anyway: each frame would get half the light.
 - Reportedly around a 65-minute overheat-shutdown risk in demanding
   conditions (app-connected, direct heat) — not usually an issue for normal
   handheld night shooting. Check in the app if you're on a long session.
 
 ## Sources
+- Insta360 X5 manual, Battery Life page, which lists "PureVideo at 8K@30fps" (checked 2026-09-26)
+- Seen on an X5 in use: 8K30 selectable in PureVideo (2026-09-26)
 - [X5 PureVideo tutorial](https://onlinemanual.insta360.com/x5/en-us/operating_tutorials/capture-preview/shooting-mode/purevideo) (checked 2026-09-26)
 - [Best settings for low light with the X5](https://droneandcam.com/en/post/best-settings-for-shooting-in-low-light-with-the-insta360-x5/) (checked 2026-09-26)
 - This project's own `docs/settings-presets.md` (checked 2026-09-26)
