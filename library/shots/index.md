@@ -47,6 +47,14 @@ moment.
 - [Summit Sunrise](summit-sunrise.md)
 - [Coastal Drive with Stops](coastal-drive-with-stops.md)
 - [Dog Walk / Beach Day](dog-walk-beach-day.md)
+- [Scuba Dive (Shore Dive)](scuba-dive.md)
+- [Beach Walk](beach-walk.md)
+- [Town Walk](town-walk.md)
+- [Dinner in a Beautiful Room](dinner-in-a-beautiful-room.md)
+- [Waterfalls & Jungle Trails](waterfalls-and-trails.md)
+- [Road to Hana (full day)](road-to-hana.md)
+
+For a Maui day-by-day plan using these, see [Maui day by day](../trips/maui-day-by-day.md).
 
 ---
 

@@ -7,6 +7,9 @@ tags: [trip, maui]
 The first trip section. A kit list and a storage/battery plan, then
 activity-by-activity notes that link back to the general pages.
 
+**Day-by-day shot plan:** [Maui day by day](maui-day-by-day.md), with which
+shots to get each day and which page to open that morning.
+
 ## Kit list
 - X5 camera, Invisible Selfie Stick (and the extended one if you're bringing
   it), Invisible Dive Case Pro (the glass-dome version — clearer than the
@@ -61,7 +64,7 @@ laptop to offload footage:
 
 ## Activities
 
-### Diving (3 dives)
+### Diving (3 dives, all from shore so far)
 - **Settings:** see [underwater diving](../settings/underwater-diving.md) —
   Dive Case Mode on, 5.7K30, AquaVision to fix colour afterwards.
 - **Shooting approach:** let it roll for the whole dive rather than
@@ -72,6 +75,7 @@ laptop to offload footage:
   [finding moments in long clips](../editing/finding-moments-in-long-clips.md)),
   then Deep Track on anything worth following (a diver, a fish) rather than
   Auto Frame.
+- **Step-by-step:** [Scuba dive (shore dive)](../shots/scuba-dive.md).
 
 ### Golf (a few rounds — pick a favourite course to film the most)
 - **Settings:** standard Video, 5.7K30, Auto everything — nothing special
@@ -94,7 +98,7 @@ laptop to offload footage:
 - **Edit approach:** mostly triage — skim for the good stretches, Deep
   Track only on anything specific you want followed (a swimmer, a fish),
   otherwise a fixed forward view is enough.
-- **Step-by-step:** [Snorkel boat trip](../shots/snorkel-boat-trip.md).
+- **Step-by-step:** [Snorkel boat trip](../shots/snorkel-boat-trip.md), [Beach walk](../shots/beach-walk.md).
 
 ### Luau (night/event)
 - **Settings:** see [events and indoors](../settings/events-and-indoors.md) —
@@ -123,7 +127,12 @@ laptop to offload footage:
   [fixed views](../editing/split-and-fixed-views.md) or
   [keyframes](../editing/keyframes-with-easing.md) for a reveal shot at a
   viewpoint.
-- **Step-by-step:** [Coastal drive with stops](../shots/coastal-drive-with-stops.md).
+- **Step-by-step:** [Road to Hana](../shots/road-to-hana.md) (the Maui day plan), [Coastal drive with stops](../shots/coastal-drive-with-stops.md) (the general method), [Waterfalls & jungle trails](../shots/waterfalls-and-trails.md).
+
+### Town walks and dinners
+- **Step-by-step:** [Town walk](../shots/town-walk.md) (Pāʻia, Makawao,
+  Wailuku, and Lahaina, filmed respectfully) and
+  [Dinner in a beautiful room](../shots/dinner-in-a-beautiful-room.md).
 
 ### Helicopter flight
 - **Settings:** standard Video, 5.7K30 or 8K if the operator allows it and
