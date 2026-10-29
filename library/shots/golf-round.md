@@ -80,6 +80,7 @@ if you want to review your swing.
   round either way.
 
 ## See also
+- [Golf Cart Mount](../gear/golf-cart-mount.md): the camera on the stick above the cart roof for the whole round, with no zip ties or tape.
 - [Swing-Analysis Camera Positions](../effects/golf-swing-camera-positions.md) — the full effect writeup the range-day section is based on.
 
 ## Sources
