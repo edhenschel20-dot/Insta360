@@ -51,7 +51,9 @@ own. It remembers your entries on this device, and **Reset** clears them.
 - Let battery swaps be the natural "chapter breaks" in your day rather than
   a deliberate stop for editing convenience — this fits how you already
   shoot.
-- See [memory cards](memory-cards.md) for which cards to buy and how many.
+- See [memory cards](memory-cards.md) for which cards to buy and how many,
+  and [Handling footage while travelling](data-while-travelling.md) for
+  keeping footage safe on a trip without a laptop or SSD.
 - See [Accessories that unlock shots](accessories-for-shots.md) for which
   mounts, filters and dive-case options are worth buying for specific
   activities.

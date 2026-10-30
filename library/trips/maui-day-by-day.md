@@ -21,12 +21,12 @@ Three rules for ordering the days:
    to move it.
 
 ## Every evening (10 minutes)
-- [ ] Copy today's card to the SSD, check it copied, and make a folder per day.
+- [ ] Download today's 3–5 best clips to the phone. Never wipe a card, and put full cards in the safe.
 - [ ] Charge all batteries and the power bank.
 - [ ] Wipe the lenses and rinse anything that touched salt water.
 - [ ] Look at the plan for tomorrow and set the camera mode now, not in the morning.
 
-See [Storage & batteries](../gear/storage-and-batteries.md).
+See [Handling footage while travelling](../gear/data-while-travelling.md).
 
 ## The plan
 

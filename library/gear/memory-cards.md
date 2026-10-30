@@ -20,12 +20,12 @@ tags: [gear, storage]
 4. **Bring fresh cards per trip** rather than reusing an old, heavily
    rewritten card for something important — card wear is real, and a
    corrupted card mid-trip is worse than the cost of a new one.
-5. **Back up without a laptop:** phone + a USB-C card reader + a portable
-   SSD. Copy the card to the SSD each evening (or every couple of days),
-   confirm the copy, then you can safely reuse or wipe the card if needed.
-   Wired transfer (USB-C, or the optional Quick Reader accessory) is
-   reportedly "dramatically" faster than WiFi for large files — worth doing
-   backups this way rather than over WiFi.
+5. **Back up without a laptop:** if you own a portable SSD, use a phone +
+   USB-C card reader to copy each card to it every evening. Wired transfer
+   (USB-C, or the optional Quick Reader accessory) is reportedly
+   "dramatically" faster than WiFi for large files. **No SSD?** Don't wipe
+   cards on the trip, and keep the best clips on the phone. See
+   [Handling footage while travelling](data-while-travelling.md).
 
 ## Tips
 - Card space is rarely the tight constraint on a single continuous take —

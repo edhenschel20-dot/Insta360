@@ -25,7 +25,8 @@ shots to get each day and which page to open that morning.
 - 1×256GB card currently owned, plus **two 1TB cards** (recommended — see
   below)
 - USB-C card reader
-- Optionally: a portable SSD, for backing up without a laptop
+- Optionally: a USB-C microSD reader (about $10–15) for copying clips to the phone
+- A small card case, to keep full cards apart from the camera
 - Mini tripod or the stick's own stand
 - Lens cap — the lenses stick out and scratch easily
 - Cleaning cloth — wipe both lenses before anything that matters
@@ -40,27 +41,25 @@ Case Mode locks most settings once sealed, so set this ahead of time), and
 check the camera's **all-weather USB-C door** is seated properly if
 charging in humid conditions.
 
-## Storage and battery plan (17 days, no laptop)
-You already own one 256GB card and two batteries. For 17 days without a
-laptop to offload footage:
+## Storage and battery plan (17 days, no laptop, no SSD)
+Full method: [Handling footage while travelling](../gear/data-while-travelling.md).
 
-- **Buy two 1TB cards** in addition to what you have. That gives headroom
-  to shoot for several days at a time before you need to back up, without
-  juggling a nearly-full 256GB card daily.
-- **Back up without a laptop:** phone + USB-C card reader + portable SSD.
-  Copy each card to the SSD every couple of days, confirm the copy, then
-  reuse the card. See [memory cards](../gear/memory-cards.md) for the full
-  method.
-- **Bring a third battery, or a power bank** — three activity-heavy days in
+- **Cards hold everything:** the 256GB card you own plus **two 1TB cards**
+  (still the one purchase worth making). That's roughly 25–30 hours of 5.7K.
+- **Never wipe a card on the trip.** Change to a fresh card when one is
+  nearly full, and keep full cards in the hotel safe or a separate bag
+  from the camera.
+- **Every evening:** download only the day's 3–5 best clips to the phone
+  through the app. That's your second copy of the moments that matter.
+- **Make the cards last:** TimeShift for driving, 5.7K30 not 8K, and stop
+  recording in true dead time (lunch, gearing up, walking back to the car).
+- If you're filling cards faster than planned, **a third 1TB card** is the
+  cheapest fix.
+- **Bring a third battery, or a power bank.** Three activity-heavy days in
   a row (a dive, a round of golf, an evening event) will outrun two
   batteries without a way to top up mid-day.
-- Measure your own real GB/hour from the first day or two of shooting and
-  use that to sanity-check whether two 1TB cards is actually enough for the
-  rest of the trip — see [storage and batteries](../gear/storage-and-batteries.md)
-  for the full method and a worked example.
-- **Download every night** rather than letting several days pile up — one
-  creator's top travel-tip lesson learned the hard way; it also means a
-  lost or damaged card only costs you one day, not the whole trip.
+- **At home:** copy every card to the computer first, then do the big edit
+  in Studio.
 
 ## Activities
 
