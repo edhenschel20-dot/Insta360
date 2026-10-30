@@ -47,7 +47,10 @@ not for storing the whole trip.
 
 ## Optional, about $10–15: a USB-C microSD reader
 Plug it into the phone, and Android's **Files** app can copy whole clips
-straight off a card onto the phone. It's faster than the camera's Wi-Fi.
+straight off a card onto the phone. It's faster than the camera's Wi-Fi. Treat that copy as a **backup only**:
+the app may not be able to open files copied this way on Android, so to
+edit a clip, download it through the app. See
+[Find your way round the app](../editing/find-your-way-round-the-app.md#f-where-do-the-files-live-on-android).
 It's worth it for one really important day (a turtle dive, for example)
 when you want a full second copy of a particular clip.
 

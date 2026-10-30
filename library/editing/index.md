@@ -9,6 +9,9 @@ flat clip someone can watch. The app gives you a ladder of methods, roughly
 fastest-to-slowest. **Start at the top and only drop down a rung if it
 doesn't do what you need** — most clips don't need manual keyframes at all.
 
+**Lost in the new app layout?** Start with [Find your way round the app](find-your-way-round-the-app.md):
+where everything moved since the X2 days, with Android tap paths.
+
 ## The ladder (fastest first)
 
 1. **Fixed view export** — pick a direction (Forward, Selfie, Custom), export.
