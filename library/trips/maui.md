@@ -88,6 +88,8 @@ Full method: [Handling footage while travelling](../gear/data-while-travelling.m
   the reaction/view. [Keyframes with easing](../editing/keyframes-with-easing.md)
   if you want a deliberate reveal of the view from a tee box.
 - **Step-by-step:** [Golf round](../shots/golf-round.md).
+- **Kapalua, hole by hole:** [Kapalua Plantation Course](../shots/kapalua-plantation.md),
+  with the cart camera all round and planted tee shots at 1, the par 3s, 13 and 18.
 
 ### Snorkelling and beach days
 - **Settings:** see [snorkelling and water](../settings/snorkelling-and-water.md) —

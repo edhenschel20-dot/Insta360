@@ -42,8 +42,9 @@ if you want to review your swing.
   even a little changes the apparent swing plane, so plant it in the same
   spot each time you check it.
 - **On the course:** plant the stick or a small tripod a few metres to the
-  side of the tee, out of the swing path and sightlines, roughly
-  waist-to-chest height. Never hold up play or wander into another group's
+  side of the tee, out of the swing path and sightlines. Nobody holds it
+  while they swing. Waist-to-chest height suits a swing view; extend it
+  high and upright for the overhead "drone" look. Never hold up play or wander into another group's
   line while setting up.
 - **Between shots:** let the camera roll in the golf bag as you walk the
   fairway — the round films itself, and you reframe the swings out of it
@@ -80,6 +81,7 @@ if you want to review your swing.
   round either way.
 
 ## See also
+- [Kapalua Plantation Course](kapalua-plantation.md): the hole-by-hole plan for Maui.
 - [Golf Cart Mount](../gear/golf-cart-mount.md): the camera on the stick above the cart roof for the whole round, with no zip ties or tape.
 - [Swing-Analysis Camera Positions](../effects/golf-swing-camera-positions.md) — the full effect writeup the range-day section is based on.
 

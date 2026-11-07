@@ -37,7 +37,7 @@ See [Handling footage while travelling](../gear/data-while-travelling.md).
 | 3 | **Road to Hana** | [Road to Hana](../shots/road-to-hana.md) | Bamboo forest look-up |
 | 4 | Recovery: beach and a Pāʻia or Makawao wander | [Town Walk](../shots/town-walk.md) | Look-up under a banyan |
 | 5 | **Dive 1** (shore dive) | [Scuba Dive](../shots/scuba-dive.md) | Walk-in from the beach to the first turtle |
-| 6 | Golf | [Golf Round](../shots/golf-round.md) | Tee-box reveal |
+| 6 | Golf at **Kapalua** (move to whichever day you play it) | [Kapalua Plantation](../shots/kapalua-plantation.md) | Cart ride down the 18th towards the ocean |
 | 7 | Snorkel boat trip | [Snorkel Boat Trip](../shots/snorkel-boat-trip.md) | Turtle "between" selfie |
 | 8 | Easy day, then **special dinner** | [Dinner in a Beautiful Room](../shots/dinner-in-a-beautiful-room.md) | Walk-in reveal and ceiling look-up |
 | 9 | Helicopter flight (24 h or more after diving) | [Helicopter Flight](../shots/helicopter-flight.md) | Waterfalls from above |

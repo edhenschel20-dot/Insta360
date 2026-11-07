@@ -42,6 +42,7 @@ moment.
 - [Helicopter Flight (Doors On)](helicopter-flight.md)
 - [Snorkel Boat Trip](snorkel-boat-trip.md)
 - [Golf Round](golf-round.md)
+- [Kapalua Plantation Course](kapalua-plantation.md): hole by hole
 - [Birthday Party](birthday-party.md)
 - [Christmas Morning](christmas-morning.md)
 - [Summit Sunrise](summit-sunrise.md)
