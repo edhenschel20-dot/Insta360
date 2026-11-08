@@ -66,11 +66,10 @@ for where Trim lives.
 - **Leaving the app** while it's recognising people. Do these edits in the
   evening, with the phone on charge.
 
-## What about a building vanishing?
-That's a different thing. See the note in the
-[AI Effects Guide](ai-effects-guide.md). The clean "building strips away and
-comes back" clips you see in reels are usually made in paid AI apps outside
-Insta360.
+## A hand that peels someone off (or throws something on)
+That's an in-app AI effect, not a timelapse trick. See
+[Peel off / stick on](ai-effects-guide.md#peel-off-stick-on-a-hand-removes-or-adds-something)
+in the AI Effects Guide.
 
 ## Sources
 - Street Lapse tutorial, https://forums.insta360.com/section/16/post/32760 (undated; checked 2026-11-07)

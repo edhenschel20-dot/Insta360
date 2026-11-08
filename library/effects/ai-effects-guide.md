@@ -55,21 +55,24 @@ Beyond the built-in presets (Cyberpunk, Sci-Fi, Space, Anime), AI Warp has a **c
 
 Results are hit-or-miss, so treat each attempt as an experiment: if the first prompt doesn't land, tweak the wording (more specific nouns tend to help) and paint a slightly different area before trying again.
 
-## Making a building (or anything) vanish
-No Insta360 feature was found that cleanly strips a building away and
-puts it back. The reels that do it are usually made in paid AI apps
-outside Insta360 (Higgsfield's "Vanish" effect, for example), using
-footage exported from the app. The closest in-app tries:
-- **AI Warp, painted-area mode:** paint the **whole** building (not a
-  corner) and describe the change. Expect **2–4 seconds** of effect, not a
-  long transformation. Exports are flat, with an "AI Generation" watermark.
-  360 clips are capped at 5.7K.
-- **Edit › AI Effects:** if a vanish-style scene exists, it's here. Check
-  the list in the app.
+## Peel off / stick on (a hand removes or adds something)
+There **is** an in-app AI effect for this, and Ed has used it. Pick a clip
+and something in it, such as a person walking. A hand comes on screen and
+**peels them off**, and they're gone from the rest of the video. The
+reverse version starts with something missing (a building, for example),
+and a hand **throws it on**, so it appears.
 
-**Footage that gives it the best chance:** the camera planted (2-in-1 or
-mini tripod), the building large in the frame, nobody walking through, and
-10–15 seconds in Video mode, 5.7K30. Always tap **Preview** first.
+*To confirm:* the exact name, where it sits in the app, and whether it
+uses a free go or diamonds. It wasn't found in any public source as of
+2026-11-08. Until then, give it the best chance with these:
+- **The camera planted** (2-in-1 or mini tripod), so only the subject moves.
+- **The subject large and clear** in the frame, and not overlapping other
+  people.
+- **A short clip (10–15 s) in Video mode, 5.7K30** (the TRICK preset).
+- **Preview first** if the effect offers it.
+
+The fully generated versions in some reels are made in paid outside apps
+(Higgsfield's "Vanish", for example), but you don't need them for this.
 
 ## What we don't know — please check in-app
 **Honestly:** the specific list of scenes inside the separate "AI Effects" section (Edit tab) changes over time and couldn't be verified from any public source for this guide — only one scene name ("snowboarding") turned up anywhere, and a Reddit thread literally titled "Ghost Rider" exists but couldn't be read. **Please open Edit > AI Effects and Shot Lab > AI Warp in the app and screenshot both lists** — that settles the current scene names and each one's remaining-generation count far better than anything found online, and takes about five minutes.
