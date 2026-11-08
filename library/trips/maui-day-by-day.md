@@ -53,6 +53,31 @@ See [Handling footage while travelling](../gear/data-while-travelling.md).
 | 16 | Summit sunrise (48 h after Dive 3), then an easy afternoon | [Summit Sunrise](../shots/summit-sunrise.md) | Sunrise timelapse above the clouds | None: the sunrise is the trick |
 | 17 | Last beach walk, pack, fly (3 days after Dive 3) | [Beach Walk](../shots/beach-walk.md) | "Goodbye" tiny planet with the family | Last spin at the day 1 beach, then make the Spin Me Around montage |
 
+## One 360 photo a day
+Take one **360 "being there" photo** at each of these, and plant the
+2-in-1 for a still **headset clip** where it says so. How: [Being There](../shots/being-there.md).
+Remember to switch back to Video afterwards.
+
+| Day | 360 photo | Headset clip (30–60 s, camera still) |
+|---|---|---|
+| 1 | The beach at sunset, family in it | Sunset on the 2-in-1 |
+| 2 | On the sand in the morning | |
+| 3 | Black sand beach at Waiʻānapanapa | Twin Falls or Wailua Falls |
+| 4 | A town street, at the shave ice stop | |
+| 5 | The beach before you go in | Hover still over the reef (if your buddy's OK with it) |
+| 6 | Kapalua, the 18th tee with the ocean behind | |
+| 7 | On deck before the first stop | |
+| 8 | The dinner room (HDR, on the 2-in-1 on the table) | |
+| 9 | At the helipad before boarding | |
+| 10 | At the falls | The falls, family to one side |
+| 11 | | Reef again, if the first one didn't work |
+| 12 | Under the big banyan | |
+| 13 | The luau grounds before the show, if allowed | |
+| 14 | | |
+| 15 | Wherever you are | |
+| 16 | The summit, above the clouds | **The sunrise.** The best headset clip of the trip |
+| 17 | The day 1 beach, one last time | |
+
 ## Shot list by day type
 
 ### Road to Hana day

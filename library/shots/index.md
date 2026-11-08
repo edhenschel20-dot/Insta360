@@ -6,6 +6,8 @@ tags: [index]
 
 Written for someone who lets the camera roll: set up once, enjoy the moment, sort the framing out in the edit. Pick your situation below.
 
+**Want to keep a place as 360?** See [Being There](being-there.md): one 360 photo per special place, plus a few still "headset clips".
+
 **Out and about and want a trick?** Open the [Trick Shot Cards](trick-shot-cards.md): three quick tricks for each kind of place. Before the trip, do the [Practice Drills](practice-drills.md).
 
 ## Out and about
