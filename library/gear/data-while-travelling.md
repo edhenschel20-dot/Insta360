@@ -39,10 +39,12 @@ not for storing the whole trip.
   of the moments that matter.
 - [ ] **Optional:** make one quick 30–60 second clip and send it to family.
   Skip it if you're tired. Nothing is lost.
-- [ ] Exported clips are small, so let **Google Photos back them up** over
-  your phone's data. Hawaii counts as home on US carriers, so your
-  T-Mobile plan works as normal. Full original files are a different matter
-  (see below).
+- [ ] Exported clips are small, so let **Immich back them up to your home
+  server** over your phone's data (see
+  [Backing up to your home server](#backing-up-to-your-home-server-immich-over-tailscale)).
+  Hawaii counts as home on US carriers, so your T-Mobile plan works as
+  normal. If the server or Tailscale is down, **Google Photos** is the
+  fallback. Full original files are a different matter (see below).
 - [ ] **Check the phone's free space.** If it's getting full, delete the
   downloaded copies you've already used. The originals are still on the cards.
 - [ ] Note which card you're on, and put full cards away safely.
@@ -56,9 +58,33 @@ edit a clip, download it through the app. See
 It's worth it for one really important day (a turtle dive, for example)
 when you want a full second copy of a particular clip.
 
+## Backing up to your home server (Immich over Tailscale)
+Immich on the home server is your second copy of the best clips each night.
+Tailscale lets the phone reach it from Maui as if you were at home, with
+nothing opened up to the internet.
+
+**Set up before you leave:**
+1. **Tailscale always on:** Android Settings › Network › VPN › Tailscale ›
+   turn on **Always-on VPN**, so it reconnects by itself.
+2. **Immich server address:** use the server's Tailscale name or address. If
+   the app offers automatic switching between the home and remote
+   addresses, set both.
+3. **Allow backup on mobile data:** in Immich's backup settings, turn off any
+   "Wi-Fi only" option.
+4. **Back up only these folders:** the folder the Insta360 app exports to,
+   and the camera roll. **Not** the Insta360 app's own downloaded originals
+   (the huge .insv files). Immich can't play those as 360 anyway.
+5. **Test it away from home:** Wi-Fi off, export one clip, and check it
+   arrives in Immich over T-Mobile.
+
+**On the trip:** each night's exported clips upload by themselves. If the
+server is down, uploads wait and catch up later. The cards are still the
+main copy of everything.
+
 ## When you get home
 1. **Copy every card to the computer** before doing anything else. Your
-   home server is a good permanent home for the originals.
+   home server is a good permanent home for the originals (in a normal
+   folder; Immich is for the exported clips).
 2. Only once they're copied, and you've checked the copies open, reuse the
    cards.
 3. Do the big trip edit in **Insta360 Studio** on the computer. Scrubbing
@@ -87,3 +113,4 @@ for it. Prices vary by region, so check the Insta360 store.
 - Insta360+ plans and cloud sync: [Insta360 launch post](https://insta360.com/blog/news/insta360-plus-cloud-service-360-storage-editing.html), [Insta360+ store page](https://store.insta360.com/product/insta360plus), [cloud sync manual](https://onlinemanual.insta360.com/insta360+/en-us/operating-tutorials/operation-instructions/clips-upload) (checked 2026-10-30)
 - App vs Studio: [Insta360 forum](https://forums.insta360.com/section/14/post/26761), [PetaPixel on the Studio update](https://petapixel.com/2024/03/28/the-insta360-studio-update-allows-for-more-flexible-video-editing) (checked 2026-10-30)
 - Card handling (no wiping, spread risk, keep full cards separate) [general advice]
+- Immich over Tailscale set-up (Ed already runs Immich on Proxmox and Tailscale with a subnet router; menu names in the Immich and Android apps vary by version) [general advice]
