@@ -40,8 +40,10 @@ following the cart" view of every hole without you doing anything. See
 put it on the mini tripod and extend it upright. **Nobody holds it while
 they swing.** Put it **a few metres (10–12 ft) to the side of the tee box,
 slightly behind the tee markers**, well clear of the swing and the line the
-ball takes off on. The camera hovers high above the tee looking down, and
-the stick doesn't show. Leave it recording while **everyone tees off in
+ball takes off on. With the 114 cm stick from the X5 bundle on a mini
+tripod, the camera sits at about head height, which is a good view of the
+swing and the hole, and the stick doesn't show. (For a true "drone" height
+you'd need a longer stick; see [Fake Drone Shot](../effects/fake-drone-shot.md).) Leave it recording while **everyone tees off in
 turn**, then pick it up when the last ball is gone and put it back on the
 cart.
 
@@ -65,8 +67,8 @@ Par 3s are the easiest to plant at, because everyone's waiting at the tee
 anyway. Add hole 11 (another par 3) if you're enjoying it.
 
 ### Hole 18: three shots
-1. **Planted beside the tee.** Wipe the lenses, extend the stick as high as
-   the wind allows and record everyone's tee shots, with the fairway falling
+1. **Planted beside the tee.** Wipe the lenses, extend the stick fully if
+   the wind allows, and record everyone's tee shots, with the fairway falling
    away towards the ocean.
 2. **The cart ride down the hole.** Put the camera back on the cart and
    **check it's recording** before you set off. This is the clip you'll use
