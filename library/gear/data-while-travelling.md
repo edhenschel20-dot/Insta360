@@ -39,8 +39,10 @@ not for storing the whole trip.
   of the moments that matter.
 - [ ] **Optional:** make one quick 30–60 second clip and send it to family.
   Skip it if you're tired. Nothing is lost.
-- [ ] Exported clips are small, so let **Google Photos back them up** on the
-  hotel Wi-Fi. Full original files are too big for hotel Wi-Fi, so don't try.
+- [ ] Exported clips are small, so let **Google Photos back them up** over
+  your phone's data. Hawaii counts as home on US carriers, so your
+  T-Mobile plan works as normal. Full original files are a different matter
+  (see below).
 - [ ] **Check the phone's free space.** If it's getting full, delete the
   downloaded copies you've already used. The originals are still on the cards.
 - [ ] Note which card you're on, and put full cards away safely.
@@ -74,7 +76,9 @@ Both are free.
 
 ## What about Insta360's cloud (Insta360+)?
 It's a paid subscription that can back up straight from the camera. On a
-trip, hotel Wi-Fi is far too slow to upload 50+ GB a day, so it can't
+trip, 50+ GB a day is too much to upload, even on an unlimited phone plan:
+it takes hours, drains the phone, and most "unlimited" plans slow you down
+after a set amount of fast data each month. So it can't
 replace the cards. It's fine for a few favourite clips if you already pay
 for it. Prices vary by region, so check the Insta360 store.
 
