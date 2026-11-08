@@ -3,6 +3,8 @@
 Your pocket guide to shooting and editing with the X5. Use the **search box**
 (top of the page) for anything, e.g. "night", "tiny planet", "diving".
 
+**No signal?** [Install the guide on your phone and save it for offline](offline.md) before the trip.
+
 ## Start here
 - **[Quick settings](settings/index.md)**: what to set before you hit record.
 - **[Which reframing method?](editing/index.md)**: the fastest way to edit, without fighting the AI.

@@ -7,9 +7,11 @@ extra_css:
   - stylesheets/extra.css
 extra_javascript:
   - javascripts/trip-planner.js
+  - javascripts/offline.js
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
