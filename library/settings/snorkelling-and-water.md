@@ -19,8 +19,11 @@ setup.
 | Colour | Standard |
 | Sharpness | Medium |
 
-Save these as your **SNORKEL** preset, with the before-and-after checklist:
-see [Quick set-ups](quick-setups.md#3-snorkel-bare-camera-no-case).
+**Snorkelling out on the reef or from a boat?** Use the dive case and the
+SCUBA preset: see [Quick set-ups](quick-setups.md#2-scuba-inside-the-dive-case-pro).
+This page is for the bare camera in the pool, the shallows and near shore,
+saved as the optional **SNORKEL** preset (see
+[Quick set-ups](quick-setups.md#3-snorkel-bare-camera-no-case-optional)).
 
 ## Tips
 - The X5 is rated to 15 m (49 ft) with no case, well past snorkelling

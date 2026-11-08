@@ -17,18 +17,23 @@ a tutorial: a dolphin surfaced behind their boat, camera already rolling,
 and they went in after it.
 
 ## Before you leave (5 minutes)
-- [ ] **Save a 5.7K60 preset to the Q/power button** ahead of time — once
-  the dive case is sealed you can't change most settings, so set this
-  before you leave, not on the boat.
-- [ ] **Charge the battery** — you can't swap it once the case is sealed.
-- [ ] **Wipe both lenses** and check the dive case seal.
+- [ ] **Use the dive case and the SCUBA preset**, the same as a dive. Out at
+  sea, the surface is mostly bobbing heads, so the underwater shots are what
+  matter, and the case stitches them properly. See
+  [Quick set-ups](../settings/quick-setups.md#2-scuba-inside-the-dive-case-pro).
+- [ ] **Seal the case at the hotel** with a fresh anti-fog insert and
+  Dive Case Mode on.
+- [ ] **Charge the battery to 100%.** You can't swap it once the case is
+  sealed, and one charge is about 70 minutes of recording.
+- [ ] **Wrist strap** through a D-ring in the weight block or stick, so it
+  can't sink away.
 - [ ] Bring a floaty handle for kids who'll hold the camera themselves.
 
 ## Settings (set once, before you board)
 | | |
 |---|---|
-| Mode | Standard Video, in the Invisible Dive Case |
-| Resolution | **5.7K 60fps** |
+| Mode | Standard Video, in the Dive Case Pro (**SCUBA** preset, Dive Case Mode on) |
+| Resolution | **5.7K30**. It saves battery for a trip with two or three stops |
 | Exposure | Auto |
 | Colour | AquaVision applied afterwards, in the edit |
 
@@ -39,8 +44,10 @@ and [Underwater/diving settings](../settings/underwater-diving.md).
 - **Press record before you sit on the boat's edge or tube, and hold the
   camera to your chest for the entry.** Extend the stick once you're in
   the water.
-- No dive case needed for surface snorkelling in calm water; use it if
-  you'll be diving down or swimming through anything rougher.
+- **Save battery between stops:** long-press the case's power button to
+  turn the camera off on the boat, and turn it on and press record (the Q
+  button) just before each entry. One charge won't cover a whole
+  half-day trip if it records non-stop.
 - Kids: the same, from the swim step, holding a floaty handle rather than
   a stick.
 

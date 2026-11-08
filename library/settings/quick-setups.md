@@ -77,7 +77,13 @@ accepts 5.7K Video. 8K, PureVideo and Timelapse-mode clips may be refused.
 Afterwards, take the camera out and **swipe up** on the screen to leave
 Dive Case Mode.
 
-## 3. SNORKEL (bare camera, no case)
+## 3. SNORKEL (bare camera, no case) — optional
+**Snorkelling from a boat or out on the reef? Use the dive case and the
+SCUBA preset instead.** Out there the surface is mostly bobbing heads, the
+underwater shots are what matter, and the case stitches them properly
+(and keeps the camera dry). Keep this bare-camera preset for the pool,
+wading at the beach, and splashing about near shore, where you're in and
+out of the water.
 | Setting | Value |
 |---|---|
 | Mode | **Video** |
