@@ -13,8 +13,8 @@ The plan: **stick at kid height, let it roll, and plant it for one or two
 - [ ] **Wipe both lenses.** Sunscreen fingerprints are the number one beach
   problem, so wipe them after you've put sunscreen on, not before.
 - [ ] Battery half-full or more. A walk is an hour at most.
-- [ ] Bring the stick with its mini tripod screwed on, and a ground stake if
-  you have one (for sand).
+- [ ] Bring the **2-in-1 stick and tripod** (press the legs into the sand), and
+  a ground stake if you buy one. See [My Kit](../gear/my-kit.md).
 
 ## Settings (set once)
 | | |

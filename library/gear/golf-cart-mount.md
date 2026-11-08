@@ -82,7 +82,7 @@ inside the clamp, two rubber straps, and a safety cord.
 4. **Two rubber straps** round the stick and the post: one just under the
    roof, one halfway down. They take seconds to put on and off, they're
    stretchy and grippy, and they don't mark paint.
-5. **Safety cord** from the stick to the post, short enough that it can't
+5. **Safety cord** from a D-ring screwed into the bottom of the stick to the post, short enough that it can't
    reach a wheel. If anything slips, the camera hangs instead of hitting the
    cart path.
 6. **Camera 30–50 cm (1–1.5 ft) above the roof.** Any higher, and it whips

@@ -14,12 +14,15 @@ just a few planted shots at the holes worth the extra minute. Everything
 else is the same as the general [Golf Round](golf-round.md) plan.
 
 ## Before you leave (the night before)
-- [ ] **Charge the battery to 100%**, plus the spare or a power bank. A round
-  takes 4+ hours.
+- [ ] **Charge both batteries to 100%**, and bring a power bank and the
+  battery charger. One battery lasts roughly 2¼ hours at 5.7K30, so you'll
+  need the second one for the back nine. Swap at the turn and put the first
+  one on charge.
 - [ ] **Card space:** start with plenty free. Change to a fresh card at the
   turn if the first one is past half full.
 - [ ] Pack the [cart mount](../gear/golf-cart-mount.md) kit (clamp, rubber
-  pad, two straps, safety cord) **and** the mini tripod for the tee shots.
+  pad, two straps, safety cord on a D-ring) **and** the **2-in-1 stick and
+  tripod** for the tee shots. See [My Kit](../gear/my-kit.md).
 - [ ] Something to weigh the tripod down: it's windy up there.
 
 ## Settings (set once)
@@ -31,24 +34,25 @@ else is the same as the general [Golf Round](golf-round.md) plan.
 | White balance | Auto |
 
 ## The two set-ups you'll use
-**On the cart (all round):** the stick strapped to the front roof post,
+**On the cart (all round):** the **114 cm stick** strapped to the front roof post,
 camera 30–50 cm (1–1.5 ft) above the roof, recording. This gives a "drone
 following the cart" view of every hole without you doing anything. See
 [Golf Cart Mount](../gear/golf-cart-mount.md).
 
-**Planted beside the tee (at a few holes):** take the stick off the cart,
-put it on the mini tripod and extend it upright. **Nobody holds it while
+**Planted beside the tee (at a few holes):** leave the 114 cm stick on the
+cart. Unscrew the camera, screw it onto the **2-in-1 stick and tripod**,
+open the legs and extend it upright. **Nobody holds it while
 they swing.** Put it **a few metres (10–12 ft) to the side of the tee box,
 slightly behind the tee markers**, well clear of the swing and the line the
-ball takes off on. With the 114 cm stick from the X5 bundle on a mini
-tripod, the camera sits at about head height, which is a good view of the
+ball takes off on. The 2-in-1 is about 1 m long, so the camera sits at
+about head height, which is a good view of the
 swing and the hole, and the stick doesn't show. (For a true "drone" height
 you'd need a longer stick; see [Fake Drone Shot](../effects/fake-drone-shot.md).) Leave it recording while **everyone tees off in
-turn**, then pick it up when the last ball is gone and put it back on the
-cart.
+turn**, then pick it up when the last ball is gone and screw the camera back onto
+the cart stick.
 
 !!! tip "Wind"
-    A tall stick on a small tripod blows over easily. Hang your bag or a
+    The 2-in-1's legs are small for a stick that long, so it blows over easily. Hang your bag or a
     water bottle from the tripod, or only extend the stick part way. Or
     have whoever isn't hitting hold it upright, standing well back.
 
@@ -79,7 +83,8 @@ anyway. Add hole 11 (another par 3) if you're enjoying it.
 
 ## While you're enjoying it
 - Say **"mark that"** after any good shot, a funny moment or a great view.
-- **Check the mount at the turn**: re-tighten the straps and wipe the lenses.
+- **At the turn:** swap the battery, check the mount, re-tighten the straps
+  and wipe the lenses.
 - **Keep up with play.** If a group is waiting behind you, skip the planted
   shot. The cart camera is already recording.
 

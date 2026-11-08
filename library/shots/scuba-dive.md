@@ -21,12 +21,13 @@ point, because the turtle behind you is the one you'll only spot in the edit.
 - [ ] **Seal the dive case at the hotel**, at a table, with clean dry hands.
   Check there's no hair, sand or salt on the O-ring. **Never open it on the
   beach.** One grain of sand on the seal is how cases flood.
-- [ ] **Wipe both domes** inside and out. Put a small anti-fog insert in the
-  case if you have one, because a warm car and cool water fog the dome.
+- [ ] **Wipe both domes** inside and out. Put a fresh anti-fog insert in the
+  case (a pack comes with the Dive Case Pro), because a warm car and cool water fog the dome.
 - [ ] **Card space:** one dive is about 40–60 GB at 5.7K30. Start the day
   with at least 150 GB free.
 - [ ] **A coiled lanyard with a clip** to attach the camera to a D-ring on your
-  BCD. This matters more from shore than from a boat (see the entry below).
+  BCD. Screw a D-ring into the bottom of the dive case's weight block and
+  clip the lanyard to that. See [My Kit](../gear/my-kit.md#invisible-dive-case-pro-for-x5). This matters more from shore than from a boat (see the entry below).
 
 **Two dives in one day?** Swap the battery in the car between dives: towel off
 the case, dry your hands, and open it with the case pointing down so drips
@@ -96,7 +97,7 @@ Full reference: [Underwater diving settings](../settings/underwater-diving.md).
   easier than from a boat. On a sandy patch (never on coral), set the camera
   down for a minute while you and your buddy swim a slow circle round it.
   See [Seabed Drop and Swim-Around](../effects/seabed-drop-and-swim-around.md).
-  Needs a weight or a Dive Buddy stand. Agree it with your buddy first, and
+  The Dive Case Pro's weight block is what keeps it sitting on the sand. Agree it with your buddy first, and
   don't do it in surge.
 - **Lava arches** (for example the arches at Mākena / Five Caves): if you swim
   through one with the camera ahead, you get a natural transition. See

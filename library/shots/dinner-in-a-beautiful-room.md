@@ -12,8 +12,8 @@ short shot on arrival) and **the table** (planted, rolling, forgotten).
 ## Before you leave (2 minutes)
 - [ ] **Wipe both lenses.** Candles and lamps plus a smudge give glowing halos.
 - [ ] Battery at least half full.
-- [ ] Bring the **foldable handle or the short stick**, not the long one, and
-  the mini tripod. A fancy room is the wrong place for a 3 m stick.
+- [ ] Bring the **short handle** and the **SmallRig mini tripod**, not a
+  long stick. A fancy room is the wrong place for a 3 m stick.
 - [ ] **Book a table by the window or the lanai edge if there's a sunset
   view.** It does more for the footage than any setting.
 
