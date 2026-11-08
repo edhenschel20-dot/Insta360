@@ -14,7 +14,8 @@ the bottom. For the general shopping guide, see
 |---|---|
 | Walking around, sightseeing | **114 cm stick**, with the **wrist strap** on a D-ring at the bottom |
 | Camera stands by itself (tee shot, beach base camp, waterfall, group shot, timelapse, clone effects) | **2-in-1 stick and tripod** |
-| Low or tabletop (dinner table, sand, tide pools, dashboard) | Camera straight onto the **SmallRig mini tripod** |
+| Dinner table (needs to clear the glasses) | **2-in-1**, collapsed or pulled out a little, legs open |
+| Very low (sand, tide pools, dashboard, a wall top) | Camera straight onto the **SmallRig mini tripod** |
 | Sticks not allowed, crowds, helicopter | **Short handle**, tethered to your wrist |
 | Golf cart, boat rail, lookout railing, jet ski | **Neewer clamp and arm** (114 cm stick or cage on top) |
 | A steel surface such as a car body (parked or slow only) | **Neewer magnetic base**, plus a safety cord |
@@ -49,6 +50,9 @@ the bottom. For the general shopping guide, see
   [Clone Trail](../effects/clone-trail.md),
   [Same Pose, Many Places](../effects/same-pose-many-places.md), sunset
   timelapses and family group shots.
+- **Collapsed, it's also a short handle and a table stand.** At dinner it
+  raises the camera above the glasses (see
+  [Dinner in a Beautiful Room](../shots/dinner-in-a-beautiful-room.md)).
 - The legs are built into the handle. The button on the bottom opens them.
   There's no socket at the bottom.
 - **Wind:** the legs are small for a stick this long. Extend it part way or
@@ -57,9 +61,7 @@ the bottom. For the general shopping guide, see
   the view level or looking up.
 
 ### SmallRig mini tripod
-- **Straight on the camera:** the dinner table (see
-  [Dinner in a Beautiful Room](../shots/dinner-in-a-beautiful-room.md)),
-  low ground shots (see
+- **Straight on the camera:** low ground shots (see
   [Low-Angle Ground Skim](../effects/low-angle-ground-skim.md) and
   [Ground-Level Tiny Planet](../effects/ground-level-inverted-planet-photo.md)),
   the top of a wall or a café table for a timelapse, a dashboard or a boat

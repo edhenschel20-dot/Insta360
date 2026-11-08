@@ -12,8 +12,9 @@ short shot on arrival) and **the table** (planted, rolling, forgotten).
 ## Before you leave (2 minutes)
 - [ ] **Wipe both lenses.** Candles and lamps plus a smudge give glowing halos.
 - [ ] Battery at least half full.
-- [ ] Bring the **short handle** and the **SmallRig mini tripod**, not a
-  long stick. A fancy room is the wrong place for a 3 m stick.
+- [ ] Bring the **2-in-1 stick and tripod**, collapsed. It's a short handle
+  for the walk-in and a table stand that clears the glasses. The short
+  handle is the backup. A fancy room is the wrong place for a 3 m stick.
 - [ ] **Book a table by the window or the lanai edge if there's a sunset
   view.** It does more for the footage than any setting.
 
@@ -45,8 +46,8 @@ host if filming is OK.** Most places are fine with a quick, quiet shot, but
 some ask for no cameras in the dining room.
 
 ## Shot 2: the table (planted, about 1 hour)
-- **Put the camera in the middle of the table** on the mini tripod or
-  standing on the short stick, **raised just above the glasses and the
+- **Put the camera in the middle of the table** on the 2-in-1 with its legs
+  open, collapsed or pulled out a little, **raised just above the glasses and the
   candle**, so nothing tall blocks one lens.
 - **Lenses facing along the table** (one lens towards each end) so nobody's
   face sits on the stitch seam.
