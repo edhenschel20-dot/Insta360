@@ -4,6 +4,8 @@ tags: [settings, reference]
 ---
 # Quick settings
 
+**Save your three presets first:** [Quick set-ups (TRICK, SCUBA, SNORKEL)](quick-setups.md).
+
 At-a-glance table. Tap a scenario for the full page with tips and sources.
 Auto is fine for anything not listed here — these are just the scenarios
 worth a deliberate change.

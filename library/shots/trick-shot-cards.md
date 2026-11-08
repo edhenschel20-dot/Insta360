@@ -16,9 +16,9 @@ the day. Tricks are optional extras, never the plan.
 
 ## Three habits that make every trick work
 1. **The TRICK preset.** One saved camera preset: **Video, 5.7K30,
-   Pre-Recording on**. Every Shot Lab template accepts it. On the camera,
-   swipe down › **Preset** to switch to it, and switch back afterwards. Set
-   it up in the [practice drills](practice-drills.md).
+   Pre-Recording on**. Every Shot Lab template accepts it. Press the
+   **Q button** to switch to it, and switch back afterwards. Set it up with
+   [Quick set-ups](../settings/quick-setups.md).
 2. **One signature move for the whole trip: the slow spin.** Stick **fully
    extended**, held upright with the bottom at your belt and your arms
    locked. Spin slowly **clockwise**. Hold still for **5 seconds before and
@@ -98,8 +98,8 @@ length · slow clockwise spin · 30 s · still 5 s each end.*
   direction. Check your stick label.
 - **The clones overlap or vanish?** The camera moved, or people stood too
   close. Plant it, and keep people about 2 m out.
-- **Weird rotation in a template?** Calibrate the gyro (see the
-  [practice drills](practice-drills.md)).
+- **Weird rotation in a template?** Calibrate the gyro, if your camera
+  offers it (see the [practice drills](practice-drills.md)).
 
 ## Sources
 - Insta360 X5 manual, Using the touchscreen (swipe down › Preset), https://onlinemanual.insta360.com/x5/en-us/camera/basicuse/usingthescreen (checked 2026-11-07)

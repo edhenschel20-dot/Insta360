@@ -125,7 +125,13 @@ the bottom. For the general shopping guide, see
 ### Spare X5 lenses
 - Swap a lens only for a **real scratch or chip** that shows in footage. A
   smudge just needs a cloth.
-- Swap **indoors, with dry hands**. Never do it on the beach.
+- Swap **indoors, in a dry room with the air conditioning on, and with dry
+  hands**. Insta360 asks for low humidity, and Maui is humid. Never do it on
+  the beach.
+- Afterwards, check the **rubber seal is clean and seated** (that's what
+  keeps water out), then run **Settings › Stitching Calibration**.
+- **Avoid swapping right before a water day.** If you must, do a quick
+  sink test first.
 - **Practise one swap at home** before the trip. Afterwards, film a short
   test clip and check the join between the lenses looks clean.
 
@@ -208,4 +214,5 @@ Cheapest first. None of these is essential.
 - Neewer CA175 kit contents: [Neewer](https://neewer.com/collections/all-product/products/neewer-ca175-motorcycle-bicycle-handlebar-car-mount-accessories-kit-for-action-camera-66609257) (checked 2026-11-07)
 - Battery runtime: [Storage & batteries](storage-and-batteries.md), from the Insta360 X5 manual (checked 2026-09-26)
 - Spare lithium batteries and power banks in carry-on only: standard airline rule; check your airline [general advice]
+- Lens swap: seal check and Stitching Calibration, Insta360 X5 replaceable lenses blog, updated 2025-12-30, https://www.insta360.com/blog/tips/insta360-x5-replaceable-lenses.html (checked 2026-11-08)
 - Items identified from Ed's photos, 2026-11-07/08. Uses, rules and the packing list [general advice]

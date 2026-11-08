@@ -12,24 +12,28 @@ Write down anything that looks different from this guide (a button with
 another name, a template that refuses a clip) and send it to Claude, so the
 guide can be fixed before you go.
 
-## Drill 1: set up the TRICK preset (5 min)
-1. On the camera: Video mode, **5.7K30**, **Pre-Recording on** (choose 30–90
-   seconds).
-2. Swipe down › **Preset** › save it as a new preset. Call it TRICK if the
-   camera lets you name it.
-3. Also check your everyday preset is still there for normal filming.
+## Drill 1: save the three presets (15 min)
+Follow [Quick set-ups](../settings/quick-setups.md) to save **TRICK**,
+**SCUBA** and **SNORKEL**, and turn Pre-Recording on.
 
-**You've got it if:** you can switch to TRICK and back with one swipe, in
-under 5 seconds, without looking at this page.
+**You've got it if:** you can press **Q** to reach each one in under 5
+seconds without looking at this page, and they're all still there after
+switching the camera off and on.
 
-## Drill 2: calibrate the gyro (2 min)
-Every Shot Lab tutorial says to do this if you see odd rotation or shaking.
-Do it once now, and again after any drop. Find **gyro calibration** in the
-camera's settings (or the app's camera settings), then set the camera on a
-flat, still surface and follow the prompt.
+## Drill 2: the water test (20 min)
+For peace of mind before snorkelling with the bare camera.
+1. Lens guards **off**. Battery and USB doors shut, with **no orange
+   showing**.
+2. Record, and put the camera in a sink, bathtub or pool for **15
+   minutes**. Try starting and stopping with the **shutter button** and an
+   **open palm** (Gesture Control) while it's under.
+3. Take it out, rinse it, dry the outside fully, then open the doors and
+   look for any moisture.
 
-**You've got it if:** it says calibration is complete. Note where you found
-the setting, because the menu path isn't in this guide yet.
+**You've got it if:** it's bone dry inside, and you know which ways of
+starting and stopping work underwater. While you're there, check the
+camera's settings for **gyro calibration** (Shot Lab tutorials suggest it
+if templates show odd rotation) and note where it is.
 
 ## Drill 3: the signature spin, three places (15 min)
 1. Label the 114 cm stick: *TRICK preset · full length · slow clockwise spin
@@ -96,7 +100,9 @@ you've seen how anything that moved came out. See
   Find out how far you can extend it before it wobbles or tips.
 - [ ] **Dive weight:** screw the weight block, case and 114 cm stick
   together. Check it's tight. Screw a D-ring into the weight.
-- [ ] **Lens swap:** do one practice swap indoors, then film a test clip.
+- [ ] **Lens swap:** do one practice swap indoors in a dry room. Check the
+  rubber seal is clean and seated, then run **Settings › Stitching
+  Calibration** and film a test clip. Then do the water test again.
 - [ ] **Battery swap:** time yourself. It should take under a minute.
 
 ## After the drills

@@ -19,7 +19,13 @@ surface swimming without the case.
 | Colour | Standard |
 | Sharpness | Medium |
 
+Save these as your **SCUBA** preset: see
+[Quick set-ups](quick-setups.md#2-scuba-inside-the-dive-case-pro).
+
 ## Tips
+- **Turning on Dive Case Mode:** swipe down › **Accessories** › **Dive
+  Case** › **Enable Immediately**, or long-press the **Q button**. Do it
+  before you seal the case.
 - Always turn on Dive Case Mode. Water refracts light differently right at
   the join between the case and the lenses, exactly where the stitch line
   is — this setting tells the stitching algorithm to expect and correct

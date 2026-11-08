@@ -19,10 +19,19 @@ setup.
 | Colour | Standard |
 | Sharpness | Medium |
 
+Save these as your **SNORKEL** preset, with the before-and-after checklist:
+see [Quick set-ups](quick-setups.md#3-snorkel-bare-camera-no-case).
+
 ## Tips
-- The X5's native waterproof rating is reportedly 15 m (check the current
-  manual before relying on it near that limit) — comfortably past
-  snorkelling depths. No housing needed.
+- The X5 is rated to 15 m (49 ft) with no case, well past snorkelling
+  depth. **Lens guards off** first: they aren't waterproof. Check the battery
+  and USB doors show **no orange**.
+- **Trade-off:** Insta360 says the bare camera underwater may show
+  stitching problems in 360, so it recommends the dive case for real
+  underwater filming. For in-and-out snorkelling, the bare camera still
+  wins on the surface. Keep fish in front of a lens, not at the sides.
+- **After salt water:** rinse with the doors closed, soak 5–10 minutes in
+  fresh water, then dry before opening anything.
 - This is one water scenario where "just let it run" genuinely works —
   don't waste effort trying to aim the camera at fish or a moving subject.
   Swim with it, dunk it under, spin it around; frame it later.
@@ -43,5 +52,5 @@ millimetre open is enough to let water in.
 
 ## Sources
 - [Underwater Photography Guide](https://www.insta360.com/blog/tips/underwater-photography.html) (checked 2026-09-26)
-- [X5 Waterproofing tutorial](https://onlinemanual.insta360.com/x5/en-us/camera/maintenance/waterproof) (checked 2026-09-26)
+- [X5 Waterproofing tutorial](https://onlinemanual.insta360.com/x5/en-us/camera/maintenance/waterproof) (15 m; no orange showing; soak 5–10 min; bare 360 underwater may have stitching issues; checked 2026-11-08)
 - This project's own `docs/settings-presets.md` (checked 2026-09-26)
