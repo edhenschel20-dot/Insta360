@@ -154,8 +154,14 @@ the bottom. For the general shopping guide, see
   after every dive. Salt seizes threads.
 
 ## Batteries and charging
-You have **two X5 batteries**, plus power banks and a battery charger that
-runs off a power bank.
+You have **two X5 batteries** (a third is on the way), plus power banks and
+a battery charger that runs off a power bank.
+
+**Buying the third:** get a genuine Insta360 X5 battery. The **Ultra
+Battery** (2800 mAh, against 2400 mAh for the standard one) lasts longer,
+and Insta360 lists it as a dive-day accessory. Before trusting it on a dive,
+**test that it fits and the case seals with it inside** at home. Avoid
+cheap copies: a swollen battery can stop the door sealing.
 
 - **The plan:** one battery in the camera, one in the charger. When the
   camera's battery runs low, swap them and put the flat one straight on
@@ -165,8 +171,9 @@ runs off a power bank.
 - **Long days:** a 4-hour golf round or a full Road to Hana day needs both
   batteries. Swap at a natural break (the turn at golf, a lunch stop on the
   road) and charge the flat one from the power bank as you go.
-- **Dive days:** you can't swap inside the dive case, so start each dive
-  with a full battery. Swap in the car between dives only with dry hands.
+- **Dive and snorkel-boat days:** you can't swap inside the dive case, so
+  start with a full battery (the Ultra one, if it fits) and turn the camera
+  off between stops. Swap in the car between dives only with dry hands.
 - **Every night:** charge both batteries and the power banks.
 - **Flying:** spare batteries and power banks must go in your carry-on, not
   in checked bags.
@@ -212,6 +219,7 @@ Cheapest first. None of these is essential.
 - 2-in-1 stick and tripod, 24.5–109 cm (some sellers list 105 cm): [Procam](https://procam.com/collections/insta360/products/insta360-2-in-1-invisible-selfie-stick-tripod-for-x3-go-3), [PB Tech](https://www.pbtech.com/product/CAAINS52338/Insta360-2-in-1-Invisible-Selfie-Stick--Tripod-Ret) (checked 2026-11-08)
 - Dive Case Pro contents (anti-fog inserts, ¼-inch to 3-prong adapter, thumb screw, bag, weight block): [B&H](https://www.bhphotovideo.com/c/product/1917975-REG/insta360_cinscahn_invisible_dive_case_pro.html), [Backscatter](https://www.backscatter.com/Insta360-X5-Dive-Pro-Case-Underwater-Housing) (checked 2026-11-07)
 - Neewer CA175 kit contents: [Neewer](https://neewer.com/collections/all-product/products/neewer-ca175-motorcycle-bicycle-handlebar-car-mount-accessories-kit-for-action-camera-66609257) (checked 2026-11-07)
+- Ultra Battery 2800 mAh: [Bluewater Photo](https://www.bluewaterphotostore.com/insta360-ultra-rechargeable-battery-for-x5/); listed as a dive accessory: [Insta360 blog](https://www.insta360.com/blog/waterproof-camera-accessories-for-diving.html) (checked 2026-11-08)
 - Battery runtime: [Storage & batteries](storage-and-batteries.md), from the Insta360 X5 manual (checked 2026-09-26)
 - Spare lithium batteries and power banks in carry-on only: standard airline rule; check your airline [general advice]
 - Lens swap: seal check and Stitching Calibration, Insta360 X5 replaceable lenses blog, updated 2025-12-30, https://www.insta360.com/blog/tips/insta360-x5-replaceable-lenses.html (checked 2026-11-08)
