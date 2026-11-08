@@ -7,6 +7,8 @@ tags: [trip, maui]
 The first trip section. A kit list and a storage/battery plan, then
 activity-by-activity notes that link back to the general pages.
 
+**Trick shots:** [Trick Shot Cards](../shots/trick-shot-cards.md) (put it on your home screen) and the [Practice Drills](../shots/practice-drills.md) to do before you leave.
+
 **Day-by-day shot plan:** [Maui day by day](maui-day-by-day.md), with which
 shots to get each day and which page to open that morning.
 

@@ -3,7 +3,7 @@ title: Kids & family
 ---
 # Kids & family
 
-Fun shots with the kids, family days, and people. **94 effects**, easiest first in each group. ▶ = added from a YouTube video.
+Fun shots with the kids, family days, and people. **95 effects**, easiest first in each group. ▶ = added from a YouTube video.
 
 ## Transitions
 
@@ -87,6 +87,7 @@ Fun shots with the kids, family days, and people. **94 effects**, easiest first 
 | [Glow Sticks & Light-Up Toys Slow-Mo](../../effects/glow-sticks-slow-mo.md) | Kids' glow sticks at dusk, slowed until the light smears into ribbons | Easy |
 | [Slow-Mo Particle Shot](../../effects/slow-mo-particle-shot.md) | Spray, sand, snow or bubbles drifting past in slow motion | Easy |
 | [Slow-Motion Tracked Run](../../effects/slow-motion-tracked-run.md) | Cinematic slow motion of someone running or riding | Easy |
+| [Things Appear & Disappear](../../effects/things-appear-and-disappear.md) | Which trick is it? Frozen you, flickering crowds, or vanishing people | Easy |
 | [Fireworks Two-Parter](../../effects/fireworks-two-parter.md) | Sunset timelapse pans onto fireworks, then handheld PureVideo | Medium |
 | [Speed Ramp](../../effects/speed-ramp.md) | Fast, then real-time, then fast again | Medium |
 

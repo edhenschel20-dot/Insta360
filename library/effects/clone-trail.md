@@ -19,10 +19,13 @@ Several copies of the same person trailing behind them as they walk across a sta
 
 ## Shoot it
 1. Camera static — tripod, or held steady on a plant/table.
-2. One person moves across the scene in a single direction while the camera keeps rolling.
+2. One person walks or jogs **round the camera, about 2 m away, at a steady
+   speed**, changing pose as they go, while the camera keeps rolling.
+3. When editing, keep the app open while it recognises the person. It can
+   take a few minutes.
 
 ## Edit it (phone app)
-Edit > Shot Lab > **Clone Trail** (also called Shadow Clone) — the app composites the copies automatically.
+Edit > Shot Lab > **Clone Trail**. The app adds the copies automatically, and you can choose how many copies and whether the trail runs backwards (Reverse Trail). Shadow Clone is a different template; see [Clone Loop & Shadow Clone](clone-loop-and-shadow-clone.md).
 
 ## Settings
 - Any resolution; a static camera is the only real requirement.
@@ -34,3 +37,4 @@ Edit > Shot Lab > **Clone Trail** (also called Shadow Clone) — the app composi
 ## Sources
 - Insta360, "Shot Lab: the AI tool", https://www.insta360.com/blog/tips/insta360-shot-lab-ai-editing-tool.html (checked 2026-09-26)
 - Shot Lab tutorial collection, https://forums.insta360.com/section/16/post/24010/ (checked 2026-09-26)
+- Clone Trail tutorial (walk round the camera about 2 m away at a steady speed; keep the app open during recognition), https://forums.insta360.com/section/16/post/2168 (checked 2026-11-07)

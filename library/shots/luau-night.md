@@ -22,9 +22,10 @@ Polynesian Cultural Center night show, [https://www.youtube.com/watch?v=zsGU7DAI
 - [ ] **Check card space** for a couple of hours at 5.7K.
 - [ ] **Wipe both lenses.** Torches and stage lights plus a smudge give big
   glowing halos.
-- [ ] Bring the mini tripod or use the stick's own stand. Check ahead
-  whether the venue allows selfie sticks at your seats — some don't; see
-  the Optional extras below for a no-stick backup.
+- [ ] Bring the **2-in-1 stick and tripod** (it stands on the table) and the
+  **short handle** as a backup. Selfie-stick rules aren't published for
+  most luaus, so **ask the venue when you confirm the booking**, and
+  never raise a stick during the show where it blocks anyone's view.
 
 ## Settings (set once, before it starts)
 | | |

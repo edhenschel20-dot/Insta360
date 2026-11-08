@@ -3,18 +3,18 @@ title: Effects & transitions
 ---
 # Effects & transitions
 
-**160 effects.** Pick what you're doing, or browse everything by type below. Use the search box to find one by name. 💎 = uses limited AI generations. ▶ = added from a YouTube video.
+**162 effects.** Pick what you're doing, or browse everything by type below. Use the search box to find one by name. 💎 = uses limited AI generations. ▶ = added from a YouTube video.
 
 ## By situation
-- **[Kids & family](situations/kids-family.md)** (94)
+- **[Kids & family](situations/kids-family.md)** (95)
 - **[Beach & water](situations/beach-water.md)** (42)
-- **[Travel & scenic](situations/travel-scenic.md)** (67)
+- **[Travel & scenic](situations/travel-scenic.md)** (69)
 - **[Night](situations/night.md)** (16)
 - **[Golf & sport](situations/golf-sport.md)** (22)
 - **[Bicycle](situations/bicycle.md)** (15)
 - **[Car & road trip](situations/car-road-trip.md)** (13)
-- **[Everyday & walking](situations/everyday.md)** (26)
-- **[Just for fun](situations/just-for-fun.md)** (40)
+- **[Everyday & walking](situations/everyday.md)** (27)
+- **[Just for fun](situations/just-for-fun.md)** (42)
 
 ## Transitions
 
@@ -137,6 +137,7 @@ title: Effects & transitions
 | [Motion Timelapse](../effects/motion-timelapse.md) | Timelapse that also pans across sky or crowd | Easy |
 | [Slow-Mo Particle Shot](../effects/slow-mo-particle-shot.md) | Spray, sand, snow or bubbles drifting past in slow motion | Easy |
 | [Slow-Motion Tracked Run](../effects/slow-motion-tracked-run.md) | Cinematic slow motion of someone running or riding | Easy |
+| [Things Appear & Disappear](../effects/things-appear-and-disappear.md) | Which trick is it? Frozen you, flickering crowds, or vanishing people | Easy |
 | [Underwater Slow-Mo Preset](../effects/underwater-slow-mo-preset.md) | Turtles and fish at half speed, switched on with one button | Easy |
 | [Bicycle Selfie TimeShift](../effects/bicycle-selfie-timeshift.md) | Zoom-out reveal that swings round to you, then speeds up | Medium |
 | [City Light-Trail Drive-Lapse](../effects/city-light-trail-drive-lapse.md) | Car headlights streak into long light trails as you drive | Medium |
@@ -190,6 +191,7 @@ title: Effects & transitions
 | [Seasonal AI Scenes](../effects/seasonal-ai-scenes.md) | Time-limited holiday sky and style packs in Sky Swap / AI Warp | Easy |
 | [AI Effects Guide](../effects/ai-effects-guide.md) | How to get good results from AI Warp and AI Effects on a limited budget | Medium |
 | [AI Warp & AI Effects](../effects/ai-warp-and-ai-effects.md) | AI repaints your clip into a new style | Medium |
+| [Spatial Capture (3D Scene)](../effects/spatial-capture-3d-scene.md) | Turn a 2-minute walk-round into a 3D place you can fly through | Medium |
 
 ## X5 modes
 

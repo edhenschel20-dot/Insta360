@@ -20,6 +20,9 @@ Three rules for ordering the days:
 3. **Road to Hana early in the trip.** If the weather's bad, you have time
    to move it.
 
+**Tricks:** the last column is optional. Do it only when the family is
+lingering anyway. How-tos are on the [Trick Shot Cards](../shots/trick-shot-cards.md).
+
 ## Every evening (10 minutes)
 - [ ] Download today's 3–5 best clips to the phone. Never wipe a card, and put full cards in the safe.
 - [ ] Charge all batteries and the power bank.
@@ -30,25 +33,25 @@ See [Handling footage while travelling](../gear/data-while-travelling.md).
 
 ## The plan
 
-| Day | What | Open this page | Must-get shot |
-|---|---|---|---|
-| 1 | Arrive, check in, first sunset | [Beach Walk](../shots/beach-walk.md) | Sunset silhouette on the first evening |
-| 2 | Beach morning, pool afternoon | [Beach Walk](../shots/beach-walk.md), [Resort Pool](../effects/resort-pool-lazy-river.md) | Overhead "drone" walk along the waterline |
-| 3 | **Road to Hana** | [Road to Hana](../shots/road-to-hana.md) | Bamboo forest look-up |
-| 4 | Recovery: beach and a Pāʻia or Makawao wander | [Town Walk](../shots/town-walk.md) | Look-up under a banyan |
-| 5 | **Dive 1** (shore dive) | [Scuba Dive](../shots/scuba-dive.md) | Walk-in from the beach to the first turtle |
-| 6 | Golf at **Kapalua** (move to whichever day you play it) | [Kapalua Plantation](../shots/kapalua-plantation.md) | Cart ride down the 18th towards the ocean |
-| 7 | Snorkel boat trip | [Snorkel Boat Trip](../shots/snorkel-boat-trip.md) | Turtle "between" selfie |
-| 8 | Easy day, then **special dinner** | [Dinner in a Beautiful Room](../shots/dinner-in-a-beautiful-room.md) | Walk-in reveal and ceiling look-up |
-| 9 | Helicopter flight (24 h or more after diving) | [Helicopter Flight](../shots/helicopter-flight.md) | Waterfalls from above |
-| 10 | Waterfall walk (Twin Falls, or the ʻĪao Valley paths) | [Waterfalls & Trails](../shots/waterfalls-and-trails.md) | Planted stick at the falls, family reaction |
-| 11 | **Dive 2** | [Scuba Dive](../shots/scuba-dive.md) | Seabed set-down (if the guide's OK with it) |
-| 12 | Beach day and Wailuku / Lahaina wander | [Beach Walk](../shots/beach-walk.md), [Town Walk](../shots/town-walk.md) | Same pose, many towns (one more location) |
-| 13 | Luau | [Luau Night](../shots/luau-night.md) | Fire dancer |
-| 14 | **Dive 3** | [Scuba Dive](../shots/scuba-dive.md) | Whatever turns up behind you |
-| 15 | Golf, or a free day | [Golf Round](../shots/golf-round.md) | Swing in slow-mo |
-| 16 | Summit sunrise (48 h after Dive 3), then an easy afternoon | [Summit Sunrise](../shots/summit-sunrise.md) | Sunrise timelapse above the clouds |
-| 17 | Last beach walk, pack, fly (3 days after Dive 3) | [Beach Walk](../shots/beach-walk.md) | "Goodbye" tiny planet with the family |
+| Day | What | Open this page | Must-get shot | Trick of the day (optional) |
+|---|---|---|---|---|
+| 1 | Arrive, check in, first sunset | [Beach Walk](../shots/beach-walk.md) | Sunset silhouette on the first evening | Spin #1 on the beach (starts the montage) |
+| 2 | Beach morning, pool afternoon | [Beach Walk](../shots/beach-walk.md), [Resort Pool](../effects/resort-pool-lazy-river.md) | Overhead "drone" walk along the waterline | Clone Trail: kids round the 2-in-1 on the sand |
+| 3 | **Road to Hana** | [Road to Hana](../shots/road-to-hana.md) | Bamboo forest look-up | Spin #2 at a lookout stop |
+| 4 | Recovery: beach and a Pāʻia or Makawao wander | [Town Walk](../shots/town-walk.md) | Look-up under a banyan | Street Lapse while the kids get shave ice; spin #3 at the town sign |
+| 5 | **Dive 1** (shore dive) | [Scuba Dive](../shots/scuba-dive.md) | Walk-in from the beach to the first turtle | None: dive day |
+| 6 | Golf at **Kapalua** (move to whichever day you play it) | [Kapalua Plantation](../shots/kapalua-plantation.md) | Cart ride down the 18th towards the ocean | Spin #4 on the 18th green |
+| 7 | Snorkel boat trip | [Snorkel Boat Trip](../shots/snorkel-boat-trip.md) | Turtle "between" selfie | Crowd flicker at the harbour while you wait to board |
+| 8 | Easy day, then **special dinner** | [Dinner in a Beautiful Room](../shots/dinner-in-a-beautiful-room.md) | Walk-in reveal and ceiling look-up | Spatial Capture of the room or lanai before dinner (if it's quiet) |
+| 9 | Helicopter flight (24 h or more after diving) | [Helicopter Flight](../shots/helicopter-flight.md) | Waterfalls from above | None: follow the operator's rules |
+| 10 | Waterfall walk (Twin Falls, or the ʻĪao Valley paths) | [Waterfalls & Trails](../shots/waterfalls-and-trails.md) | Planted stick at the falls, family reaction | Shadow Clone by the pool at the falls |
+| 11 | **Dive 2** | [Scuba Dive](../shots/scuba-dive.md) | Seabed set-down (if the guide's OK with it) | None: dive day |
+| 12 | Beach day and Wailuku / Lahaina wander | [Beach Walk](../shots/beach-walk.md), [Town Walk](../shots/town-walk.md) | Same pose, many towns (one more location) | Spatial Capture of a big banyan, early; spin #5 |
+| 13 | Luau | [Luau Night](../shots/luau-night.md) | Fire dancer | Crowd flicker as guests arrive |
+| 14 | **Dive 3** | [Scuba Dive](../shots/scuba-dive.md) | Whatever turns up behind you | None: dive day |
+| 15 | Golf, or a free day | [Golf Round](../shots/golf-round.md) | Swing in slow-mo | Vanishing-person jump cut from any walk |
+| 16 | Summit sunrise (48 h after Dive 3), then an easy afternoon | [Summit Sunrise](../shots/summit-sunrise.md) | Sunrise timelapse above the clouds | None: the sunrise is the trick |
+| 17 | Last beach walk, pack, fly (3 days after Dive 3) | [Beach Walk](../shots/beach-walk.md) | "Goodbye" tiny planet with the family | Last spin at the day 1 beach, then make the Spin Me Around montage |
 
 ## Shot list by day type
 

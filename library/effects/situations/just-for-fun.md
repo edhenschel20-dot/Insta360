@@ -3,7 +3,7 @@ title: Just for fun
 ---
 # Just for fun
 
-Crowd-pleasers and silly effects. **40 effects**, easiest first in each group. â–¶ = added from a YouTube video.
+Crowd-pleasers and silly effects. **42 effects**, easiest first in each group. â–¶ = added from a YouTube video.
 
 ## Transitions
 
@@ -48,6 +48,7 @@ Crowd-pleasers and silly effects. **40 effects**, easiest first in each group. â
 | [Escalator Timelapse](../../effects/escalator-timelapse.md) | You stand still while the building streams past | Easy |
 | [Freeze Go](../../effects/freeze-go.md) | Video freezes at a jump's peak moment | Easy |
 | [Glow Sticks & Light-Up Toys Slow-Mo](../../effects/glow-sticks-slow-mo.md) | Kids' glow sticks at dusk, slowed until the light smears into ribbons | Easy |
+| [Things Appear & Disappear](../../effects/things-appear-and-disappear.md) | Which trick is it? Frozen you, flickering crowds, or vanishing people | Easy |
 
 ## Bullet time
 
@@ -77,6 +78,7 @@ Crowd-pleasers and silly effects. **40 effects**, easiest first in each group. â
 | [Seasonal AI Scenes](../../effects/seasonal-ai-scenes.md) | Time-limited holiday sky and style packs in Sky Swap / AI Warp | Easy |
 | [AI Effects Guide](../../effects/ai-effects-guide.md) | How to get good results from AI Warp and AI Effects on a limited budget | Medium |
 | [AI Warp & AI Effects](../../effects/ai-warp-and-ai-effects.md) | AI repaints your clip into a new style | Medium |
+| [Spatial Capture (3D Scene)](../../effects/spatial-capture-3d-scene.md) | Turn a 2-minute walk-round into a 3D place you can fly through | Medium |
 
 ## X5 modes
 

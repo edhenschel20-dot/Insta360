@@ -22,7 +22,7 @@ Set these up once in the camera menu (Recording prompts, menu names vary by app 
 2. **Peace sign:** holds up a 10-second countdown, then takes a photo — good for a group tiny planet.
 3. **Voice:** five set phrases, including "mark" for tagging a moment while you keep rolling.
 4. **Twist-to-shoot:** twist the stick twice to start recording — useful with gloves or wet hands.
-5. **Pre-recording:** keeps a rolling 30-second buffer before you press the button, so you can catch a moment you reacted to just after it happened.
+5. **Pre-recording:** keeps a rolling buffer (30–90 seconds on the X5, your choice) before you press the button, so you can catch a moment you reacted to just after it happened.
 6. **Timed capture:** starts a Starlapse or timelapse later, up to 10 hours ahead.
 
 ## Edit it (phone app)
@@ -44,3 +44,4 @@ Source: https://www.youtube.com/watch?v=-BP64qsKWjE @800 (checked 2026-09-26).
 
 ## Sources
 - Ben Claremont, 2025-07-09, https://www.youtube.com/watch?v=h3MeuLv3YsU (checked 2026-09-26)
+- Insta360 X5 manual, Pre-Recording (30–90 s buffer), https://onlinemanual.insta360.com/x5/en-us/operating_tutorials/capture-preview/shooting-mode/pre-recording (checked 2026-11-07)

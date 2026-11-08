@@ -3,7 +3,7 @@ title: Everyday & walking
 ---
 # Everyday & walking
 
-Walking around, everyday moments. **26 effects**, easiest first in each group. ▶ = added from a YouTube video.
+Walking around, everyday moments. **27 effects**, easiest first in each group. ▶ = added from a YouTube video.
 
 ## Transitions
 
@@ -33,6 +33,12 @@ Walking around, everyday moments. **26 effects**, easiest first in each group. �
 | [Look-Up Shot](../../effects/look-up-shot.md) | Trees or buildings converge overhead as you pass | Easy |
 | [Plant-and-Go Stick Tripod](../../effects/plant-and-go-stick-tripod.md) | A mini tripod lives on the stick, always ready in seconds | Easy |
 | [Playground Trio [general advice]](../../effects/playground-trio.md) | Swing pendulum, slide POV and a cord-free roundabout bullet time | Easy |
+
+## Speed & time
+
+| Effect | What it looks like | Difficulty |
+|---|---|---|
+| [Things Appear & Disappear](../../effects/things-appear-and-disappear.md) | Which trick is it? Frozen you, flickering crowds, or vanishing people | Easy |
 
 ## Shot Lab & templates
 

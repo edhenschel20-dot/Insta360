@@ -24,6 +24,24 @@ Also: Ben Claremont's ranking of Spin Me Around (`3-5jjbZubYo` @678s — he rate
 3. Keep the same stick length and roughly the same height at every location — that consistency is what makes the cut believable.
 4. Repeat for 3–4 locations.
 
+## Make it work every time
+- **Pick one move before the trip and practise it** (see the
+  [practice drills](../shots/practice-drills.md)). The slow clockwise spin is
+  the easiest with kids.
+- **Fully extended stick, every time.** It's the one length you can always
+  repeat exactly. Bottom of the stick at your belt.
+- **Hold still for 5 seconds before and after the spin**, so there's room to
+  trim.
+- **Match each take to the last one**, not the first. Snap a quick phone
+  photo of where everyone stood, and glance at it at the next place.
+- **Spin in similar light.** Full sun at one place and deep shade at the
+  next makes the cut jump.
+- **Same clothes:** shoot several places on one day, or keep one "spin
+  shirt" for the trip.
+- **Video mode, 5.7K30 (the TRICK preset).** The Shot Lab table lists this
+  template for Video and HDR Video, up to 5.7K. 8K or PureVideo clips may not
+  be offered on Android.
+
 ## Edit it (phone app)
 **One-tap route (template):**
 1. Edit › Shot Lab › **Spin Me Around** › Use this theme.
@@ -54,3 +72,6 @@ This one is already hands-free-friendly (you're the one spinning, not a vehicle)
 - Tomasz Nowacki, 2024-02-10, https://www.youtube.com/watch?v=mFtL9sNwEJc (checked 2026-09-26)
 - Rain Michael, 2024-08-30, https://www.youtube.com/watch?v=D6_2HC6nhkA (checked 2026-09-26)
 - Gimbal Guru, 2024-04-16, https://www.youtube.com/watch?v=dCVNhJuPWMI (checked 2026-09-26)
+- PoseCut, repeatable transitions (match each take to the last; a pause before and after), 2026-09-17, https://posecutapp.com/blog/another-clothes-changing-transition/ (checked 2026-11-07)
+- Gimbal Guru, cut where exposure matches, 2021-08, https://www.gimbal-guru.com/2021/08/insta360-one-x2-seamless-transitions-in.html (checked 2026-11-07)
+- Shot Lab compatibility table, https://onlinemanual.insta360.com/app/en-us/operation-tutorial/edit-function/shot-lab (checked 2026-11-07)

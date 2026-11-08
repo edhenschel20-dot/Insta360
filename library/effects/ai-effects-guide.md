@@ -55,6 +55,22 @@ Beyond the built-in presets (Cyberpunk, Sci-Fi, Space, Anime), AI Warp has a **c
 
 Results are hit-or-miss, so treat each attempt as an experiment: if the first prompt doesn't land, tweak the wording (more specific nouns tend to help) and paint a slightly different area before trying again.
 
+## Making a building (or anything) vanish
+No Insta360 feature was found that cleanly strips a building away and
+puts it back. The reels that do it are usually made in paid AI apps
+outside Insta360 (Higgsfield's "Vanish" effect, for example), using
+footage exported from the app. The closest in-app tries:
+- **AI Warp, painted-area mode:** paint the **whole** building (not a
+  corner) and describe the change. Expect **2–4 seconds** of effect, not a
+  long transformation. Exports are flat, with an "AI Generation" watermark.
+  360 clips are capped at 5.7K.
+- **Edit › AI Effects:** if a vanish-style scene exists, it's here. Check
+  the list in the app.
+
+**Footage that gives it the best chance:** the camera planted (2-in-1 or
+mini tripod), the building large in the frame, nobody walking through, and
+10–15 seconds in Video mode, 5.7K30. Always tap **Preview** first.
+
 ## What we don't know — please check in-app
 **Honestly:** the specific list of scenes inside the separate "AI Effects" section (Edit tab) changes over time and couldn't be verified from any public source for this guide — only one scene name ("snowboarding") turned up anywhere, and a Reddit thread literally titled "Ghost Rider" exists but couldn't be read. **Please open Edit > AI Effects and Shot Lab > AI Warp in the app and screenshot both lists** — that settles the current scene names and each one's remaining-generation count far better than anything found online, and takes about five minutes.
 
@@ -71,6 +87,8 @@ service (Higgsfield.ai), not this app's own AI Effects — not this.
 - Keep a note of which prompts worked (or didn't) — since the free allowance is so tight, it's worth not re-learning the same lesson twice.
 
 ## Sources
+- Insta360 app manual, AI Warp (effect lasts 2–4 s; 360 up to 5.7K; watermark), https://onlinemanual.insta360.com/app/en-us/operation-tutorial/edit-function/al-magician (checked 2026-11-07)
+- Higgsfield "Vanish" effect (third-party, not Insta360), https://higgsfield.ai/effects/examples/vanish (checked 2026-11-07)
 - Insta360 official app manual, "AI Warp", https://onlinemanual.insta360.com/app/en-us/operation-tutorial/edit-function/al-magician (checked 2026-09-26)
 - Insta360 forum, AI Warp custom prompts tutorial, https://forums.insta360.com/section/16/post/58030/ (checked 2026-09-26)
 - Ben Claremont, "3 Quiet Insta360 App Updates You Might Have Missed", 2026-04-24, https://www.benclaremont.com/blog/3-quiet-insta360-app-updates-you-might-have-missed (checked 2026-09-26)

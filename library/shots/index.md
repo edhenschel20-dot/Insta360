@@ -6,6 +6,8 @@ tags: [index]
 
 Written for someone who lets the camera roll: set up once, enjoy the moment, sort the framing out in the edit. Pick your situation below.
 
+**Out and about and want a trick?** Open the [Trick Shot Cards](trick-shot-cards.md): three quick tricks for each kind of place. Before the trip, do the [Practice Drills](practice-drills.md).
+
 ## Out and about
 - [Walking & Vlogging](walking-and-vlogging.md)
 - [Travel & City](travel-and-city.md)

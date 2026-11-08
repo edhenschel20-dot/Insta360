@@ -3,7 +3,7 @@ title: Travel & scenic
 ---
 # Travel & scenic
 
-Views, landmarks, towns and big reveals. **67 effects**, easiest first in each group. ▶ = added from a YouTube video.
+Views, landmarks, towns and big reveals. **69 effects**, easiest first in each group. ▶ = added from a YouTube video.
 
 ## Transitions
 
@@ -68,6 +68,7 @@ Views, landmarks, towns and big reveals. **67 effects**, easiest first in each g
 | [Escalator Timelapse](../../effects/escalator-timelapse.md) | You stand still while the building streams past | Easy |
 | [Hyperlapse / TimeShift](../../effects/hyperlapse-and-timeshift.md) | Flies through a scene at speed with blur | Easy |
 | [Motion Timelapse](../../effects/motion-timelapse.md) | Timelapse that also pans across sky or crowd | Easy |
+| [Things Appear & Disappear](../../effects/things-appear-and-disappear.md) | Which trick is it? Frozen you, flickering crowds, or vanishing people | Easy |
 | [Night 11K Timelapse with ND16](../../effects/night-11k-timelapse-nd16.md) | Smooth, blurred-traffic night timelapse with no flicker | Medium |
 | [Night Interval Timelapse (72 MP Stills)](../../effects/night-interval-timelapse-72mp.md) | Max-quality night footage built from 72 MP RAW stills, not video | Medium |
 | [Speed Ramp](../../effects/speed-ramp.md) | Fast, then real-time, then fast again | Medium |
@@ -94,6 +95,12 @@ Views, landmarks, towns and big reveals. **67 effects**, easiest first in each g
 | [Horizon Flip](../../effects/horizon-flip.md) | The horizon mirrors on top while the frame spins, Inception-style | Easy |
 | [Roll Planet / Spin View / Jump Planet](../../effects/roll-planet-and-spin-view.md) | One-tap templates turning a tiny planet into motion | Easy |
 | [Sky Swap](../../effects/sky-swap.md) | Replaces a flat sky with an atmospheric one | Easy |
+
+## AI effects 💎
+
+| Effect | What it looks like | Difficulty |
+|---|---|---|
+| [Spatial Capture (3D Scene)](../../effects/spatial-capture-3d-scene.md) | Turn a 2-minute walk-round into a 3D place you can fly through | Medium |
 
 ## X5 modes
 

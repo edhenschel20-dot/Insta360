@@ -45,9 +45,10 @@ Full reference: [Travel & City](travel-and-city.md).
 1. **Look-up shot under a tree:** walk slowly under a big banyan or monkeypod
    tree with the camera held low and pointed up. In the edit, the branches
    close in overhead. See [Look-Up Shot](../effects/look-up-shot.md).
-2. **Street lapse:** stand the stick on its tripod on the pavement edge (not
-   in anyone's way) and record **Timelapse** for 2 minutes while people
-   stream past. See [Street Lapse & Flash Dash](../effects/street-lapse-and-flash-dash.md).
+2. **Street lapse:** stand the 2-in-1 on the pavement edge (not in
+   anyone's way). In **Video mode**, record about 20 seconds of you standing
+   still beside it, then step away and let it record the street for 1–3
+   minutes. Don't touch the camera between the two clips. See [Street Lapse & Flash Dash](../effects/street-lapse-and-flash-dash.md).
 3. **Mural pivot:** walk a slow half-circle round a mural or landmark with
    it pinned in the frame, then speed it up. See
    [Landmark Pivot Hyperlapse](../effects/landmark-pivot-hyperlapse.md).
