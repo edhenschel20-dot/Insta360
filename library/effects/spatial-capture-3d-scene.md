@@ -17,6 +17,15 @@ along a path you choose. It's a 3D memory of a *place*, not of a moment.
 **Difficulty:** Medium · **Works on X5:** Yes (X6, X5 and X4 Air) · 💎 **4
 free a month**, US rollout from 2026-09-28
 
+!!! note "Not free and not on your phone"
+    Some articles say spatial photos are free because they're made on your
+    phone. That's a **different thing** (for example, iPhone "spatial" photos
+    or 3D-photo apps). Insta360's **Spatial Capture** uploads your clip and
+    builds the 3D scene **in Insta360's cloud**. You get **4 free a month**.
+    The count resets on the 1st, and unused goes don't carry over. After
+    that, one report says each extra costs **50 Diamonds** (the app's paid
+    currency). Check the price in the app before you go past 4.
+
 ## Good for, and not
 | Good | Poor |
 |---|---|
@@ -69,6 +78,7 @@ in the [practice drills](../shots/practice-drills.md).
 ## Sources
 - The Gadgeteer, "How to make 3D scenes with Spatial Capture", 2026-09-19 (supported cameras; Album › Spatial Capture › Create › Generate; 2-minute clips; overhead passes no more than 2 m apart, then chest height; 1–2 hours in the cloud; explore, share link, guided video; 4 free a month; US from 28 September), https://the-gadgeteer.com/2026/09/19/insta360-spatial-capture-x6-3d-scenes-how-to/ (checked 2026-11-08)
 - Camera Jabber (keep people to a minimum, well lit, up to about 100 m²), https://camerajabber.com/photography-news/insta360-x6-turns-360-video-into-explorable-3d-scenes-with-spatial-capture/ (checked 2026-11-08)
+- Virtual Reality News (4 free a month, resets on the 1st, no carry-over; extras 50 Diamonds each [one source]; cloud processing), https://virtual.reality.news/news/insta360-spatial-capture-turns-360-video-into-3d-scenes/ (checked 2026-11-08)
 - TechRadar (4 free renders a month), https://techradar.com/cameras/360-cameras/insta360-cameras-get-free-3d-scanner-upgrade-and-the-gaussian-splatting-tool-gives-you-4-free-renders-a-month (checked 2026-11-08)
 - How moving and still people come out in this kind of 3D scan: Niantic Scaniverse 360-camera guide (a different app), https://nianticspatial.com/docs/scaniverse/360camera/ (checked 2026-11-08)
 - Choosing places, two goes, processing at home [general advice]
