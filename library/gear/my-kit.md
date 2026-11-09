@@ -18,8 +18,10 @@ the bottom. For the general shopping guide, see
 | Very low (sand, tide pools, dashboard, a wall top) | Camera straight onto the **SmallRig mini tripod** |
 | Sticks not allowed, crowds, helicopter | **Short handle**, tethered to your wrist |
 | Golf cart, boat rail, lookout railing, jet ski | **Neewer clamp and arm** (114 cm stick or cage on top) |
+| Want to see the camera's view or control it from the phone while it's mounted somewhere | **Phone holder** on the clamp, a railing or the mini tripod |
 | A steel surface such as a car body (parked or slow only) | **Neewer magnetic base**, plus a safety cord |
 | Hands busy: paddling, holding a kid's hand, snorkelling | **Hand and wrist mount** (camera in the cage) |
+| Both hands busy and on dry land: carrying a kid, pushing a stroller, kayaking, a zipline (if allowed) | **Head strap** (camera on top of your head) |
 | A rental board, kayak or boat with a GoPro mount | **Cage** (folding prongs), or the **GoPro adapters** |
 | Scuba | **Dive Case Pro** with the **weight block**, a **D-ring** and a lanyard |
 
@@ -103,11 +105,49 @@ the bottom. For the general shopping guide, see
   or up. It's for short fun moments.
 - Velcro loosens when it's wet, so pull it tight and rinse it afterwards.
 
+### Head strap (GoPro-style)
+- **Use for:** when both hands are busy on dry land, such as carrying a kid
+  on your shoulders, pushing a stroller, kayaking, or a zipline or ride
+  where the operator allows head mounts.
+- **Fitting:** use the **top** buckle, so the camera sits upright on the
+  crown of your head. Fix it with the **GoPro → ¼-inch adapter** (knurled
+  cylinder) straight onto the camera, **no cage** (lighter, less wobble).
+  Tighten the thumb screw firmly.
+- **Camera upright and close to your head.** The further it sticks up, the
+  more it wobbles. Pull the strap snug.
+- **In the 360 view** your head and hair fill the bottom. That's fine: in
+  the edit, point the view forward or around, and it looks like your eyes.
+  Look around slowly; quick head turns make shaky footage.
+- **Not for the water.** An elastic strap slips off in waves. Use the hand
+  mount or the dive case instead. **Not at dinner or the luau** either: it
+  blocks the people behind you and looks odd.
+- Add a short cord from the camera to the strap on rides and boats.
+
 ### Clip mount (GoPro-style)
 - **Use for:** a backpack strap, a belt, the beach bag or a stroller handle.
   On a shoulder strap you'll be big in the shot. It's better as a base-camp
   camera clipped to the bag or the cooler.
 - Clips can pop off, so add a cord near water.
+
+### Phone holder (spring clamp on a tilting arm, GoPro-style base)
+- **Use for:** holding your **phone** where you can see it, so the X5's
+  live view in the Insta360 app is in front of you while the camera works
+  somewhere else. For example:
+  - **Golf cart:** on the Neewer clamp's second ball head or a cart bar.
+    The phone shows the camera's view and doubles as your GPS or scorecard.
+  - **A planted shot** (sunset timelapse, clone tricks, group shots): phone
+    on a railing or the mini tripod beside you, so you can check framing
+    and start or stop the camera from the app without walking over.
+  - **A second angle:** film normal phone video (a close-up of the swing,
+    the kids' faces) next to the 360 camera.
+- **Fitting:** the base is GoPro-style. It fits the Neewer arm, the hand
+  mount, or a ¼-inch socket with the **¼-inch screw → GoPro prongs** adapter
+  from the small-parts pouch. Tighten the thumb screw and the tilt knob.
+  **Try each combination at home** (clamp, mini tripod, railing) so you
+  know which adapter goes where before the trip.
+- **Not on a selfie stick with the camera.** The phone would show in the
+  360 view and spoil the invisible-stick effect.
+- On a moving cart, put a cord on the phone too.
 
 ### Stick-on mounts (two round discs) — leave them at home
 - They're adhesive, and you don't want glue on rental cars, golf carts or
@@ -155,7 +195,20 @@ the bottom. For the general shopping guide, see
 
 ## Batteries and charging
 You have **two X5 batteries** (a third is on the way), plus power banks and
-a battery charger that runs off a power bank.
+the **Insta360 X5 Utility Fast Charge Case**.
+
+### Utility Fast Charge Case
+- **Holds and charges two X5 batteries.** One battery gets to about **80% in
+  28 minutes**. It has a **built-in USB-C cable**: plug it into a wall
+  adapter or a power bank to charge the batteries inside.
+- **It also stores three microSD cards.** Use those slots for full cards,
+  so a full card never rattles loose in a pocket or bag.
+- **X5 batteries only.** Don't put batteries from other cameras in it.
+- With the third battery: one in the camera, two in the case. That covers a
+  whole Road to Hana day.
+- Charging the case and the camera together (camera plugged into the case)
+  works, but it charges more slowly. Use it overnight, not when you're in a
+  hurry.
 
 **Buying the third:** get a genuine Insta360 X5 battery. The **Ultra
 Battery** (2800 mAh, against 2400 mAh for the standard one) lasts longer,
@@ -163,7 +216,7 @@ and Insta360 lists it as a dive-day accessory. Before trusting it on a dive,
 **test that it fits and the case seals with it inside** at home. Avoid
 cheap copies: a swollen battery can stop the door sealing.
 
-- **The plan:** one battery in the camera, one in the charger. When the
+- **The plan:** one battery in the camera, one in the charge case. When the
   camera's battery runs low, swap them and put the flat one straight on
   charge.
 - **How long one lasts:** roughly 2¼ hours at 5.7K30, less in the heat and
@@ -198,7 +251,9 @@ cheap copies: a swollen battery can stop the door sealing.
 - the hand mount and clip mount;
 - the dive case kit (case, weight, anti-fog inserts, bag);
 - the spare lenses;
-- both batteries, the battery charger and the power banks (in your carry-on);
+- the head strap and the phone holder;
+- all the batteries, the charge case (with spare cards in its slots) and
+  the power banks (in your carry-on);
 - the small-parts pouch.
 
 **Leave at home:** the stick-on discs.
@@ -223,4 +278,6 @@ Cheapest first. None of these is essential.
 - Battery runtime: [Storage & batteries](storage-and-batteries.md), from the Insta360 X5 manual (checked 2026-09-26)
 - Spare lithium batteries and power banks in carry-on only: standard airline rule; check your airline [general advice]
 - Lens swap: seal check and Stitching Calibration, Insta360 X5 replaceable lenses blog, updated 2025-12-30, https://www.insta360.com/blog/tips/insta360-x5-replaceable-lenses.html (checked 2026-11-08)
+- Utility Fast Charge Case (two batteries, 80% in 28 min, three microSD slots, built-in USB-C, X5 batteries only, slower when also charging the camera): [B&H](https://www.bhphotovideo.com/c/product/1892548-REG/insta360_cinsbahm_utility_fast_charge_case.html), [Backscatter](https://www.backscatter.com/Insta360-X5-Utility-Fast-Charge-Case) (checked 2026-11-09)
+- Head strap: top mount, keep the camera close to your head, smooth head movement: [Insta360 blog, action camera head mount](https://www.insta360.com/blog/tips/action-camera-head-mount.html) (checked 2026-11-09)
 - Items identified from Ed's photos, 2026-11-07/08. Uses, rules and the packing list [general advice]

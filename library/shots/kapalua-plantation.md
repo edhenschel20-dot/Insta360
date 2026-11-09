@@ -15,7 +15,7 @@ else is the same as the general [Golf Round](golf-round.md) plan.
 
 ## Before you leave (the night before)
 - [ ] **Charge both batteries to 100%**, and bring a power bank and the
-  battery charger. One battery lasts roughly 2¼ hours at 5.7K30, so you'll
+  charge case. One battery lasts roughly 2¼ hours at 5.7K30, so you'll
   need the second one for the back nine. Swap at the turn and put the first
   one on charge.
 - [ ] **Card space:** start with plenty free. Change to a fresh card at the
