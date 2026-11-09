@@ -70,12 +70,33 @@ in the [practice drills](../shots/practice-drills.md).
   Maui. Processing can wait until you're home, and a new month brings 4 new
   free goes. (The upload works over your phone's data too, if you'd rather
   see it the same day.)
-- **Pick 2 or 3 places**, not ten. Good Maui ideas: a big banyan early in
-  the morning, the hotel lanai, the restaurant room before your dinner
-  sitting, a quiet church or old building in town.
+- **Pick 3 to 5 places**, not ten. If the trip crosses the end of a month,
+  you get 4 free in each month: make the first ones before the month ends
+  (over phone data), the rest after.
 - **Film two goes at each place.** Then you can keep the cleaner one.
 
+## Best Maui spots (best first)
+What makes a good spot: **it stays still, it's quiet, it's evenly lit, and
+it's about the size of a big room**, with lots of detail (leaves, stone,
+wood). Water, crowds and big open views come out badly.
+
+| # | Spot | When | Why it works / watch out |
+|---|---|---|---|
+| 1 | **Your hotel's lanai, garden or open-air lobby** | First morning, before breakfast | Easiest of all. Quiet, close by, and you can redo it any day. If the grounds have a banyan or a big tree, do that |
+| 2 | **Kepaniwai Heritage Gardens** (ʻĪao Valley road, Wailuku) | Early, on the waterfall or Wailuku day | Small gardens with pavilions from different cultures: lots of detail in a small space. Reopened June 2026, but some pavilions were still closed for repairs. Check before you go |
+| 3 | **The dinner room** (day 8) | Before the first guests, with the host's OK | A room you'll want to walk round again. Must be empty: people sitting still turn into smudges |
+| 4 | **An old church or historic building in town** (Wailuku or Makawao) | Early, from the outside, on a town walk | Stone and wood come out well. Don't film inside during a service |
+| 5 | **Haleakalā summit, a patch of red cinder and rock near the rim** | After sunrise, once the crowd has gone | Unique, but windy and huge: pick one small area (rocks and a viewpoint rail), not the whole crater. Keep the stick tight in the wind |
+| Maybe | **The banyan on the Pīpīwai Trail** (Road to Hana) | Only if you're there early and it's quiet | A real giant banyan, but deep shade and a steady stream of hikers. Hana day is busy; don't let it eat your time |
+
+**Skip:** beaches, waterfalls and the boat (moving water), the luau
+(crowds, dark), and the **Lahaina banyan**: Banyan Court is still fenced off
+while the tree recovers, and reports say it may not reopen until 2028.
+
 ## Sources
+- Maui Now, Kepaniwai Heritage Gardens reopened, some pavilions closed, 2026-06-10, https://mauinow.com/2026/06/10/kepaniwai-heritage-gardens-in-iao-reopens-caution-urged-near-storm-damaged-pavilions/ (checked 2026-11-08)
+- Lahaina Banyan closed to visitors: Civil Beat, 2026-02, https://www.civilbeat.org/2026/02/lahainas-famed-banyan-tree-still-in-the-icu/, and Wikipedia (reopening pushed to 2028 or later), https://en.wikipedia.org/wiki/Lahaina_Banyan_Tree (checked 2026-11-08)
+- Spot ranking [general advice, based on the "stays still, quiet, room-sized" rules above]
 - The Gadgeteer, "How to make 3D scenes with Spatial Capture", 2026-09-19 (supported cameras; Album › Spatial Capture › Create › Generate; 2-minute clips; overhead passes no more than 2 m apart, then chest height; 1–2 hours in the cloud; explore, share link, guided video; 4 free a month; US from 28 September), https://the-gadgeteer.com/2026/09/19/insta360-spatial-capture-x6-3d-scenes-how-to/ (checked 2026-11-08)
 - Camera Jabber (keep people to a minimum, well lit, up to about 100 m²), https://camerajabber.com/photography-news/insta360-x6-turns-360-video-into-explorable-3d-scenes-with-spatial-capture/ (checked 2026-11-08)
 - Virtual Reality News (4 free a month, resets on the 1st, no carry-over; extras 50 Diamonds each [one source]; cloud processing), https://virtual.reality.news/news/insta360-spatial-capture-turns-360-video-into-3d-scenes/ (checked 2026-11-08)
