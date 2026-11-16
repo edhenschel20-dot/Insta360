@@ -4,6 +4,13 @@ tags: [trips]
 ---
 # Trips
 
+## Maui
+- **[Maui day by day](maui-day-by-day.md)**: the shot plan for each day.
+- **[Maui kit list and battery plan](maui.md)**
+- **[Kapalua golf, hole by hole](../shots/kapalua-plantation.md)**
+
+## About trip pages
+
 Each trip page is a short activity-by-activity plan — a kit list, a
 storage/battery plan, and settings for what you'll actually be doing. The
 detail always lives on the general pages under
