@@ -23,6 +23,8 @@ the bottom. For the general shopping guide, see
 | Hands busy: paddling, holding a kid's hand, snorkelling | **Hand and wrist mount** (camera in the cage) |
 | Both hands busy and on dry land: carrying a kid, pushing a stroller, kayaking, a zipline (if allowed) | **Head strap** (camera on top of your head) |
 | A rental board, kayak or boat with a GoPro mount | **Cage** (folding prongs), or the **GoPro adapters** |
+| Bike handlebars, a stroller handle, a thin railing | **AKASO handlebar clamp**, with the **ball head** to keep the camera upright |
+| Riding a bike with a helmet | **AKASO vented helmet mount**, strapped on, then the buckle and J-hook |
 | Scuba | **Dive Case Pro** with the **weight block**, a **D-ring** and a lanyard |
 
 **Two rules that apply to everything:**
@@ -153,6 +155,43 @@ the bottom. For the general shopping guide, see
 - They're adhesive, and you don't want glue on rental cars, golf carts or
   boats.
 
+### AKASO accessory kit (came with your son's Brave 4)
+These parts are made for a small GoPro-style camera, but most of the mounts
+work with the X5. **How to fit them:** almost every AKASO mount ends in
+GoPro-style prongs. The X5 has a ¼-inch screw socket instead, so put the
+camera in the **cage** (flip the prongs out) or screw on your **GoPro →
+¼-inch adapter** first, then join it to the AKASO part with its thumb
+screw.
+
+**The X5 is a lot heavier than the camera these were made for.** Tighten
+every thumb screw firmly with the **spanner**, add a cord on anything that
+moves, and **test each set-up at home** with a hard shake before you trust
+it.
+
+**Useful for the X5:**
+
+| Part | Use it for | Shots it suits |
+|---|---|---|
+| **Handlebar clamp** | A second, lighter clamp for **thin tubes**: bike handlebars, a stroller handle, a thin railing or a shopping cart. Check that it closes tightly on the tube first. **Not for the golf cart post** (too thick); use the Neewer clamp there | [Cyclist POV hyperlapse](../effects/cyclist-pov-hyperlapse.md), [Stroller timelapse](../effects/cart-trolley-stroller-timelapse.md), a [Parade Periscope](../effects/parade-periscope-lamp-post-clamp.md) on a thin pole |
+| **Rotation ball head** | Keeps the camera **upright** when the clamp is on a slanted bar. If the camera leans, the mount shows in the 360 view | Any clamp shot, especially handlebars and railings |
+| **Extension arms** (C, D and F hooks) | Push the camera out from a handlebar or helmet, so the bars or helmet take up less of the bottom of the view. Join two for a 10 cm "spacer". **Keep it short:** the longer the arm, the more it wobbles with the X5's weight | [Cyclist POV hyperlapse](../effects/cyclist-pov-hyperlapse.md) (it asks for a 10 cm spacer) |
+| **Vented helmet mounts** (×2) **and bandage straps** (×2) | The helmet mount threads onto a **bike helmet** with the straps, with no glue. Then add the **buckle mount** and the **J-hook**, with the camera on top | Rental bike rides, [Bicycle situations](../effects/situations/bicycle.md) |
+| **Bandage straps (velcro)** on their own | Backup straps for the [Golf Cart Mount](golf-cart-mount.md) if you don't have the rubber ones. Pull them really tight, and check them every few holes | Kapalua cart camera (backup only) |
+| **Buckle mount and J-hook** | The quick-release clip that goes with the helmet mounts | As above |
+| **E-hook and A-hook** | More GoPro ↔ ¼-inch adapters, the same idea as the ones in your small-parts pouch. Handy spares | Anywhere you need one more adapter |
+| **Spanner** | Tightens thumb screws much harder than fingers can. That matters with the heavier X5 | Every mount |
+| **Lens cloth** | A spare cloth for the bag | Wipe the lenses before anything that matters |
+
+**Not useful for the X5:** the Brave 4 camera, its waterproof housing,
+batteries, battery charger, remote control and its strap, and the two
+clips (Clip 1 and Clip 2, which are frames sized for the Brave 4). Leave
+those for your son. **Leave the double-sided adhesive tape at home too.**
+It's the same rule as the stick-on discs: no glue on rental things.
+
+!!! tip "Not on a selfie stick"
+    Don't put an AKASO arm or ball head between the camera and a selfie
+    stick. Rule 1 applies here too: it would show in the footage.
+
 ## Protection
 
 ### K&F Concept cage
@@ -241,6 +280,9 @@ cheap copies: a swollen battery can stop the door sealing.
 | GoPro → ¼-inch flat plate | The same, low-profile | Yes |
 | ¼-inch screw → GoPro prongs (×2) | Turns a ¼-inch socket into a GoPro mount | Optional |
 | Double-ended screws (×2) and the headless threaded rod | Join two sockets | Optional (easy to lose) |
+| AKASO spanner | Tightens thumb screws hard | **Yes** (it weighs nothing) |
+| AKASO E-hook and A-hook adapters | Spare GoPro ↔ ¼-inch adapters | Yes, as spares |
+| AKASO bandage straps (×2) | Backup straps for the cart mount, or for the helmet mount | Yes |
 
 ## Maui packing list
 **Bring:**
@@ -254,9 +296,13 @@ cheap copies: a swollen battery can stop the door sealing.
 - the head strap and the phone holder;
 - all the batteries, the charge case (with spare cards in its slots) and
   the power banks (in your carry-on);
-- the small-parts pouch.
+- the small-parts pouch;
+- from the AKASO kit: the handlebar clamp, the ball head, the spanner, the
+  bandage straps and a spare lens cloth. Add the helmet mount, buckle and
+  J-hook only if you're planning a bike ride.
 
-**Leave at home:** the stick-on discs.
+**Leave at home:** the stick-on discs, the AKASO adhesive tape, and the
+Brave 4's own housing, batteries, charger, remote and clips.
 
 ## What to buy next
 Cheapest first. None of these is essential.
@@ -280,4 +326,5 @@ Cheapest first. None of these is essential.
 - Lens swap: seal check and Stitching Calibration, Insta360 X5 replaceable lenses blog, updated 2025-12-30, https://www.insta360.com/blog/tips/insta360-x5-replaceable-lenses.html (checked 2026-11-08)
 - Utility Fast Charge Case (two batteries, 80% in 28 min, three microSD slots, built-in USB-C, X5 batteries only, slower when also charging the camera): [B&H](https://www.bhphotovideo.com/c/product/1892548-REG/insta360_cinsbahm_utility_fast_charge_case.html), [Backscatter](https://www.backscatter.com/Insta360-X5-Utility-Fast-Charge-Case) (checked 2026-11-09)
 - Head strap: top mount, keep the camera close to your head, smooth head movement: [Insta360 blog, action camera head mount](https://www.insta360.com/blog/tips/action-camera-head-mount.html) (checked 2026-11-09)
+- AKASO Brave 4 kit contents: from the Amazon "Package Included" picture Ed sent (2026-11-15). The parts are identified from that picture, so test each one on the X5 at home [general advice]
 - Items identified from Ed's photos, 2026-11-07/08. Uses, rules and the packing list [general advice]
