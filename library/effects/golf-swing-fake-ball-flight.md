@@ -4,7 +4,7 @@ summary: Swing with the stick, then fake the ball's flight
 category: stick-mount
 good_for: [golf-sport]
 difficulty: Medium
-tags: [stick-mount, golf, hyperlapse]
+tags: [stick-mount, golf, hyperlapse, transitions]
 ---
 # Golf Swing + Fake Ball Flight
 Two shots cut together: the real swing, then a fairway walk sped up into a fake "ball flight" that lands where the drive would have gone.
@@ -31,6 +31,8 @@ Two shots cut together: the real swing, then a fairway walk sped up into a fake 
 ## Tips
 - The simpler version of the swing itself is a mouth-mount POV — see [Mouth-Mount / Bite POV](mouth-mount-bite-pov.md) — if you just want the real swing without the fake-flight add-on.
 - Pairs with [Catch / Throw Transition](catch-throw-transition.md) if you want a match-cut version of a ball in flight instead.
+
+- Same video as the [Pass-By Wipe](pass-by-wipe.md): it comes straight after it.
 
 ## Sources
 - Gimbal Guru, 2022-09-08, https://www.youtube.com/watch?v=U_ZB5rn8N_4 (checked 2026-09-26)

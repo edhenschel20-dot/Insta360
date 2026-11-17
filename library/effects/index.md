@@ -22,6 +22,7 @@ title: Effects & transitions
 |---|---|---|
 | [Zoom-In Transition (Zoom Cut)](../effects/zoom-in-transition.md) | Push in at the cut, then start the next wide | Easy |
 | [Catch / Throw Transition](../effects/catch-throw-transition.md) | Throw something up, cut on the catch elsewhere | Medium |
+| [Golf Swing + Fake Ball Flight](../effects/golf-swing-fake-ball-flight.md) | Cut from the swing into a sped-up "ball flight" down the fairway | Medium |
 | [Gesture Match Cut](../effects/gesture-match-cut.md) | The same clap or click, cut on the gesture | Medium |
 | [Jump-Cut Teleport & Outfit Swap](../effects/jump-cut-teleport.md) | You jump in one spot, land in another | Medium |
 | [Location Swap (Wall Slide Transition)](../effects/location-swap-wall-slide.md) | Same pose, same wall — camera slides sideways to a new place | Medium |

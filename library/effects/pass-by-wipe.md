@@ -35,6 +35,8 @@ Also: Best360's hands-free "Jump Cut" version at `YyVv2tKdO1U` @526s, where you 
 - Doesn't need a second camera operator: the hands-free "Jump Cut" version works solo, which fits shooting yourself with the family.
 - The original demo of the basic version was filmed in Single-Lens mode — do it in full 360 instead and reframe afterward, so you keep all your 360 options.
 
+- **Next in the same video:** [Golf Swing + Fake Ball Flight](golf-swing-fake-ball-flight.md), a cut from the swing into a fake ball flight.
+
 ## Sources
 - Gimbal Guru, 2022-09-08, https://www.youtube.com/watch?v=U_ZB5rn8N_4 (checked 2026-09-26)
 - Best360, 2026-03-30, https://www.youtube.com/watch?v=YyVv2tKdO1U (checked 2026-09-26)
