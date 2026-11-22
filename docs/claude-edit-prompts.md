@@ -16,8 +16,14 @@ Last updated: 2026-11-22
    yourself, because it's cheaper than having Claude hunt for them.
 3. In the Claude desktop app: check **Settings → Usage** and write down
    **This week %**. Make sure **Computer use** is on.
-4. Pick the model: **Sonnet** for everyday clips, **Opus** for special ones
-   (the luau, Kapalua 18, Road to Hana highlights).
+4. Pick the model. **Opus for now.** In the 2026-11-22 test, Sonnet cut
+   the dead time well but did no reframing and no transitions; it only
+   trimmed. Opus did the reframing and effects. Opus costs up to 2% of a
+   week per clip, and Sonnet under 1%. Sonnet can be retried with the
+   stricter checklist below.
+   - **Free head start:** before handing over, drag the view in Studio so
+     the main subject is centred. It takes 5 seconds and gives Claude the
+     right framing to start from.
 5. Start a **new chat**, paste the prompt, allow access to Insta360 Studio,
    and leave the laptop alone until it's done.
 6. Afterwards, write down **This week %** again. Exporting doesn't use any
@@ -36,6 +42,16 @@ These come from the first test (2026-11-22, fireworks):
 
 ## The shared block (paste at the end of every prompt)
 ```
+Required - check each one before exporting:
+1. REFRAME: turn the view so the main subject is centred in the 16:9
+   frame, and keep it there (pan with it if it moves). Take a screenshot
+   to confirm. If the subject is off to one side, fix it before going on.
+2. CUT: remove the dead time (see below).
+3. TRANSITIONS AND EFFECTS: add a transition at the joins between cut
+   sections, and at least one effect at the best moment. Choose ones
+   that suit the clip.
+In your report, confirm each of these 3 and say where you did it.
+
 Editing style (always):
 - Cut out dead time completely: setting up, waiting, people walking
   about, anything where nothing is happening. Don't speed those parts
@@ -63,12 +79,20 @@ used, and roughly where they are.
 ## Situation prompts (put the shared block underneath)
 
 ### Fireworks
-Tested 2026-11-22 on Opus: "turned out really good". It cost at most
-about 2% of a weekly limit for a 3-minute clip. The notes from that run
-are now in the shared block.
+Tested 2026-11-22:
+- **Opus**: "turned out really good". It reframed and added effects, but
+  sped up dead time instead of cutting it.
+- **Sonnet**: cut the dead time perfectly, with joins you can't notice.
+  But it never reframed (the fireworks stayed at the far right) and
+  added no transitions.
+
+The "Required" checklist in the shared block was added to fix both.
 ```
 Insta360 Studio is open with one 360 clip of a fireworks show. Reframe
 it to 16:9 and edit it into a short, watchable clip.
+
+- First, turn the view so the fireworks are in the centre of the frame.
+  Don't leave them at the edge where the camera happened to point.
 
 - Keep the view on the fireworks for nearly the whole clip. Tilt up
   enough that the bursts are well in frame, with a little of the
@@ -140,3 +164,4 @@ Sources (checked 2026-11-22): [phone album](https://www.insta360.com/support/sup
 | Date | Clip | Length | Model | Weekly % used | Verdict |
 |---|---|---|---|---|---|
 | 2026-11-22 | Fireworks | 3 min | Opus 5.5 Medium | ≤ 2% (included other work) | Really good; cut dead time instead of speeding up; less curvature |
+| 2026-11-22 | Fireworks #2 (same night) | ? | Sonnet | < 1% (week stayed 21%; session 7% → 8%) | Loved the dead-time cuts; but no reframing (fireworks stuck far right) and no transitions |
