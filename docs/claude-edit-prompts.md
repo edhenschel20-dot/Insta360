@@ -71,10 +71,16 @@ Rules to keep this quick:
 - Use as few keyframes as you need for smooth moves.
 - Check your work with no more than 3-4 screenshots.
 - If something goes wrong twice, stop and tell me rather than retrying.
-- Export at [1080p for sharing / 4K for keeping] to my Downloads folder.
+- Export at 1080p to my Downloads folder.
 When you're done, tell me what you cut, the effects and transitions you
 used, and roughly where they are.
 ```
+
+**Export size:** 1080p is the default for the trip. It exports faster,
+makes much smaller files, and is plenty for phones and sharing. Export
+size makes no difference to the Claude allowance, because Studio does
+the export, not Claude. For a keeper you'll watch on the big TV,
+re-export it at 4K later from Studio, as long as you keep the original.
 
 ## Situation prompts (put the shared block underneath)
 
