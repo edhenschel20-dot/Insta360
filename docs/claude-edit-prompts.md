@@ -118,6 +118,24 @@ This uses ffmpeg (installed at `C:\Users\User1\tools\ffmpeg`) and very
 little of the Claude allowance. Use royalty-free music (e.g. YouTube
 Audio Library) if the video will be posted anywhere.
 
+## Finishing on the phone instead
+Exported clips are flat MP4s, so they're small enough for LocalSend
+(VPN off), a USB cable into `DCIM` or `Movies`, or the hub's drive. In
+the Insta360 app, add them from the **phone album**. That gives you
+transitions (tap the square between clips), music, Auto Edit (clips over
+2 seconds) and FlashCut templates.
+- **No 360 tricks** on flat clips: no reframing, Deep Track, tiny planet
+  or Shot Lab. Do those in Studio first.
+- **Custom music** may not be allowed in the app (one review said so; check
+  it). For your own song, join the clips with ffmpeg (above).
+- **Insta360 Studio v5+** also has multi-clip editing with music and
+  effects, so Claude could do the joining in Studio in the same session.
+
+Sources (checked 2026-11-22): [phone album](https://www.insta360.com/support/supportcourse?post_id=19659),
+[Auto Edit](https://onlinemanual.insta360.com/app/en-us/operation-tutorial/edit-function/auto-edit),
+[Transitions](https://onlinemanual.insta360.com/app/en-us/operation-tutorial/edit-function/transition),
+[Studio v5 multi-clip](https://www.insta360.com/cn/support/supportdetail/video/vzuQQmR69q)
+
 ## Cost log
 | Date | Clip | Length | Model | Weekly % used | Verdict |
 |---|---|---|---|---|---|
