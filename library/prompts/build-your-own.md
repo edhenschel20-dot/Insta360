@@ -47,6 +47,24 @@ Editing style (always):
 - Transitions and effects are welcome where they suit the moment, but
   don't overdo them.
 
+How Insta360 Studio behaves (learned in earlier runs - follow this):
+- Clean start: reset the view angle to 0/0/0 and turn off all Imaging
+  effects. Delete any old project segments that point at a missing
+  file. Leave old saved versions in Clip Management alone.
+- Find the action first: use the sound waveform and brightness to list
+  every section to keep (with start and end times) BEFORE cutting.
+- Make the cuts from the END of the clip backwards. Delete closes up
+  the gap automatically, so cutting from the end keeps the earlier
+  times on your list correct.
+- Clicking a clip selects it and moves the playhead there.
+- Ctrl+B splits at the MOUSE position if the mouse is over the
+  timeline. Move the mouse off the timeline (e.g. onto the preview)
+  before pressing Ctrl+B, so it splits at the playhead.
+- Before pressing Delete, check the split really exists and only the
+  gap is selected. If a split fails, Delete removes everything up to
+  that point - Ctrl+Z straight away if that happens.
+- Never touch or overwrite the original file.
+
 Rules to keep this quick:
 - Use keyframes for purposeful, slow moves - not one fixed view, but no
   jittery extra keyframes either.

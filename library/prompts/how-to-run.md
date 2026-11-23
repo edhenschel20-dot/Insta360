@@ -12,6 +12,9 @@ tags: [editing, prompts]
 2. **Open it in Insta360 Studio.**
     - If the clip was edited before, those edits come back with it. Clear
       them, or leave the prompt's "clear old edits" line in.
+    - **Save time and allowance on long clips:** cut out the one or two
+      biggest dead stretches yourself (for example, a 2-minute wait
+      before the finale). Claude does the fine cuts.
     - **Free head start:** drag the view so the main subject is centred.
       It takes 5 seconds.
 3. **In the Claude desktop app:** check **Settings → Usage** and note the

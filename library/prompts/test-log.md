@@ -20,5 +20,13 @@ always hold the current best prompt; this page keeps the history.
 - **Strict prompts** get clean cuts, but a static camera.
 - **What works** is a strict prompt for cuts and view style, plus a
   specific list of camera moves.
+- **Studio quirks found by Claude (fireworks v3 run):** Ctrl+B splits
+  where the mouse is, not at the playhead, if the mouse is over the
+  timeline. A failed split followed by Delete wiped 0:00–16:34. Delete
+  closes up gaps automatically. These are now in every prompt, with
+  "cut from the end backwards" and "check each split before deleting".
+- **Lots of cuts take a long time.** A 19-minute fireworks clip needed
+  about 19 keep sections, which is about 38 cut points. Trimming the
+  biggest dead stretches yourself first saves time and allowance.
 - **Studio remembers old edits.** Removing a clip and adding it back
   brings its edits back, so clear them before re-testing.

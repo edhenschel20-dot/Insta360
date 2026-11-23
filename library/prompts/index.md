@@ -16,7 +16,7 @@ always the one to use. What we tried, and why it changed, is kept in the
 ## Pick your situation
 | Situation | Status | Prompt |
 |---|---|---|
-| Fireworks | Version 3, not tested yet | [Fireworks](fireworks.md) |
+| Fireworks | Version 3, being tested; Studio know-how added | [Fireworks](fireworks.md) |
 | Parade | Version 1, not tested yet | [Parade](parade.md) |
 | Anything else | Build one from the shared rules | [Build your own](build-your-own.md) |
 
