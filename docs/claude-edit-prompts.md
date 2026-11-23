@@ -192,4 +192,4 @@ Sources (checked 2026-11-22): [phone album](https://www.insta360.com/support/sup
 |---|---|---|---|---|---|
 | 2026-11-22 | Fireworks | 3 min | Opus 5.5 Medium | ≤ 2% (included other work) | Really good; cut dead time instead of speeding up; less curvature |
 | 2026-11-22 | Fireworks #2 (same night) | ? | Sonnet | < 1% (week stayed 21%; session 7% → 8%) | Loved the dead-time cuts; but no reframing (fireworks stuck far right) and no transitions |
-| 2026-11-22 | Fireworks #2 again (strict prompt) | ? | Opus | ? (before: week 21%) | Centred and cut well, but no camera movement at all; first Opus run still the best |
+| 2026-11-22 | Fireworks #2 again (strict prompt) | ? | Opus | ~1% (week 21% → 22%; includes this chat's prompt work) | Centred and cut well, but no camera movement at all; first Opus run still the best |
