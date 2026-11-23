@@ -5,6 +5,9 @@ Your pocket guide to shooting and editing with the X5. Use the **search box**
 
 **No signal?** [Install the guide on your phone and save it for offline](offline.md) before the trip.
 
+## Edit prompts
+- **[Edit prompts](prompts/index.md)**: copy-and-paste prompts that get Claude to edit a clip in Insta360 Studio (fireworks, parade and more).
+
 ## Maui trip
 - **[Maui day by day](trips/maui-day-by-day.md)**: what to shoot each day, and which page to open that morning.
 - **[Trick Shot Cards](shots/trick-shot-cards.md)**: three quick tricks for each kind of place.
