@@ -22,7 +22,8 @@ tags: [editing, prompts]
 4. **Choose Opus.** In testing, Sonnet only trimmed the clip: it did no
    reframing and added no transitions. Opus does the creative part.
 5. Start a **new chat**, paste the prompt and allow access to Insta360
-   Studio. **Leave the laptop alone** until it's done.
+   Studio **and Windows File Explorer**. Without Explorer, Claude can't
+   bring Studio to the front. **Leave the laptop alone** until it's done.
 6. Afterwards, note **This week %** again.
 
 ## What it costs

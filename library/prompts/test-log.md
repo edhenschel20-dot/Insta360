@@ -34,5 +34,8 @@ always hold the current best prompt; this page keeps the history.
 - **Lots of cuts take a long time.** A 19-minute fireworks clip needed
   about 19 keep sections, which is about 38 cut points. Trimming the
   biggest dead stretches yourself first saves time and allowance.
+- **Claude needs Windows File Explorer access too.** Without it, it
+  can't bring Studio to the front. Every prompt now asks for both at
+  the start.
 - **Studio remembers old edits.** Removing a clip and adding it back
   brings its edits back, so clear them before re-testing.

@@ -23,7 +23,8 @@ tags: [editing, prompts, beach-water, kids-family]
    screen: Claude can't work on a locked or sleeping screen.
 5. **Note This week % and Current session %.**
 6. Paste the prompt into a **new chat** and **approve Insta360 Studio
-   when it asks**. That should be the only approval it needs. Watch the
+   and Windows File Explorer when it asks**. Those should be the only
+   approvals it needs. Watch the
    first minute or so to make sure it's under way.
 7. **If you hit a limit:** the 5-hour session limit is the one most
    likely to stop it overnight. The prompt tells Claude to finish the
@@ -102,6 +103,9 @@ Editing style (always):
   don't overdo them.
 
 How Insta360 Studio behaves (learned in earlier runs - follow this):
+- Permissions: at the very start, ask for access to BOTH Insta360
+  Studio AND Windows File Explorer in one request. Without Explorer
+  you can't bring Studio to the front, even when it's open.
 - Clean start: reset the view angle to 0/0/0 and turn off all Imaging
   effects. Delete any old project segments that point at a missing
   file. Leave old saved versions in Clip Management alone.

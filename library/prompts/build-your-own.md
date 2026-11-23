@@ -52,6 +52,9 @@ Editing style (always):
   don't overdo them.
 
 How Insta360 Studio behaves (learned in earlier runs - follow this):
+- Permissions: at the very start, ask for access to BOTH Insta360
+  Studio AND Windows File Explorer in one request. Without Explorer
+  you can't bring Studio to the front, even when it's open.
 - Clean start: reset the view angle to 0/0/0 and turn off all Imaging
   effects. Delete any old project segments that point at a missing
   file. Leave old saved versions in Clip Management alone.
