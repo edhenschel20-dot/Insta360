@@ -32,7 +32,8 @@ Last updated: 2026-11-22
 ## Ed's standing preferences (in every prompt)
 These come from the first test (2026-11-22, fireworks):
 - **Cut dead time; don't speed it up.** Nobody wants to watch the set-up,
-  the waiting or people walking about.
+  the waiting or people walking about. **But keep all the action**: no
+  dropping fireworks or highlights just to make it shorter.
 - **A natural view, not curved.** Fisheye or heavy curving only once or
   twice, briefly, as a deliberate effect.
 - **The action, not the family.** A quick glance at people reacting is
@@ -56,7 +57,8 @@ Editing style (always):
 - Cut out dead time completely: setting up, waiting, people walking
   about, anything where nothing is happening. Don't speed those parts
   up - remove them. Keep a second or so before each key moment so the
-  cuts aren't abrupt.
+  cuts aren't abrupt. Never cut the action itself: I want to see
+  everything that happened, just without the waiting.
 - Keep a normal, natural-looking view most of the time - no fisheye or
   heavy curving. Use a wide, curved look only once or twice as a
   deliberate effect, for a second or two.
@@ -103,8 +105,12 @@ Movement comes from pans, push-ins and pull-backs, not from curvature.
 Version 3 below (not tested yet):
 ```
 Insta360 Studio is open with one 360 clip of a fireworks show. Edit it
-into a short, fun 16:9 clip with movement and creativity - not one
-fixed view for the whole thing.
+into a fun 16:9 clip with movement and creativity - not one fixed view
+for the whole thing.
+
+Keep EVERY firework - don't drop any bursts to make it shorter. Only
+cut the waiting and gaps between them. The length is whatever is left
+once the dead time is gone.
 
 If the clip still has edits from an earlier test, clear them all first
 (keyframes, cuts, speed changes, effects) and confirm it's clean.
