@@ -43,8 +43,8 @@ These come from the first test (2026-11-22, fireworks):
 ## The shared block (paste at the end of every prompt)
 ```
 Required - check each one before exporting:
-1. REFRAME: turn the view so the main subject is centred in the 16:9
-   frame, and keep it there (pan with it if it moves). Take a screenshot
+1. REFRAME: keep the main subject well framed in 16:9 - never stuck at
+   the edge - while still using the camera moves asked for above. Take a screenshot
    to confirm. If the subject is off to one side, fix it before going on.
 2. CUT: remove the dead time (see below).
 3. TRANSITIONS AND EFFECTS: add a transition at the joins between cut
@@ -68,7 +68,8 @@ Editing style (always):
   don't overdo them.
 
 Rules to keep this quick:
-- Use as few keyframes as you need for smooth moves.
+- Use keyframes for purposeful, slow moves - not one fixed view, but no
+  jittery extra keyframes either.
 - Check your work with no more than 3-4 screenshots.
 - If something goes wrong twice, stop and tell me rather than retrying.
 - Export at 1080p to my Downloads folder.
@@ -86,27 +87,41 @@ re-export it at 4K later from Studio, as long as you keep the original.
 
 ### Fireworks
 Tested 2026-11-22:
-- **Opus**: "turned out really good". It reframed and added effects, but
-  sped up dead time instead of cutting it.
+- **Opus, first prompt**: the best so far. It had movement and creativity,
+  but it sped up the dead time instead of cutting it, and used too much
+  curvature.
 - **Sonnet**: cut the dead time perfectly, with joins you can't notice.
   But it never reframed (the fireworks stayed at the far right) and
   added no transitions.
+- **Opus, strict prompt**: centred the fireworks and cut the dead time well,
+  but the camera never moved. The result was "a video on the same spot
+  the whole time". The rules (stay on the fireworks, natural view, few
+  keyframes) were too tight, so it played it safe.
 
-The "Required" checklist in the shared block was added to fix both.
+**Lesson:** say "natural view" *and* ask for specific camera moves.
+Movement comes from pans, push-ins and pull-backs, not from curvature.
+Version 3 below (not tested yet):
 ```
-Insta360 Studio is open with one 360 clip of a fireworks show. Reframe
-it to 16:9 and edit it into a short, watchable clip.
+Insta360 Studio is open with one 360 clip of a fireworks show. Edit it
+into a short, fun 16:9 clip with movement and creativity - not one
+fixed view for the whole thing.
 
-- First, turn the view so the fireworks are in the centre of the frame.
-  Don't leave them at the edge where the camera happened to point.
+If the clip still has edits from an earlier test, clear them all first
+(keyframes, cuts, speed changes, effects) and confirm it's clean.
 
-- Keep the view on the fireworks for nearly the whole clip. Tilt up
-  enough that the bursts are well in frame, with a little of the
-  horizon or skyline at the bottom for scale.
-- Follow where the bursts are; if they move left or right, pan smoothly
-  with them.
-- Once, at a natural pause, glance round to the people watching behind
-  the camera for about 2 seconds, then turn back.
+Camera moves to include (natural view, not fisheye):
+- Opening: start low on the crowd or skyline, then tilt up smoothly to
+  reveal the first bursts.
+- During the show: keep the fireworks as the subject, but keep the
+  camera alive - slow push-ins (zoom in) on big bursts, gentle pans to
+  follow them, easing back out between them. Something should be
+  moving slowly most of the time.
+- Once, at a natural pause, swing round to the people watching for
+  about 2 seconds, then back to the sky.
+- Finale: one dramatic move - for example a quick zoom out to a wide or
+  tiny-planet view for a second or two, then back in. This is the one
+  place a curved look is welcome.
+- End: a slow pull-back or a fade out.
 ```
 
 ### Parade
@@ -171,3 +186,4 @@ Sources (checked 2026-11-22): [phone album](https://www.insta360.com/support/sup
 |---|---|---|---|---|---|
 | 2026-11-22 | Fireworks | 3 min | Opus 5.5 Medium | ≤ 2% (included other work) | Really good; cut dead time instead of speeding up; less curvature |
 | 2026-11-22 | Fireworks #2 (same night) | ? | Sonnet | < 1% (week stayed 21%; session 7% → 8%) | Loved the dead-time cuts; but no reframing (fireworks stuck far right) and no transitions |
+| 2026-11-22 | Fireworks #2 again (strict prompt) | ? | Opus | ? (before: week 21%) | Centred and cut well, but no camera movement at all; first Opus run still the best |
