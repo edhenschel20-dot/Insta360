@@ -15,14 +15,17 @@ tags: [editing, prompts, beach-water, kids-family]
    the mouse.
 2. **Put all the clips in one folder**, for example `Downloads\Lake`, and
    change the folder name in the prompt to match.
-3. **Keep the laptop awake.** Plug it in. In **Settings → System → Power**,
+3. **Open Insta360 Studio and load all the clips into it** (drag them in
+   from the folder). Leave Studio open, maximised, on the main screen.
+   This saves Claude from fiddling with file dialogs.
+4. **Keep the laptop awake.** Plug it in. In **Settings → System → Power**,
    set the screen and sleep to **Never** while plugged in. Don't lock the
    screen: Claude can't work on a locked or sleeping screen.
-4. **Note This week % and Current session %.**
-5. Paste the prompt into a **new chat** and **approve Insta360 Studio
+5. **Note This week % and Current session %.**
+6. Paste the prompt into a **new chat** and **approve Insta360 Studio
    when it asks**. That should be the only approval it needs. Watch the
    first minute or so to make sure it's under way.
-6. **If you hit a limit:** the 5-hour session limit is the one most
+7. **If you hit a limit:** the 5-hour session limit is the one most
    likely to stop it overnight. The prompt tells Claude to finish the
    clip it's on and list what's left. In the morning, start a new chat
    with the same prompt; it skips the clips already exported.
