@@ -16,7 +16,7 @@ always the one to use. What we tried, and why it changed, is kept in the
 ## Pick your situation
 | Situation | Status | Prompt |
 |---|---|---|
-| Fireworks | Version 3, being tested; Studio know-how added | [Fireworks](fireworks.md) |
+| Fireworks | Version 4, not tested yet | [Fireworks](fireworks.md) |
 | Parade | Version 1, not tested yet | [Parade](parade.md) |
 | Lake or backyard afternoon (batch, overnight) | Version 1, not tested yet | [Lake day](lake-day.md) |
 | Anything else | Build one from the shared rules | [Build your own](build-your-own.md) |

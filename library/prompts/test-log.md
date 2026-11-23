@@ -12,8 +12,14 @@ always hold the current best prompt; this page keeps the history.
 | 2026-11-22 | Fireworks (3 min) | v1, loose | Opus | up to 2% (included other work) | **Best so far.** Movement and creativity, but it sped up dead time instead of cutting it, and too much curvature |
 | 2026-11-22 | Fireworks #2, same night | v2, strict | Sonnet | under 1% | Loved the dead-time cuts, and the joins were invisible. But no reframing (fireworks stuck at the far right) and no transitions |
 | 2026-11-22 | Fireworks #2 again | v2, strict | Opus | about 1% (included other work) | Centred and cut well, but no camera movement at all: "the same spot the whole time" |
+| 2026-11-22 | Fireworks (19 min) | v3 + Studio know-how | Opus | under 2% (with other work) | "Much better." But the view never turned: it missed a hand-held roman candle, and kept gaps where only distant fireworks were going off. Led to v4: what counts as action, plus a camera pass |
 
 ## Lessons so far
+- **Claude spends its effort on the cuts** and then leaves the view
+  where it is. A separate **camera pass** after cutting (every kept
+  section gets its own view) is now in every prompt.
+- **Sound and brightness can't tell whose fireworks they are.** Say
+  what counts as action and what doesn't.
 - **Opus over Sonnet.** Sonnet trims; Opus reframes and gets creative.
   The extra cost is about 1% of a week per clip.
 - **Loose prompts** get creativity, but also sloppy cuts and curvature.

@@ -4,7 +4,7 @@ tags: [editing, prompts, night]
 ---
 # Edit prompt: Fireworks
 
-!!! info "Current version: 3 (2026-11-22), not tested yet"
+!!! info "Current version: 4 (2026-11-22), not tested yet"
     Use **Opus**. Paste it into a new chat in the Claude desktop app, with
     the clip open in Insta360 Studio. See [How to run it](how-to-run.md).
 
@@ -13,9 +13,19 @@ Insta360 Studio is open with one 360 clip of a fireworks show. Edit it
 into a fun 16:9 clip with movement and creativity - not one fixed view
 for the whole thing.
 
-Keep EVERY firework - don't drop any bursts to make it shorter. Only
-cut the waiting and gaps between them. The length is whatever is left
-once the dead time is gone.
+These are mostly OUR OWN fireworks, set off by the family. What counts
+as action:
+- Our fireworks: bursts in the sky, and also the ground-level part -
+  someone lighting a fuse, a fountain, someone holding and shooting a
+  roman candle. Turn the camera to where each one is coming from, not
+  just the sky.
+- Distant fireworks (neighbours, across the street, far away) do NOT
+  count. If ours have stopped and only distant ones are going off while
+  we chat or get the next one ready, that's dead time - cut it.
+
+Keep EVERY one of our fireworks - don't drop any to make it shorter.
+Only cut the waiting and gaps between them. The length is whatever is
+left once the dead time is gone.
 
 If the clip still has edits from an earlier test, clear them all first
 (keyframes, cuts, speed changes, effects) and confirm it's clean.
@@ -39,10 +49,14 @@ Required - check each one before exporting:
    the edge - while still using the camera moves asked for above.
    Take a screenshot to confirm.
 2. CUT: remove the dead time (see below).
-3. TRANSITIONS AND EFFECTS: add a transition at the joins between cut
+3. CAMERA PASS: after cutting, go through every kept section one by
+   one and aim the view at where the action is in THAT section - it
+   moves around. Every section gets its own view and at least one move;
+   never leave the whole clip pointing one way.
+4. TRANSITIONS AND EFFECTS: add a transition at the joins between cut
    sections, and at least one effect at the best moment. Choose ones
    that suit the clip.
-In your report, confirm each of these 3 and say where you did it.
+In your report, confirm each of these 4 and say where you did it.
 
 Editing style (always):
 - Cut out dead time completely: setting up, waiting, people walking
@@ -95,7 +109,14 @@ used, and roughly where they are.
 - **Version 2** (strict prompt): it cut the dead time perfectly, but the
   camera never moved. Opus framed the fireworks and stayed put. Sonnet
   didn't even reframe.
-- **Version 3** keeps the cutting rules and the natural view, and asks
+- **Version 3** (Opus, plus the Studio know-how): "much better". It cut
+  well, but the view still never turned. It missed Ed's son shooting a
+  roman candle, and it kept gaps where only distant fireworks across the
+  street were going off.
+- **Version 4** says what counts as action (our fireworks, including
+  ground-level and hand-held ones, but not distant ones) and adds a
+  **camera pass** after the cuts: every kept section gets its own view.
+- **Version 3** also kept the cutting rules and the natural view, and asks
   for **specific camera moves**. Movement comes from pans, push-ins and
   pull-backs, not from curvature.
 

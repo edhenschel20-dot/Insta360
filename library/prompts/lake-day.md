@@ -76,9 +76,13 @@ Required for EACH clip - check before exporting:
 1. REFRAME: keep the subject (kids, action or view) well framed in
    16:9 - never stuck at the edge - while still using the moves above.
 2. CUT: remove the dead time (see below).
-3. TRANSITIONS AND EFFECTS: a transition at the joins between cut
+3. CAMERA PASS: after cutting, go through every kept section one by
+   one and aim the view at where the action is in THAT section - it
+   moves around. Every section gets its own view and at least one move;
+   never leave the whole clip pointing one way.
+4. TRANSITIONS AND EFFECTS: a transition at the joins between cut
    sections, and at least one effect at the best moment.
-4. EXPORT: 1080p, into Downloads\Lake\Edited, named after the
+5. EXPORT: 1080p, into Downloads\Lake\Edited, named after the
    original clip with "-edit" on the end.
 
 Editing style (always):

@@ -43,10 +43,14 @@ Required - check each one before exporting:
    the edge - while still using the camera moves asked for above.
    Take a screenshot to confirm.
 2. CUT: remove the dead time (see below).
-3. TRANSITIONS AND EFFECTS: add a transition at the joins between cut
+3. CAMERA PASS: after cutting, go through every kept section one by
+   one and aim the view at where the action is in THAT section - it
+   moves around. Every section gets its own view and at least one move;
+   never leave the whole clip pointing one way.
+4. TRANSITIONS AND EFFECTS: add a transition at the joins between cut
    sections, and at least one effect at the best moment. Choose ones
    that suit the clip.
-In your report, confirm each of these 3 and say where you did it.
+In your report, confirm each of these 4 and say where you did it.
 
 Editing style (always):
 - Cut out dead time completely: setting up, waiting, people walking
